@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-07T16:30:06.508Z",
+  "artists": [
+    {
+      "id": 53,
+      "nameKo": "노바",
+      "rank": "SSR",
+      "role": "댄서",
+      "genre": "R&B",
+      "genreLabel": "R&B",
+      "tier": "A",
+      "localImageFile": "images/artists/Nova.webp",
+      "currentLevel": 90,
+      "targetLevel": 100,
+      "includeCurrentPromotion": true,
+      "exp": 35500000,
+      "cards": 1600,
+      "gates": [
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nameKo": "오로라",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Pop",
+      "genreLabel": "팝",
+      "tier": "A",
+      "localImageFile": "images/artists/Aurora.webp",
+      "currentLevel": 11,
+      "targetLevel": 80,
+      "includeCurrentPromotion": false,
+      "exp": 38957000,
+      "cards": 1500,
+      "gates": [
+        {
+          "level": 20,
+          "cards": 50,
+          "included": true
+        },
+        {
+          "level": 30,
+          "cards": 100,
+          "included": true
+        },
+        {
+          "level": 40,
+          "cards": 200,
+          "included": true
+        },
+        {
+          "level": 50,
+          "cards": 450,
+          "included": true
+        },
+        {
+          "level": 60,
+          "cards": 700,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nameKo": "브루클린",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "Pop",
+      "genreLabel": "팝",
+      "tier": "D",
+      "localImageFile": "images/artists/Brooklyn.webp",
+      "currentLevel": 11,
+      "targetLevel": 60,
+      "includeCurrentPromotion": false,
+      "exp": 9407000,
+      "cards": 800,
+      "gates": [
+        {
+          "level": 20,
+          "cards": 50,
+          "included": true
+        },
+        {
+          "level": 30,
+          "cards": 100,
+          "included": true
+        },
+        {
+          "level": 40,
+          "cards": 200,
+          "included": true
+        },
+        {
+          "level": 50,
+          "cards": 450,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nameKo": "앨리스",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "tier": "A",
+      "localImageFile": "images/artists/Alice.webp",
+      "currentLevel": 85,
+      "targetLevel": 105,
+      "includeCurrentPromotion": true,
+      "exp": 71000000,
+      "cards": 3600,
+      "gates": [
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "nameKo": "페넬로페",
+      "rank": "SR",
+      "role": "센터",
+      "genre": "R&B",
+      "genreLabel": "R&B",
+      "tier": "B",
+      "localImageFile": "images/artists/Penelope.webp",
+      "currentLevel": 60,
+      "targetLevel": 100,
+      "includeCurrentPromotion": false,
+      "exp": 90550000,
+      "cards": 3200,
+      "gates": [
+        {
+          "level": 60,
+          "cards": 700,
+          "included": false
+        },
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "exp": 245414000,
+    "cards": 10700,
+    "cardsByRank": [
+      {
+        "rank": "SSR",
+        "cards": 7500
+      },
+      {
+        "rank": "SR",
+        "cards": 3200
+      }
+    ]
+  }
+}

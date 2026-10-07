@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f5f1">
+  <title>TOPGIRL · 육성 계산 공유</title>
+  <style>
+    :root{font-family:Arial,"Malgun Gothic","Apple SD Gothic Neo",sans-serif;color:#252824;background:#f5f5f1;font-synthesis:none}*{box-sizing:border-box}body{margin:0}.shell{max-width:1050px;margin:auto;padding:0 26px 60px}.topbar{height:70px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e5e6df}.brand{display:flex;gap:10px;align-items:center;color:inherit;text-decoration:none}.mark{display:grid;place-items:center;width:36px;height:36px;border-radius:11px;background:#355c41;color:white;font-weight:800}.brand b,.brand small{display:block}.brand b{font-size:14px;letter-spacing:1.5px}.brand small{font-size:9px;color:#989b93;letter-spacing:1.5px;margin-top:2px}.back{color:#55745b;font-size:12px;text-decoration:none}.heading{padding:34px 0 24px}.eyebrow{color:#969991;font-size:10px;font-weight:700;letter-spacing:1.6px}h1{font-size:29px;letter-spacing:-1px;margin:8px 0 6px}.sub{color:#777c74;font-size:13px;margin:0}.stamp{color:#8e928a;font-size:11px;margin-top:12px}.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin-bottom:16px}.total{background:white;border:1px solid #e5e6df;border-radius:12px;padding:14px}.total small,.total b{display:block}.total small{font-size:10px;color:#8e928a}.total b{font-size:18px;margin-top:7px}.list{display:grid;gap:10px}.row{display:grid;grid-template-columns:minmax(190px,1.2fr) minmax(115px,.7fr) minmax(135px,.8fr) minmax(110px,.6fr);gap:12px;align-items:center;background:white;border:1px solid #e5e6df;border-radius:13px;padding:13px}.identity{display:flex;align-items:center;gap:10px;min-width:0}.portrait{width:48px;height:48px;flex:none;border-radius:50%;object-fit:cover;background:#eceee8}.name{min-width:0}.name b,.name small{display:block}.name b{font-size:13px}.name small{font-size:10px;color:#858a82;margin-top:4px}.levels small,.resource small{display:block;color:#858a82;font-size:9px}.levels b,.resource b{display:block;font-size:12px;margin-top:5px}.resource{text-align:right}.empty,.error{padding:30px;background:white;border:1px solid #e5e6df;border-radius:12px;color:#777;text-align:center}.note{color:#898d85;font-size:11px;line-height:1.6;margin-top:18px}.footer{color:#969991;font-size:10px;text-align:center;margin-top:30px}@media(max-width:680px){.shell{padding:0 15px 45px}.row{grid-template-columns:minmax(0,1fr) auto;gap:11px}.identity{grid-column:1/-1}.resource{text-align:left}.levels small,.resource small{font-size:10px}.levels b,.resource b{font-size:13px}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar"><a class="brand" href="./"><span class="mark">TG</span><span><b>TOPGIRL</b><small>LEVEL PLAN · PUBLIC SNAPSHOT</small></span></a><a class="back" href="./">아티스트 도감으로</a></header>
+    <section class="heading"><div class="eyebrow">LEVEL PLANNER</div><h1>육성 계산 공유</h1><p class="sub">로컬 앱에서 마지막으로 공개 게시한 육성 계산 내용입니다.</p><div class="stamp" id="stamp">계산 정보를 불러오는 중…</div></section>
+    <section class="summary" id="summary"></section>
+    <section class="list" id="list"></section>
+    <p class="note">이 페이지에는 공개 게시 시 선택된 아티스트와 레벨 계산 정보만 표시됩니다. 보유 목록이나 호감도 정보는 포함되지 않습니다.</p>
+    <footer class="footer">TOPGIRL · GitHub Pages</footer>
+  </main>
+  <script>
+    const number = value => Number(value || 0).toLocaleString("ko-KR");
+    const compact = value => { const n=Number(value||0); return n>=1000000?(n/1000000).toFixed(1).replace(/\.0$/,"")+"M":n>=1000?(n/1000).toFixed(1).replace(/\.0$/,"")+"K":number(n); };
+    const box = (label,value) => { const el=document.createElement("div"); el.className="total"; const small=document.createElement("small"); small.textContent=label; const bold=document.createElement("b"); bold.textContent=value; el.append(small,bold); return el; };
+    async function loadPlan(){
+      const list=document.getElementById("list"), summary=document.getElementById("summary"), stamp=document.getElementById("stamp");
+      try {
+        const response=await fetch("./level-plan.json?updated="+Date.now(),{cache:"no-store"}); if(!response.ok) throw new Error("공개 계산 정보를 불러오지 못했습니다.");
+        const data=await response.json();
+        if(!data.updatedAt){stamp.textContent="아직 공개된 계산 정보가 없습니다."; list.className="empty"; list.textContent="로컬 앱의 육성 계산 페이지에서 GitHub Pages 공개 게시 버튼을 눌러주세요."; return;}
+        stamp.textContent="마지막 게시 · "+new Date(data.updatedAt).toLocaleString("ko-KR",{timeZone:"Asia/Seoul"});
+        summary.append(box("선택 아티스트",number(data.artists.length)+"명"),box("필요 EXP",compact(data.totals.exp)+" ("+number(data.totals.exp)+")"),box("필요 돌파 카드",compact(data.totals.cards)+" ("+number(data.totals.cards)+")"));
+        for(const item of data.totals.cardsByRank){summary.append(box(item.rank+" 카드",number(item.cards)+"장"));}
+        for(const item of data.artists){
+          const row=document.createElement("article"); row.className="row";
+          const identity=document.createElement("div"); identity.className="identity";
+          if(item.localImageFile){const img=document.createElement("img");img.className="portrait";img.alt="";img.src="./"+item.localImageFile.split("/").map(encodeURIComponent).join("/");identity.append(img);}
+          const name=document.createElement("div");name.className="name";const title=document.createElement("b");title.textContent=item.nameKo;const meta=document.createElement("small");meta.textContent=[item.rank,item.genreLabel,item.role,item.tier].join(" · ");name.append(title,meta);identity.append(name);
+          const levels=document.createElement("div");levels.className="levels";const currentLabel=document.createElement("small");currentLabel.textContent="현재 레벨";const current=document.createElement("b");current.textContent="Lv."+item.currentLevel;levels.append(currentLabel,current);
+          const target=document.createElement("div");target.className="levels";const targetLabel=document.createElement("small");targetLabel.textContent="목표 레벨";const targetValue=document.createElement("b");targetValue.textContent="Lv."+item.targetLevel;target.append(targetLabel,targetValue);
+          const resource=document.createElement("div");resource.className="resource";const exp=document.createElement("small");exp.textContent="필요 EXP";const expValue=document.createElement("b");expValue.textContent=compact(item.exp)+" EXP";const cards=document.createElement("small");cards.style.marginTop="6px";cards.textContent="돌파 카드 "+number(item.cards);resource.append(exp,expValue,cards);if(item.gates.some(gate=>gate.level===item.currentLevel)){const currentGate=document.createElement("small");currentGate.style.marginTop="4px";currentGate.textContent=item.includeCurrentPromotion?"현재 레벨 돌파 포함":"현재 레벨 돌파 제외";resource.append(currentGate);}row.append(identity,levels,target,resource);list.append(row);
+        }
+      } catch(error){ list.className="error"; list.textContent=error instanceof Error?error.message:"계산 정보를 불러오지 못했습니다."; }
+    }
+    loadPlan();
+  </script>
+</body>
+</html>
