@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T16:36:35.401Z",
+  "updatedAt": "2026-10-07T16:52:21.782Z",
   "artists": [
     {
       "id": 53,
@@ -200,7 +200,6 @@
   ],
   "totals": {
     "exp": 270914000,
-    "cards": 12300,
     "cardsByRank": [
       {
         "rank": "SSR",
