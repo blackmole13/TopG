@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T16:30:06.508Z",
+  "updatedAt": "2026-10-07T16:36:35.401Z",
   "artists": [
     {
       "id": 53,
@@ -39,10 +39,10 @@
       "tier": "A",
       "localImageFile": "images/artists/Aurora.webp",
       "currentLevel": 11,
-      "targetLevel": 80,
+      "targetLevel": 90,
       "includeCurrentPromotion": false,
-      "exp": 38957000,
-      "cards": 1500,
+      "exp": 64457000,
+      "cards": 3100,
       "gates": [
         {
           "level": 20,
@@ -67,6 +67,16 @@
         {
           "level": 60,
           "cards": 700,
+          "included": true
+        },
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
           "included": true
         }
       ]
@@ -189,12 +199,12 @@
     }
   ],
   "totals": {
-    "exp": 245414000,
-    "cards": 10700,
+    "exp": 270914000,
+    "cards": 12300,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 7500
+        "cards": 9100
       },
       {
         "rank": "SR",
