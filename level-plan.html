@@ -29,8 +29,8 @@
         const data=await response.json();
         if(!data.updatedAt){stamp.textContent="아직 공개된 계산 정보가 없습니다."; list.className="empty"; list.textContent="로컬 앱의 육성 계산 페이지에서 GitHub Pages 공개 게시 버튼을 눌러주세요."; return;}
         stamp.textContent="마지막 게시 · "+new Date(data.updatedAt).toLocaleString("ko-KR",{timeZone:"Asia/Seoul"});
-        summary.append(box("선택 아티스트",number(data.artists.length)+"명"),box("필요 EXP",compact(data.totals.exp)+" ("+number(data.totals.exp)+")"),box("필요 돌파 카드",compact(data.totals.cards)+" ("+number(data.totals.cards)+")"));
-        for(const item of data.totals.cardsByRank){summary.append(box(item.rank+" 카드",number(item.cards)+"장"));}
+        summary.append(box("선택 아티스트",number(data.artists.length)+"명"),box("필요 EXP",compact(data.totals.exp)+" ("+number(data.totals.exp)+")"));
+        for(const rank of ["SSR","SR"]){const item=data.totals.cardsByRank.find(entry=>entry.rank===rank);summary.append(box(rank+" 카드",number(item?.cards)+"장"));}
         for(const item of data.artists){
           const row=document.createElement("article"); row.className="row";
           const identity=document.createElement("div"); identity.className="identity";
