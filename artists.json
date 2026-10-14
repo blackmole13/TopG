@@ -4634,7 +4634,7 @@
     "danceStat": null,
     "skills": [
       "10 sec/300 Damage",
-      "5% Damage Reduction"
+      "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Center from None.",
@@ -4653,15 +4653,15 @@
         "displayTextKo": "10초간 주기 피해 300"
       },
       {
-        "sourceText": "5% Damage Reduction",
-        "normalizedText": "5% Damage Reduction",
-        "category": "피해 감소",
-        "effectType": "incoming_damage_reduction",
-        "direction": "reduce",
-        "value": 5,
+        "sourceText": "20% Gold Brick Gather Speed",
+        "normalizedText": "20% Gold Brick Gather Speed",
+        "category": "경제/골드 수집",
+        "effectType": "gold_gathering_speed_increase",
+        "direction": "increase",
+        "value": 20,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "displayTextKo": "받는 피해 -5%"
+        "displayTextKo": "골드 수집 속도 +20%"
       }
     ]
   },
