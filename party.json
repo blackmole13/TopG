@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-14T15:50:07.447Z",
+  "genre": "Hip Hop",
+  "genreLabel": "힙합",
+  "members": [
+    {
+      "slot": "메인 · 댄서",
+      "artist": {
+        "id": 16,
+        "nameKo": "에이버리",
+        "tier": "S",
+        "role": "댄서",
+        "rank": "SSR",
+        "rankColor": "#fbbf24",
+        "tierColor": "#ed873d",
+        "localImageFile": "images/artists/Avery.webp"
+      }
+    },
+    {
+      "slot": "메인 · 센터",
+      "artist": {
+        "id": 13,
+        "nameKo": "오드리",
+        "tier": "A",
+        "role": "센터",
+        "rank": "SSR",
+        "rankColor": "#fbbf24",
+        "tierColor": "#d5ad24",
+        "localImageFile": "images/artists/Audrey.webp"
+      }
+    },
+    {
+      "slot": "메인 · 보컬",
+      "artist": {
+        "id": 18,
+        "nameKo": "아야카",
+        "tier": "S",
+        "role": "보컬",
+        "rank": "SSR",
+        "rankColor": "#fbbf24",
+        "tierColor": "#ed873d",
+        "localImageFile": "images/artists/Ayaka.webp"
+      }
+    },
+    {
+      "slot": "서브 1",
+      "artist": {
+        "id": 73,
+        "nameKo": "벨라",
+        "tier": "B",
+        "role": "보컬",
+        "rank": "SSR",
+        "rankColor": "#fbbf24",
+        "tierColor": "#4e9b62",
+        "localImageFile": "images/artists/Bella.webp"
+      }
+    },
+    {
+      "slot": "서브 2",
+      "artist": {
+        "id": 41,
+        "nameKo": "레일라니",
+        "tier": "B",
+        "role": "댄서",
+        "rank": "SSR",
+        "rankColor": "#fbbf24",
+        "tierColor": "#4e9b62",
+        "localImageFile": "images/artists/Leilani.webp"
+      }
+    }
+  ],
+  "skillTotals": [
+    {
+      "label": "팬 수용량 증가",
+      "value": 10,
+      "unit": "percent",
+      "sign": 1,
+      "sources": [
+        {
+          "nameKo": "벨라",
+          "localImageFile": "images/artists/Bella.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    },
+    {
+      "label": "받는 기본 공격 피해 감소",
+      "value": 24,
+      "unit": "percent",
+      "sign": -1,
+      "sources": [
+        {
+          "nameKo": "에이버리",
+          "localImageFile": "images/artists/Avery.webp",
+          "rankColor": "#fbbf24"
+        },
+        {
+          "nameKo": "아야카",
+          "localImageFile": "images/artists/Ayaka.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    },
+    {
+      "label": "받는 스킬 피해 감소",
+      "value": 36,
+      "unit": "percent",
+      "sign": -1,
+      "sources": [
+        {
+          "nameKo": "에이버리",
+          "localImageFile": "images/artists/Avery.webp",
+          "rankColor": "#fbbf24"
+        },
+        {
+          "nameKo": "오드리",
+          "localImageFile": "images/artists/Audrey.webp",
+          "rankColor": "#fbbf24"
+        },
+        {
+          "nameKo": "아야카",
+          "localImageFile": "images/artists/Ayaka.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    },
+    {
+      "label": "기본 공격 피해 증가",
+      "value": 50,
+      "unit": "percent",
+      "sign": 1,
+      "sources": [
+        {
+          "nameKo": "레일라니",
+          "localImageFile": "images/artists/Leilani.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    },
+    {
+      "label": "스킬 피해 증가",
+      "value": 40,
+      "unit": "percent",
+      "sign": 1,
+      "sources": [
+        {
+          "nameKo": "벨라",
+          "localImageFile": "images/artists/Bella.webp",
+          "rankColor": "#fbbf24"
+        },
+        {
+          "nameKo": "레일라니",
+          "localImageFile": "images/artists/Leilani.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    },
+    {
+      "label": "월드 건물 경비 피해 증가",
+      "value": 30,
+      "unit": "percent",
+      "sign": 1,
+      "sources": [
+        {
+          "nameKo": "오드리",
+          "localImageFile": "images/artists/Audrey.webp",
+          "rankColor": "#fbbf24"
+        }
+      ]
+    }
+  ]
+}
