@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T17:33:53.266Z",
+  "updatedAt": "2026-10-15T17:37:19.058Z",
   "slots": [
     "메인 · 댄서",
     "메인 · 센터",
@@ -10,17 +10,8 @@
   ],
   "genres": [
     {
-      "version": 1,
-      "updatedAt": "2026-10-15T17:15:35.194Z",
       "genre": "Hip Hop",
       "genreLabel": "힙합",
-      "slots": [
-        "메인 · 댄서",
-        "메인 · 센터",
-        "메인 · 보컴",
-        "서브 1 (선택)",
-        "서브 2 (선택)"
-      ],
       "seasons": [
         {
           "season": "초기",
@@ -2089,6 +2080,5857 @@
               "skills": [
                 "기본 공격 피해 +80%",
                 "팬 수용량 +16%"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "R&B",
+      "genreLabel": "R&B",
+      "seasons": [
+        {
+          "season": "초기",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 72,
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Zendayah.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 53,
+              "nameKo": "노바",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Nova.webp"
+            },
+            {
+              "id": 92,
+              "nameKo": "페넬로페",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "localImageFile": "images/artists/Penelope.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트",
+                "노바",
+                "페넬로페"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "노바"
+              ]
+            },
+            {
+              "label": "팬 수용량 +2%",
+              "value": 2,
+              "unit": "percent",
+              "sources": [
+                "페넬로페"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 5,
+              "name": "Marguerite",
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 36,
+              "name": "Julia",
+              "nameKo": "줄리아",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Julia.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "드라이브 속도 +75%"
+              ]
+            },
+            {
+              "id": 39,
+              "name": "Kesnia",
+              "nameKo": "케스니아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 19076,
+              "danceStat": 25851,
+              "localImageFile": "images/artists/Kesnia.webp",
+              "skills": [
+                "골드 수집 속도 +40%",
+                "골드 수집 속도 +40%"
+              ]
+            },
+            {
+              "id": 53,
+              "name": "Nova",
+              "nameKo": "노바",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 22464,
+              "danceStat": 22464,
+              "localImageFile": "images/artists/Nova.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 72,
+              "name": "Zendayah",
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 19076,
+              "danceStat": 25851,
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
+            },
+            {
+              "id": 79,
+              "name": "Aria",
+              "nameKo": "아리아",
+              "tier": "C",
+              "rank": "SR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Aria.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
+            },
+            {
+              "id": 87,
+              "name": "Hazel",
+              "nameKo": "헤이즐",
+              "tier": "C",
+              "rank": "SR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Hazel.webp",
+              "skills": [
+                "골드 수집 속도 +30%",
+                "스킬 피해 +10%"
+              ]
+            },
+            {
+              "id": 92,
+              "name": "Penelope",
+              "nameKo": "페넬로페",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Penelope.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
+            },
+            {
+              "id": 93,
+              "name": "Samantha",
+              "nameKo": "사만다",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Samantha.webp",
+              "skills": [
+                "받는 스킬 피해 -5%",
+                "드라이브 속도 +40%"
+              ]
+            },
+            {
+              "id": 102,
+              "name": "Isabella",
+              "nameKo": "이사벨라",
+              "tier": "C",
+              "rank": "R",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Isabella.webp",
+              "skills": [
+                "골드 수집 속도 +20%"
+              ]
+            },
+            {
+              "id": 116,
+              "name": "Elizabeth",
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 1",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 72,
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Zendayah.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 53,
+              "nameKo": "노바",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Nova.webp"
+            },
+            {
+              "id": 92,
+              "nameKo": "페넬로페",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "localImageFile": "images/artists/Penelope.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트",
+                "노바",
+                "페넬로페"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "노바"
+              ]
+            },
+            {
+              "label": "팬 수용량 +2%",
+              "value": 2,
+              "unit": "percent",
+              "sources": [
+                "페넬로페"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 65,
+              "name": "Sora",
+              "nameKo": "소라",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "도쿄 1",
+              "experienceBonus": 0,
+              "singStat": 29023,
+              "danceStat": 20893,
+              "localImageFile": "images/artists/Sora.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 1",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 72,
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Zendayah.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            },
+            {
+              "id": 92,
+              "nameKo": "페넬로페",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "localImageFile": "images/artists/Penelope.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트",
+                "라티",
+                "페넬로페"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            },
+            {
+              "label": "팬 수용량 +2%",
+              "value": 2,
+              "unit": "percent",
+              "sources": [
+                "페넬로페"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 52,
+              "name": "Noora",
+              "nameKo": "누라",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Noora.webp",
+              "skills": [
+                "골드 수집 속도 +40%",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 56,
+              "name": "Ratih",
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 20893,
+              "danceStat": 29023,
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 1",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 72,
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Zendayah.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            },
+            {
+              "id": 28,
+              "nameKo": "에이레네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Eirene.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 200,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트",
+                "라티",
+                "에이레네"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "라티",
+                "에이레네"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 28,
+              "name": "Eirene",
+              "nameKo": "에이레네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "로마 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Eirene.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 2",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 72,
+              "nameKo": "젠다이아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Zendayah.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            },
+            {
+              "id": 28,
+              "nameKo": "에이레네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Eirene.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 200,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트",
+                "라티",
+                "에이레네"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "젠다이아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "라티",
+                "에이레네"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "발리 2",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 27,
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Dewi.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            },
+            {
+              "id": 28,
+              "nameKo": "에이레네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Eirene.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 64,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 260,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트",
+                "라티",
+                "에이레네"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "라티",
+                "에이레네"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 27,
+              "name": "Dewi",
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 2",
+              "experienceBonus": 20,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 2",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 27,
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Dewi.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 64,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 210,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 25,
+              "name": "Cornelia",
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "로마 2",
+              "experienceBonus": 20,
+              "singStat": 25071,
+              "danceStat": 34827,
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 3",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 27,
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Dewi.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 64,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 210,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 29,
+              "name": "Eri",
+              "nameKo": "에리",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "도쿄 3",
+              "experienceBonus": 20,
+              "singStat": 25071,
+              "danceStat": 34827,
+              "localImageFile": "images/artists/Eri.webp",
+              "skills": [
+                "팬 수용량 +12%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 3",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 27,
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Dewi.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 64,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 210,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "로마 3",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 27,
+              "nameKo": "데위",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Dewi.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 64,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 210,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "데위",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "도쿄 4",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 220,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 17,
+              "name": "Aya",
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "도쿄 4",
+              "experienceBonus": 44,
+              "singStat": 35540,
+              "danceStat": 35540,
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 4",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 220,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 67,
+              "name": "Valentina",
+              "nameKo": "발렌티나",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "발리 4",
+              "experienceBonus": 44,
+              "singStat": 26071,
+              "danceStat": 40154,
+              "localImageFile": "images/artists/Valentina.webp",
+              "skills": [
+                "팬 수용량 +14%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 4",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            },
+            {
+              "id": 56,
+              "nameKo": "라티",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ratih.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 220,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트",
+                "라티"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "라티"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "도쿄 5",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 118,
+              "nameKo": "레나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Rena.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +32%",
+              "value": 32,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 118,
+              "name": "Rena",
+              "nameKo": "레나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "도쿄 5",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Rena.webp",
+              "skills": [
+                "플레이어 피해 +32%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 5",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 118,
+              "nameKo": "레나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Rena.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +32%",
+              "value": 32,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "로마 5",
+          "members": [
+            {
+              "id": 116,
+              "nameKo": "엘리자베스",
+              "tier": "S",
+              "rank": "UR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Elizabeth.webp"
+            },
+            {
+              "id": 17,
+              "nameKo": "아야",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aya.webp"
+            },
+            {
+              "id": 118,
+              "nameKo": "레나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Rena.webp"
+            },
+            {
+              "id": 5,
+              "nameKo": "마르그리트",
+              "tier": "A",
+              "rank": "UR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Marguerite.webp"
+            },
+            {
+              "id": 25,
+              "nameKo": "코넬리아",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Cornelia.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 170,
+              "unit": "percent",
+              "sources": [
+                "엘리자베스",
+                "아야",
+                "마르그리트"
+              ]
+            },
+            {
+              "label": "팬 수용량 +14%",
+              "value": 14,
+              "unit": "percent",
+              "sources": [
+                "아야"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +32%",
+              "value": 32,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "레나"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +240",
+              "value": 240,
+              "unit": "dps",
+              "sources": [
+                "코넬리아"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "코넬리아"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 126,
+              "name": "Nephtys",
+              "nameKo": "네프티스",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "로마 5",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Nephtys.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +16%"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "Rock",
+      "genreLabel": "락",
+      "seasons": [
+        {
+          "season": "초기",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 64,
+              "nameKo": "스카일러",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Skylar.webp"
+            },
+            {
+              "id": 80,
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Chloe.webp"
+            },
+            null
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "스카일러"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 70,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "클로이"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +30%",
+              "value": 30,
+              "unit": "percent",
+              "sources": [
+                "스카일러"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +40%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클로이"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 2,
+              "name": "Genevieve",
+              "nameKo": "제너비브",
+              "tier": "A",
+              "rank": "UR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 19076,
+              "danceStat": 25851,
+              "localImageFile": "images/artists/Genevieve.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            },
+            {
+              "id": 23,
+              "name": "Claire",
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 22464,
+              "danceStat": 22464,
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 55,
+              "name": "Paisley",
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 19076,
+              "danceStat": 25851,
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            },
+            {
+              "id": 64,
+              "name": "Skylar",
+              "nameKo": "스카일러",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Skylar.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "월드 빌딩 가드 피해 +30%"
+              ]
+            },
+            {
+              "id": 80,
+              "name": "Chloe",
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
+            },
+            {
+              "id": 85,
+              "name": "Grace",
+              "nameKo": "그레이스",
+              "tier": "B",
+              "rank": "SR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Grace.webp",
+              "skills": [
+                "받는 피해 -5%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
+            },
+            {
+              "id": 86,
+              "name": "Hailey",
+              "nameKo": "헤일리",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Hailey.webp",
+              "skills": [
+                "골드 수집 속도 +30%",
+                "스킬 피해 +10%"
+              ]
+            },
+            {
+              "id": 95,
+              "name": "Scarlett",
+              "nameKo": "스칼렛",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Scarlett.webp",
+              "skills": [
+                "받는 스킬 피해 -5%",
+                "팬 수용량 +2%"
+              ]
+            },
+            {
+              "id": 105,
+              "name": "Sophia",
+              "nameKo": "소피아",
+              "tier": "C",
+              "rank": "R",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Sophia.webp",
+              "skills": [
+                "기본 공격 피해 +10%"
+              ]
+            },
+            {
+              "id": 107,
+              "name": "Annabelle",
+              "nameKo": "안나벨",
+              "tier": "C",
+              "rank": "R",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Annabelle.webp",
+              "skills": [
+                "골드 수집 속도 +20%"
+              ]
+            },
+            {
+              "id": 117,
+              "name": "Gabriella",
+              "nameKo": "가브리엘라",
+              "tier": "S",
+              "rank": "UR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Gabriella.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 1",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 64,
+              "nameKo": "스카일러",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Skylar.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            },
+            {
+              "id": 80,
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Chloe.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "스카일러"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 120,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "유코",
+                "클로이"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +30%",
+              "value": 30,
+              "unit": "percent",
+              "sources": [
+                "스카일러"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +40%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클로이"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 71,
+              "name": "Yuuko",
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "도쿄 1",
+              "experienceBonus": 0,
+              "singStat": 20893,
+              "danceStat": 29023,
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 1",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 64,
+              "nameKo": "스카일러",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Skylar.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            },
+            {
+              "id": 80,
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Chloe.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "스카일러"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 120,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "유코",
+                "클로이"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +30%",
+              "value": 30,
+              "unit": "percent",
+              "sources": [
+                "스카일러"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +40%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클로이"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 38,
+              "name": "Kelly",
+              "nameKo": "켈리",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 19033,
+              "danceStat": 10903,
+              "localImageFile": "images/artists/Kelly.webp",
+              "skills": [
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
+              ]
+            },
+            {
+              "id": 46,
+              "name": "Melissa",
+              "nameKo": "멜리사",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Mellissa.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            },
+            {
+              "id": 66,
+              "name": "Talia",
+              "nameKo": "탈리아",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Talia.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 1",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 64,
+              "nameKo": "스카일러",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Skylar.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            },
+            {
+              "id": 80,
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Chloe.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "스카일러"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 120,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "유코",
+                "클로이"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +30%",
+              "value": 30,
+              "unit": "percent",
+              "sources": [
+                "스카일러"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +40%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클로이"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 20,
+              "name": "Calliope",
+              "nameKo": "칼리오페",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "로마 1",
+              "experienceBonus": 0,
+              "singStat": 29023,
+              "danceStat": 20893,
+              "localImageFile": "images/artists/Calliope.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 2",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            },
+            {
+              "id": 80,
+              "nameKo": "클로이",
+              "tier": "C",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Chloe.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "클레어"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 120,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "유코",
+                "클로이"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "리쿠"
+              ]
+            },
+            {
+              "label": "드라이브 속도 +40%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "클로이"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 57,
+              "name": "Riku",
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "도쿄 2",
+              "experienceBonus": 0,
+              "singStat": 34827,
+              "danceStat": 25071,
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 2",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "클레어"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 160,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "카샤",
+                "유코"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 48,
+              "unit": "percent",
+              "sources": [
+                "리쿠",
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 37,
+              "name": "Kasha",
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "발리 2",
+              "experienceBonus": 20,
+              "singStat": 25071,
+              "danceStat": 34827,
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 2",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Claire.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "페이즐리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠",
+                "유코"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "클레어"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 160,
+              "unit": "percent",
+              "sources": [
+                "클레어",
+                "카샤",
+                "유코"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 48,
+              "unit": "percent",
+              "sources": [
+                "리쿠",
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "도쿄 3",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠",
+                "유코"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 72,
+              "unit": "percent",
+              "sources": [
+                "히카리",
+                "리쿠",
+                "카샤"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 110,
+              "unit": "percent",
+              "sources": [
+                "카샤",
+                "유코"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 34,
+              "name": "Hikari",
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "도쿄 3",
+              "experienceBonus": 20,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 3",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 71,
+              "nameKo": "유코",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Yuuko.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠",
+                "유코"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 72,
+              "unit": "percent",
+              "sources": [
+                "히카리",
+                "리쿠",
+                "카샤"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 110,
+              "unit": "percent",
+              "sources": [
+                "카샤",
+                "유코"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 68,
+              "name": "Vivienne",
+              "nameKo": "비비엔",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "발리 3",
+              "experienceBonus": 20,
+              "singStat": 25071,
+              "danceStat": 34827,
+              "localImageFile": "images/artists/Vivienne.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 3",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 10,
+              "nameKo": "안토니아",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Antonia.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 72,
+              "unit": "percent",
+              "sources": [
+                "히카리",
+                "리쿠",
+                "카샤"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            },
+            {
+              "label": "스킬 피해 +24%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "안토니아"
+              ]
+            },
+            {
+              "label": "팬 수용량 +12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "안토니아"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 10,
+              "name": "Antonia",
+              "nameKo": "안토니아",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "로마 3",
+              "experienceBonus": 20,
+              "singStat": 25071,
+              "danceStat": 34827,
+              "localImageFile": "images/artists/Antonia.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "팬 수용량 +12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 4",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 10,
+              "nameKo": "안토니아",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Antonia.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +24%",
+              "value": 72,
+              "unit": "percent",
+              "sources": [
+                "히카리",
+                "리쿠",
+                "카샤"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            },
+            {
+              "label": "스킬 피해 +24%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "안토니아"
+              ]
+            },
+            {
+              "label": "팬 수용량 +12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "안토니아"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "발리 4",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 63,
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sienna.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "시에나",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +28%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "시에나",
+                "리쿠",
+                "카샤",
+                "히카리"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 63,
+              "name": "Sienna",
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 4",
+              "experienceBonus": 44,
+              "singStat": 33542,
+              "danceStat": 33542,
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 4",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 63,
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sienna.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "시에나",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +28%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "시에나",
+                "리쿠",
+                "카샤",
+                "히카리"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 113,
+              "name": "Valerie",
+              "nameKo": "발레리",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "로마 4",
+              "experienceBonus": 44,
+              "singStat": 14083,
+              "danceStat": 28166,
+              "localImageFile": "images/artists/Valerie.webp",
+              "skills": [
+                "받는 기본 공격 피해 -12%",
+                "스킬 피해 +28%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 5",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 63,
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sienna.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "시에나",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +28%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "시에나",
+                "리쿠",
+                "카샤",
+                "히카리"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "발리 5",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 63,
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sienna.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "시에나",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +28%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "시에나",
+                "리쿠",
+                "카샤",
+                "히카리"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 121,
+              "name": "Momosaki",
+              "nameKo": "모모사키",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "발리 5",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Momosaki.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +36%",
+                "받는 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 5",
+          "members": [
+            {
+              "id": 55,
+              "nameKo": "페이즐리",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Paisley.webp"
+            },
+            {
+              "id": 63,
+              "nameKo": "시에나",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sienna.webp"
+            },
+            {
+              "id": 57,
+              "nameKo": "리쿠",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Riku.webp"
+            },
+            {
+              "id": 37,
+              "nameKo": "카샤",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Kasha.webp"
+            },
+            {
+              "id": 34,
+              "nameKo": "히카리",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Hikari.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "시에나",
+                "히카리"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "페이즐리",
+                "리쿠"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +28%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "시에나",
+                "리쿠",
+                "카샤",
+                "히카리"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +60%",
+              "value": 60,
+              "unit": "percent",
+              "sources": [
+                "카샤"
+              ]
+            }
+          ],
+          "newCandidates": []
+        }
+      ]
+    },
+    {
+      "genre": "Pop",
+      "genreLabel": "팝",
+      "seasons": [
+        {
+          "season": "초기",
+          "members": [
+            {
+              "id": 62,
+              "nameKo": "사바나",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Savannah.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            },
+            {
+              "id": 19,
+              "nameKo": "브루클린",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Brooklyn.webp"
+            },
+            {
+              "id": 84,
+              "nameKo": "에블린",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "localImageFile": "images/artists/Evelyn.webp"
+            },
+            {
+              "id": 83,
+              "nameKo": "에밀리",
+              "tier": "B",
+              "rank": "SR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Emily.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "회사 공격 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "사바나"
+              ]
+            },
+            {
+              "label": "팬 수용량 +10%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "사바나",
+                "에블린"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 70,
+              "unit": "percent",
+              "sources": [
+                "오로라",
+                "에블린"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "브루클린"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +36%",
+              "value": 51,
+              "unit": "percent",
+              "sources": [
+                "브루클린",
+                "에밀리"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -5%",
+              "value": 5,
+              "unit": "percent",
+              "sources": [
+                "에밀리"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 1,
+              "name": "Alexandra",
+              "nameKo": "알렉산드라",
+              "tier": "A",
+              "rank": "UR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Alexandra.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 15,
+              "name": "Aurora",
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 22464,
+              "danceStat": 22464,
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            },
+            {
+              "id": 19,
+              "name": "Brooklyn",
+              "nameKo": "브루클린",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Brooklyn.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "월드 빌딩 가드 피해 +36%"
+              ]
+            },
+            {
+              "id": 62,
+              "name": "Savannah",
+              "nameKo": "사바나",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 19076,
+              "danceStat": 25851,
+              "localImageFile": "images/artists/Savannah.webp",
+              "skills": [
+                "회사 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
+            },
+            {
+              "id": 77,
+              "name": "Abigail",
+              "nameKo": "애버게일",
+              "tier": "C",
+              "rank": "SR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Abigail.webp",
+              "skills": [
+                "스킬 피해 +10%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
+            },
+            {
+              "id": 78,
+              "name": "Angelina",
+              "nameKo": "안젤리나",
+              "tier": "C",
+              "rank": "SR",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Angelina.webp",
+              "skills": [
+                "골드 수집 속도 +30%",
+                "기본 공격 피해 +20%"
+              ]
+            },
+            {
+              "id": 83,
+              "name": "Emily",
+              "nameKo": "에밀리",
+              "tier": "B",
+              "rank": "SR",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Emily.webp",
+              "skills": [
+                "받는 스킬 피해 -5%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
+            },
+            {
+              "id": 84,
+              "name": "Evelyn",
+              "nameKo": "에블린",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Evelyn.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
+            },
+            {
+              "id": 91,
+              "name": "Natalie",
+              "nameKo": "나탈리",
+              "tier": "C",
+              "rank": "SR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Natalie.webp",
+              "skills": [
+                "골드 수집 속도 +30%",
+                "스킬 피해 +10%"
+              ]
+            },
+            {
+              "id": 104,
+              "name": "Emma",
+              "nameKo": "엠마",
+              "tier": "C",
+              "rank": "R",
+              "role": "댄서",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Emma.webp",
+              "skills": [
+                "스킬 피해 +5%"
+              ]
+            },
+            {
+              "id": 106,
+              "name": "Mia",
+              "nameKo": "미아",
+              "tier": "C",
+              "rank": "R",
+              "role": "보컬",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Mia.webp",
+              "skills": [
+                "골드 수집 속도 +20%"
+              ]
+            },
+            {
+              "id": 114,
+              "name": "Anastasia",
+              "nameKo": "아나스타샤",
+              "tier": "A",
+              "rank": "UR",
+              "role": "센터",
+              "season": "초기",
+              "experienceBonus": 0,
+              "singStat": 25851,
+              "danceStat": 19076,
+              "localImageFile": "images/artists/Anastasia.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 1",
+          "members": [
+            {
+              "id": 62,
+              "nameKo": "사바나",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Savannah.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 19,
+              "nameKo": "브루클린",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Brooklyn.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            },
+            {
+              "id": 84,
+              "nameKo": "에블린",
+              "tier": "B",
+              "rank": "SR",
+              "role": "센터",
+              "localImageFile": "images/artists/Evelyn.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "회사 공격 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "사바나"
+              ]
+            },
+            {
+              "label": "팬 수용량 +10%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "사바나",
+                "에블린"
+              ]
+            },
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "방어 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
+              "sources": [
+                "브루클린"
+              ]
+            },
+            {
+              "label": "월드 빌딩 가드 피해 +36%",
+              "value": 36,
+              "unit": "percent",
+              "sources": [
+                "브루클린"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 70,
+              "unit": "percent",
+              "sources": [
+                "오로라",
+                "에블린"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 21,
+              "name": "Chizuru",
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "도쿄 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 1",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            },
+            null
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 49,
+              "name": "Moana",
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 29023,
+              "danceStat": 20893,
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            },
+            {
+              "id": 59,
+              "name": "Rosemary",
+              "nameKo": "로즈메리",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 29023,
+              "danceStat": 20893,
+              "localImageFile": "images/artists/Rosemary.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            },
+            {
+              "id": 60,
+              "name": "Ruby",
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "발리 1",
+              "experienceBonus": 0,
+              "singStat": 20893,
+              "danceStat": 29023,
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 1",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            },
+            {
+              "id": 12,
+              "nameKo": "아리아드네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Ariadne.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 150,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라",
+                "아리아드네"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아리아드네"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 12,
+              "name": "Ariadne",
+              "nameKo": "아리아드네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "로마 1",
+              "experienceBonus": 0,
+              "singStat": 20893,
+              "danceStat": 29023,
+              "localImageFile": "images/artists/Ariadne.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 2",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            },
+            {
+              "id": 12,
+              "nameKo": "아리아드네",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Ariadne.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 40,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 150,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라",
+                "아리아드네"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아리아드네"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "발리 2",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 42,
+              "name": "Lestari",
+              "nameKo": "레스타리",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "발리 2",
+              "experienceBonus": 20,
+              "singStat": 34827,
+              "danceStat": 25071,
+              "localImageFile": "images/artists/Lestari.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "월드 빌딩 가드 피해 +36%"
+              ]
+            },
+            {
+              "id": 76,
+              "name": "Monica",
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 2",
+              "experienceBonus": 20,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 2",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 54,
+              "name": "Octavia",
+              "nameKo": "옥타비아",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "로마 2",
+              "experienceBonus": 20,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Octavia.webp",
+              "skills": [
+                "회사 공격 시 DPS +240",
+                "팬 수용량 +12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 3",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            },
+            {
+              "id": 15,
+              "nameKo": "오로라",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Aurora.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 100,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "오로라"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            },
+            {
+              "label": "스킬 피해 +20%",
+              "value": 20,
+              "unit": "percent",
+              "sources": [
+                "오로라"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "발리 3",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 35,
+              "nameKo": "아일라",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Isla.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 124,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "아일라",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아일라"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 35,
+              "name": "Isla",
+              "nameKo": "아일라",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "발리 3",
+              "experienceBonus": 20,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Isla.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "로마 3",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 35,
+              "nameKo": "아일라",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Isla.webp"
+            },
+            {
+              "id": 21,
+              "nameKo": "치즈루",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Chizuru.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 124,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "아일라",
+                "치즈루"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아일라"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "치즈루"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 110,
+              "name": "Selene",
+              "nameKo": "셀레네",
+              "tier": "S",
+              "rank": "UR",
+              "role": "센터",
+              "season": "로마 3",
+              "experienceBonus": 0,
+              "singStat": 29950,
+              "danceStat": 29950,
+              "localImageFile": "images/artists/Selene.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 4",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 35,
+              "nameKo": "아일라",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Isla.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 132,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "아일라",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아일라"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 70,
+              "name": "Yumeno",
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "도쿄 4",
+              "experienceBonus": 44,
+              "singStat": 42437,
+              "danceStat": 28211,
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 4",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 35,
+              "nameKo": "아일라",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Isla.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 132,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "아일라",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "아일라"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "로마 4",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 111,
+              "nameKo": "슬론",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sloane.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 136,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "슬론",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            },
+            {
+              "label": "스킬 피해 +28%",
+              "value": 28,
+              "unit": "percent",
+              "sources": [
+                "슬론"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 111,
+              "name": "Sloane",
+              "nameKo": "슬론",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "로마 4",
+              "experienceBonus": 44,
+              "singStat": 21554,
+              "danceStat": 21554,
+              "localImageFile": "images/artists/Sloane.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "플레이어 피해 +28%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "도쿄 5",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 111,
+              "nameKo": "슬론",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sloane.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 136,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "슬론",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            },
+            {
+              "label": "스킬 피해 +28%",
+              "value": 28,
+              "unit": "percent",
+              "sources": [
+                "슬론"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 120,
+              "name": "Hana",
+              "nameKo": "하나",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "댄서",
+              "season": "도쿄 5",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Hana.webp",
+              "skills": [
+                "기본 공격 피해 +80%",
+                "받는 기본 공격 피해 -12%"
+              ]
+            }
+          ]
+        },
+        {
+          "season": "발리 5",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 111,
+              "nameKo": "슬론",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sloane.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 136,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "슬론",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            },
+            {
+              "label": "스킬 피해 +28%",
+              "value": 28,
+              "unit": "percent",
+              "sources": [
+                "슬론"
+              ]
+            }
+          ],
+          "newCandidates": []
+        },
+        {
+          "season": "로마 5",
+          "members": [
+            {
+              "id": 60,
+              "nameKo": "루비",
+              "tier": "A",
+              "rank": "SSR",
+              "role": "댄서",
+              "localImageFile": "images/artists/Ruby.webp"
+            },
+            {
+              "id": 76,
+              "nameKo": "모니카",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Monica.webp"
+            },
+            {
+              "id": 49,
+              "nameKo": "모아나",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Moana.webp"
+            },
+            {
+              "id": 111,
+              "nameKo": "슬론",
+              "tier": "S+",
+              "rank": "SSR",
+              "role": "센터",
+              "localImageFile": "images/artists/Sloane.webp"
+            },
+            {
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "localImageFile": "images/artists/Yumeno.webp"
+            }
+          ],
+          "skillTotals": [
+            {
+              "label": "플레이어 피해 +20%",
+              "value": 136,
+              "unit": "percent",
+              "sources": [
+                "루비",
+                "모니카",
+                "모니카",
+                "슬론",
+                "유메노"
+              ]
+            },
+            {
+              "label": "기본 공격 피해 +50%",
+              "value": 50,
+              "unit": "percent",
+              "sources": [
+                "루비"
+              ]
+            },
+            {
+              "label": "받는 스킬 피해 -12%",
+              "value": 12,
+              "unit": "percent",
+              "sources": [
+                "모아나"
+              ]
+            },
+            {
+              "label": "받는 기본 공격 피해 -12%",
+              "value": 24,
+              "unit": "percent",
+              "sources": [
+                "모아나",
+                "유메노"
+              ]
+            },
+            {
+              "label": "스킬 피해 +28%",
+              "value": 28,
+              "unit": "percent",
+              "sources": [
+                "슬론"
+              ]
+            }
+          ],
+          "newCandidates": [
+            {
+              "id": 125,
+              "name": "Layla",
+              "nameKo": "레일라",
+              "tier": "S",
+              "rank": "SSR",
+              "role": "보컬",
+              "season": "로마 5",
+              "experienceBonus": 0,
+              "singStat": null,
+              "danceStat": null,
+              "localImageFile": "images/artists/Layla.webp",
+              "skills": [
+                "기본 공격 피해 +80%",
+                "받는 스킬 피해 -12%"
               ]
             }
           ]
