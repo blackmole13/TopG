@@ -1,22 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T16:52:21.782Z",
+  "updatedAt": "2026-10-15T17:00:41.826Z",
   "artists": [
     {
-      "id": 53,
-      "nameKo": "노바",
+      "id": 16,
+      "nameKo": "에이버리",
       "rank": "SSR",
       "role": "댄서",
-      "genre": "R&B",
-      "genreLabel": "R&B",
-      "tier": "A",
-      "localImageFile": "images/artists/Nova.webp",
-      "currentLevel": 90,
+      "genre": "Hip Hop",
+      "genreLabel": "힙합",
+      "tier": "S",
+      "localImageFile": "images/artists/Avery.webp",
+      "currentLevel": 80,
       "targetLevel": 100,
-      "includeCurrentPromotion": true,
-      "exp": 35500000,
-      "cards": 1600,
+      "includeCurrentPromotion": false,
+      "exp": 61000000,
+      "cards": 2400,
       "gates": [
+        {
+          "level": 80,
+          "cards": 800,
+          "included": false
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
         {
           "level": 90,
           "cards": 800,
@@ -30,19 +40,144 @@
       ]
     },
     {
+      "id": 13,
+      "nameKo": "오드리",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Hip Hop",
+      "genreLabel": "힙합",
+      "tier": "A",
+      "localImageFile": "images/artists/Audrey.webp",
+      "currentLevel": 80,
+      "targetLevel": 100,
+      "includeCurrentPromotion": false,
+      "exp": 61000000,
+      "cards": 2400,
+      "gates": [
+        {
+          "level": 80,
+          "cards": 800,
+          "included": false
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "nameKo": "페이즐리",
+      "rank": "SSR",
+      "role": "댄서",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "S",
+      "localImageFile": "images/artists/Paisley.webp",
+      "currentLevel": 100,
+      "targetLevel": 105,
+      "includeCurrentPromotion": false,
+      "exp": 21500000,
+      "cards": 0,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "B",
+      "localImageFile": "images/artists/Claire.webp",
+      "currentLevel": 100,
+      "targetLevel": 105,
+      "includeCurrentPromotion": false,
+      "exp": 21500000,
+      "cards": 0,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "nameKo": "스카일러",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "C",
+      "localImageFile": "images/artists/Skylar.webp",
+      "currentLevel": 100,
+      "targetLevel": 105,
+      "includeCurrentPromotion": false,
+      "exp": 21500000,
+      "cards": 0,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": false
+        }
+      ]
+    },
+    {
       "id": 15,
       "nameKo": "오로라",
       "rank": "SSR",
       "role": "센터",
       "genre": "Pop",
       "genreLabel": "팝",
-      "tier": "A",
+      "tier": "B",
       "localImageFile": "images/artists/Aurora.webp",
-      "currentLevel": 11,
-      "targetLevel": 90,
+      "currentLevel": 90,
+      "targetLevel": 95,
       "includeCurrentPromotion": false,
-      "exp": 64457000,
-      "cards": 3100,
+      "exp": 16500000,
+      "cards": 0,
+      "gates": [
+        {
+          "level": 90,
+          "cards": 800,
+          "included": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "nameKo": "롱쿠이",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "tier": "S+",
+      "localImageFile": "images/artists/Longkui.webp",
+      "currentLevel": 1,
+      "targetLevel": 120,
+      "includeCurrentPromotion": false,
+      "exp": 241156320,
+      "cards": 9500,
       "gates": [
         {
           "level": 20,
@@ -74,65 +209,6 @@
           "cards": 800,
           "included": true
         },
-        {
-          "level": 85,
-          "cards": 800,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "nameKo": "브루클린",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "Pop",
-      "genreLabel": "팝",
-      "tier": "D",
-      "localImageFile": "images/artists/Brooklyn.webp",
-      "currentLevel": 11,
-      "targetLevel": 60,
-      "includeCurrentPromotion": false,
-      "exp": 9407000,
-      "cards": 800,
-      "gates": [
-        {
-          "level": 20,
-          "cards": 50,
-          "included": true
-        },
-        {
-          "level": 30,
-          "cards": 100,
-          "included": true
-        },
-        {
-          "level": 40,
-          "cards": 200,
-          "included": true
-        },
-        {
-          "level": 50,
-          "cards": 450,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "nameKo": "앨리스",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "tier": "A",
-      "localImageFile": "images/artists/Alice.webp",
-      "currentLevel": 85,
-      "targetLevel": 105,
-      "includeCurrentPromotion": true,
-      "exp": 71000000,
-      "cards": 3600,
-      "gates": [
         {
           "level": 85,
           "cards": 800,
@@ -152,33 +228,65 @@
           "level": 100,
           "cards": 1200,
           "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
         }
       ]
     },
     {
-      "id": 92,
-      "nameKo": "페넬로페",
-      "rank": "SR",
-      "role": "센터",
-      "genre": "R&B",
-      "genreLabel": "R&B",
+      "id": 9,
+      "nameKo": "앨리스",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "EDM",
+      "genreLabel": "EDM",
       "tier": "B",
-      "localImageFile": "images/artists/Penelope.webp",
-      "currentLevel": 60,
-      "targetLevel": 100,
-      "includeCurrentPromotion": false,
-      "exp": 90550000,
-      "cards": 3200,
+      "localImageFile": "images/artists/Alice.webp",
+      "currentLevel": 105,
+      "targetLevel": 110,
+      "includeCurrentPromotion": true,
+      "exp": 24000000,
+      "cards": 1200,
       "gates": [
         {
-          "level": 60,
-          "cards": 700,
-          "included": false
-        },
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nameKo": "에블리",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "tier": "B",
+      "localImageFile": "images/artists/Everly.webp",
+      "currentLevel": 80,
+      "targetLevel": 100,
+      "includeCurrentPromotion": false,
+      "exp": 61000000,
+      "cards": 2400,
+      "gates": [
         {
           "level": 80,
           "cards": 800,
-          "included": true
+          "included": false
         },
         {
           "level": 85,
@@ -199,15 +307,15 @@
     }
   ],
   "totals": {
-    "exp": 270914000,
+    "exp": 529156320,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 9100
+        "cards": 17900
       },
       {
         "rank": "SR",
-        "cards": 3200
+        "cards": 0
       }
     ]
   }
