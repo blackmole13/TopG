@@ -1,0 +1,2086 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-15T17:00:30.799Z",
+  "genre": "Hip Hop",
+  "genreLabel": "힙합",
+  "slots": [
+    "메인 · 댄서",
+    "메인 · 센터",
+    "메인 · 보컴",
+    "서브 1 (선택)",
+    "서브 2 (선택)"
+  ],
+  "seasons": [
+    {
+      "season": "초기",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 73,
+          "nameKo": "벨라",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Bella.webp"
+        },
+        {
+          "id": 98,
+          "nameKo": "바이올렛",
+          "tier": "C",
+          "rank": "SR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Violet.webp"
+        },
+        null
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 12,
+          "unit": "percent",
+          "sources": [
+            "에이버리"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 45,
+          "unit": "percent",
+          "sources": [
+            "오드리",
+            "바이올렛"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "벨라"
+          ]
+        },
+        {
+          "label": "팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "벨라"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "바이올렛"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 4,
+          "name": "Josephine",
+          "nameKo": "조세핀",
+          "tier": "A",
+          "rank": "UR",
+          "role": "보컬",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": 29023,
+          "danceStat": 20893,
+          "localImageFile": "images/artists/Josephine.webp",
+          "skills": [
+            "스킬 피해 +20%",
+            "기본 공격 피해 +50%"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Audrey",
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": 22464,
+          "danceStat": 22464,
+          "localImageFile": "images/artists/Audrey.webp",
+          "skills": [
+            "월드 빌딩 가드 피해 +30%",
+            "받는 스킬 피해 -12%"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Avery",
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": 19076,
+          "danceStat": 25851,
+          "localImageFile": "images/artists/Avery.webp",
+          "skills": [
+            "받는 스킬 피해 -12%",
+            "받는 기본 공격 피해 -12%"
+          ]
+        },
+        {
+          "id": 73,
+          "name": "Bella",
+          "nameKo": "벨라",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": 25851,
+          "danceStat": 19076,
+          "localImageFile": "images/artists/Bella.webp",
+          "skills": [
+            "스킬 피해 +20%",
+            "팬 수용량 +10%"
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Ella",
+          "nameKo": "엘라",
+          "tier": "C",
+          "rank": "SR",
+          "role": "댄서",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Ella.webp",
+          "skills": [
+            "스킬 피해 +10%",
+            "드라이브 속도 +40%"
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Lily",
+          "nameKo": "릴리",
+          "tier": "B",
+          "rank": "SR",
+          "role": "센터",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Lily.webp",
+          "skills": [
+            "받는 피해 -5%",
+            "팬 수용량 +2%"
+          ]
+        },
+        {
+          "id": 94,
+          "name": "Sarah",
+          "nameKo": "사라",
+          "tier": "C",
+          "rank": "SR",
+          "role": "댄서",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Sarah.webp",
+          "skills": [
+            "골드 수집 속도 +30%",
+            "드라이브 속도 +40%"
+          ]
+        },
+        {
+          "id": 96,
+          "name": "Stella",
+          "nameKo": "스텔라",
+          "tier": "C",
+          "rank": "SR",
+          "role": "보컬",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Stella.webp",
+          "skills": [
+            "골드 수집 속도 +30%",
+            "기본 공격 피해 +20%"
+          ]
+        },
+        {
+          "id": 98,
+          "name": "Violet",
+          "nameKo": "바이올렛",
+          "tier": "C",
+          "rank": "SR",
+          "role": "보컬",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Violet.webp",
+          "skills": [
+            "기본 공격 피해 +20%",
+            "월드 빌딩 가드 피해 +15%"
+          ]
+        },
+        {
+          "id": 99,
+          "name": "Charlotte",
+          "nameKo": "샬럿",
+          "tier": "C",
+          "rank": "R",
+          "role": "댄서",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Charlotte.webp",
+          "skills": [
+            "기본 공격 피해 +10%"
+          ]
+        },
+        {
+          "id": 101,
+          "name": "Olivia",
+          "nameKo": "올리비아",
+          "tier": "C",
+          "rank": "R",
+          "role": "센터",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Olivia.webp",
+          "skills": [
+            "골드 수집 속도 +20%"
+          ]
+        },
+        {
+          "id": 115,
+          "name": "Beatrice",
+          "nameKo": "베아트리체",
+          "tier": "S",
+          "rank": "UR",
+          "role": "센터",
+          "season": "초기",
+          "experienceBonus": 0,
+          "singStat": 25851,
+          "danceStat": 19076,
+          "localImageFile": "images/artists/Beatrice.webp",
+          "skills": [
+            "팬 수용량 +10%",
+            "플레이어 피해 +20%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "도쿄 1",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 73,
+          "nameKo": "벨라",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Bella.webp"
+        },
+        {
+          "id": 98,
+          "nameKo": "바이올렛",
+          "tier": "C",
+          "rank": "SR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Violet.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "오드리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 45,
+          "unit": "percent",
+          "sources": [
+            "오드리",
+            "바이올렛"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "벨라"
+          ]
+        },
+        {
+          "label": "팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "벨라"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "바이올렛"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 18,
+          "name": "Ayaka",
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "도쿄 1",
+          "experienceBonus": 0,
+          "singStat": 29023,
+          "danceStat": 20893,
+          "localImageFile": "images/artists/Ayaka.webp",
+          "skills": [
+            "받는 스킬 피해 -12%",
+            "받는 기본 공격 피해 -12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "발리 1",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 33,
+          "name": "Hestia",
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "season": "발리 1",
+          "experienceBonus": 0,
+          "singStat": 24959,
+          "danceStat": 24959,
+          "localImageFile": "images/artists/Hestia.webp",
+          "skills": [
+            "플레이어 피해 +20%",
+            "집결 팬 수용량 +10%"
+          ]
+        },
+        {
+          "id": 41,
+          "name": "Leilani",
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "발리 1",
+          "experienceBonus": 0,
+          "singStat": 20893,
+          "danceStat": 29023,
+          "localImageFile": "images/artists/Leilani.webp",
+          "skills": [
+            "스킬 피해 +20%",
+            "기본 공격 피해 +50%"
+          ]
+        },
+        {
+          "id": 45,
+          "name": "Megan",
+          "nameKo": "메건",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "발리 1",
+          "experienceBonus": 0,
+          "singStat": 20893,
+          "danceStat": 29023,
+          "localImageFile": "images/artists/Megan.webp",
+          "skills": [
+            "플레이어 피해 +20%",
+            "골드 수집 속도 +40%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "로마 1",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 26,
+          "name": "Daphne",
+          "nameKo": "대프니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "로마 1",
+          "experienceBonus": 0,
+          "singStat": 24959,
+          "danceStat": 24959,
+          "localImageFile": "images/artists/Daphne.webp",
+          "skills": [
+            "스킬 피해 +20%",
+            "기본 공격 피해 +50%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "도쿄 2",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 32,
+          "name": "Haruki",
+          "nameKo": "하루키",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "센터",
+          "season": "도쿄 2",
+          "experienceBonus": 0,
+          "singStat": 29950,
+          "danceStat": 29950,
+          "localImageFile": "images/artists/Haruki.webp",
+          "skills": [
+            "기본 공격 피해 +60%",
+            "팬 수용량 +12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "발리 2",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 51,
+          "name": "Ningsih",
+          "nameKo": "닝시",
+          "tier": "D",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "발리 2",
+          "experienceBonus": 20,
+          "singStat": 25071,
+          "danceStat": 34827,
+          "localImageFile": "images/artists/Ningsih.webp",
+          "skills": [
+            "회사 공격 시 DPS +240",
+            "팬 수용량 +12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "로마 2",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": []
+    },
+    {
+      "season": "도쿄 3",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": []
+    },
+    {
+      "season": "발리 3",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        },
+        {
+          "id": 41,
+          "nameKo": "레일라니",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Leilani.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        },
+        {
+          "label": "스킬 피해 +20%",
+          "value": 20,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +50%",
+          "value": 50,
+          "unit": "percent",
+          "sources": [
+            "레일라니"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 44,
+          "name": "Marina",
+          "nameKo": "마리나",
+          "tier": "D",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "발리 3",
+          "experienceBonus": 20,
+          "singStat": 34827,
+          "danceStat": 25071,
+          "localImageFile": "images/artists/Marina.webp",
+          "skills": [
+            "GC/클럽/LM 공격 시 DPS +240",
+            "팬 수용량 +12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "로마 3",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 68,
+          "unit": "percent",
+          "sources": [
+            "헤스티아",
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 24,
+          "name": "Claudius",
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "로마 3",
+          "experienceBonus": 20,
+          "singStat": 34827,
+          "danceStat": 25071,
+          "localImageFile": "images/artists/Claudius.webp",
+          "skills": [
+            "플레이어 피해 +24%",
+            "플레이어 피해 +24%"
+          ]
+        },
+        {
+          "id": 109,
+          "name": "Lysistrata",
+          "nameKo": "리시스트라타",
+          "tier": "S",
+          "rank": "UR",
+          "role": "댄서",
+          "season": "로마 3",
+          "experienceBonus": 0,
+          "singStat": 25071,
+          "danceStat": 34827,
+          "localImageFile": "images/artists/Lysistrata.webp",
+          "skills": [
+            "스킬 피해 +24%",
+            "팬 수용량 +12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "도쿄 4",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 68,
+          "unit": "percent",
+          "sources": [
+            "헤스티아",
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 47,
+          "name": "Mio",
+          "nameKo": "미오",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "도쿄 4",
+          "experienceBonus": 44,
+          "singStat": 28069,
+          "danceStat": 42152,
+          "localImageFile": "images/artists/Mio.webp",
+          "skills": [
+            "기본 공격 피해 +70%",
+            "받는 기본 공격 피해 -12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "발리 4",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 13,
+          "nameKo": "오드리",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Audrey.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카",
+            "오드리"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 68,
+          "unit": "percent",
+          "sources": [
+            "헤스티아",
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "월드 빌딩 가드 피해 +30%",
+          "value": 30,
+          "unit": "percent",
+          "sources": [
+            "오드리"
+          ]
+        }
+      ],
+      "newCandidates": []
+    },
+    {
+      "season": "로마 4",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 112,
+          "nameKo": "켄델",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Kendell.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 68,
+          "unit": "percent",
+          "sources": [
+            "헤스티아",
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "팬 수용량 +14%",
+          "value": 14,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        },
+        {
+          "label": "스킬 피해 +28%",
+          "value": 28,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 112,
+          "name": "Kendell",
+          "nameKo": "켄델",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "보컬",
+          "season": "로마 4",
+          "experienceBonus": 44,
+          "singStat": 2845,
+          "danceStat": 14225,
+          "localImageFile": "images/artists/Kendell.webp",
+          "skills": [
+            "팬 수용량 +14%",
+            "스킬 피해 +28%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "도쿄 5",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 33,
+          "nameKo": "헤스티아",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Hestia.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 112,
+          "nameKo": "켄델",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Kendell.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +20%",
+          "value": 68,
+          "unit": "percent",
+          "sources": [
+            "헤스티아",
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "집결 팬 수용량 +10%",
+          "value": 10,
+          "unit": "percent",
+          "sources": [
+            "헤스티아"
+          ]
+        },
+        {
+          "label": "팬 수용량 +14%",
+          "value": 14,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        },
+        {
+          "label": "스킬 피해 +28%",
+          "value": 28,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        }
+      ],
+      "newCandidates": []
+    },
+    {
+      "season": "발리 5",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 122,
+          "nameKo": "랜디",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Landy.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 112,
+          "nameKo": "켄델",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Kendell.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "랜디",
+            "아야카"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +80%",
+          "value": 80,
+          "unit": "percent",
+          "sources": [
+            "랜디"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +24%",
+          "value": 48,
+          "unit": "percent",
+          "sources": [
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "팬 수용량 +14%",
+          "value": 14,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        },
+        {
+          "label": "스킬 피해 +28%",
+          "value": 28,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 122,
+          "name": "Landy",
+          "nameKo": "랜디",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "센터",
+          "season": "발리 5",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Landy.webp",
+          "skills": [
+            "기본 공격 피해 +80%",
+            "받는 스킬 피해 -12%"
+          ]
+        }
+      ]
+    },
+    {
+      "season": "로마 5",
+      "members": [
+        {
+          "id": 16,
+          "nameKo": "에이버리",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "댄서",
+          "localImageFile": "images/artists/Avery.webp"
+        },
+        {
+          "id": 122,
+          "nameKo": "랜디",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "센터",
+          "localImageFile": "images/artists/Landy.webp"
+        },
+        {
+          "id": 24,
+          "nameKo": "클라우디우스",
+          "tier": "S+",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Claudius.webp"
+        },
+        {
+          "id": 18,
+          "nameKo": "아야카",
+          "tier": "S",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Ayaka.webp"
+        },
+        {
+          "id": 112,
+          "nameKo": "켄델",
+          "tier": "A",
+          "rank": "SSR",
+          "role": "보컬",
+          "localImageFile": "images/artists/Kendell.webp"
+        }
+      ],
+      "skillTotals": [
+        {
+          "label": "받는 스킬 피해 -12%",
+          "value": 36,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "랜디",
+            "아야카"
+          ]
+        },
+        {
+          "label": "받는 기본 공격 피해 -12%",
+          "value": 24,
+          "unit": "percent",
+          "sources": [
+            "에이버리",
+            "아야카"
+          ]
+        },
+        {
+          "label": "기본 공격 피해 +80%",
+          "value": 80,
+          "unit": "percent",
+          "sources": [
+            "랜디"
+          ]
+        },
+        {
+          "label": "플레이어 피해 +24%",
+          "value": 48,
+          "unit": "percent",
+          "sources": [
+            "클라우디우스",
+            "클라우디우스"
+          ]
+        },
+        {
+          "label": "팬 수용량 +14%",
+          "value": 14,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        },
+        {
+          "label": "스킬 피해 +28%",
+          "value": 28,
+          "unit": "percent",
+          "sources": [
+            "켄델"
+          ]
+        }
+      ],
+      "newCandidates": [
+        {
+          "id": 124,
+          "name": "Elame",
+          "nameKo": "엘라메",
+          "tier": "B",
+          "rank": "SSR",
+          "role": "댄서",
+          "season": "로마 5",
+          "experienceBonus": 0,
+          "singStat": null,
+          "danceStat": null,
+          "localImageFile": "images/artists/Elame.webp",
+          "skills": [
+            "기본 공격 피해 +80%",
+            "팬 수용량 +16%"
+          ]
+        }
+      ]
+    }
+  ]
+}
