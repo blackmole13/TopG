@@ -1524,7 +1524,6 @@
     "singStat": 19033,
     "danceStat": 10903,
     "skills": [
-      "10 sec/1800 Damage",
       "Fans capacity ↑ 10%",
       "Rally fans capacity ↑ 10%"
     ],
@@ -1532,18 +1531,6 @@
     "description": "A talented Vocalist from WildFlower.",
     "localImageFile": "images/artists/Kelly.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/1800 Damage",
-        "normalizedText": "10 sec/1800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 1800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 1,800"
-      },
       {
         "sourceText": "Fans capacity ↑ 10%",
         "normalizedText": "Fans capacity ↑ 10%",
@@ -3283,7 +3270,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "10% Skill Damage",
       "15% Damage Increase World Building Guard"
     ],
@@ -3291,18 +3277,6 @@
     "description": "A talented Vocalist from Sparkle Artists.",
     "localImageFile": "images/artists/Abigail.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "10% Skill Damage",
         "normalizedText": "10% Skill Damage",
@@ -3341,7 +3315,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
     ],
@@ -3349,18 +3322,6 @@
     "description": "A talented Vocalist from Echo.",
     "localImageFile": "images/artists/Angelina.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -3398,7 +3359,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "20% Normal Attack Damage",
       "15% Damage Increase World Building Guard"
     ],
@@ -3406,18 +3366,6 @@
     "description": "A talented Vocalist from Radiance.",
     "localImageFile": "images/artists/Aria.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "20% Normal Attack Damage",
         "normalizedText": "20% Normal Attack Damage",
@@ -3456,7 +3404,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "20% Normal Attack Damage",
       "40% Drive Speed Increase"
     ],
@@ -3464,18 +3411,6 @@
     "description": "A talented Dancer from Neon.",
     "localImageFile": "images/artists/Chloe.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "20% Normal Attack Damage",
         "normalizedText": "20% Normal Attack Damage",
@@ -3513,7 +3448,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
     ],
@@ -3521,18 +3455,6 @@
     "description": "A talented Center from DreamCatcher.",
     "localImageFile": "images/artists/Eleanor.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -3570,7 +3492,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "10% Skill Damage",
       "40% Drive Speed Increase"
     ],
@@ -3578,18 +3499,6 @@
     "description": "A talented Dancer from WildFlower.",
     "localImageFile": "images/artists/Ella.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "10% Skill Damage",
         "normalizedText": "10% Skill Damage",
@@ -3627,7 +3536,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Skill Damage Reduction",
       "15% Damage Increase World Building Guard"
     ],
@@ -3635,18 +3543,6 @@
     "description": "A talented Dancer from Echo.",
     "localImageFile": "images/artists/Emily.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Skill Damage Reduction",
         "normalizedText": "5% Skill Damage Reduction",
@@ -3685,7 +3581,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "20% Increase Normal Attack",
       "2% Fan Capacity"
     ],
@@ -3693,18 +3588,6 @@
     "description": "A talented Center from Echo.",
     "localImageFile": "images/artists/Evelyn.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "20% Increase Normal Attack",
         "normalizedText": "20% Increase Normal Attack",
@@ -3742,7 +3625,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Damage Reduction",
       "15% Damage Increase World Building Guard"
     ],
@@ -3750,18 +3632,6 @@
     "description": "A talented Vocalist from Sparkle Artists.",
     "localImageFile": "images/artists/Grace.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Damage Reduction",
         "normalizedText": "5% Damage Reduction",
@@ -3800,7 +3670,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
     ],
@@ -3808,18 +3677,6 @@
     "description": "A talented Dancer from Neon.",
     "localImageFile": "images/artists/Hailey.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -3857,7 +3714,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
     ],
@@ -3865,18 +3721,6 @@
     "description": "A talented Vocalist from DreamCatcher.",
     "localImageFile": "images/artists/Hazel.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -3914,7 +3758,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Damage Reduction",
       "2% Fan Capacity"
     ],
@@ -3922,18 +3765,6 @@
     "description": "A talented Center from Luna.",
     "localImageFile": "images/artists/Lily.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Damage Reduction",
         "normalizedText": "5% Damage Reduction",
@@ -3971,7 +3802,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Damage Reduction",
       "40% Drive Speed Increase"
     ],
@@ -3979,18 +3809,6 @@
     "description": "A talented Dancer from Fantasy Vibes.",
     "localImageFile": "images/artists/Luna.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Damage Reduction",
         "normalizedText": "5% Damage Reduction",
@@ -4028,7 +3846,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Skill Damage Reduction",
       "15% Damage Increase World Building Guard"
     ],
@@ -4036,18 +3853,6 @@
     "description": "A talented Vocalist from Fantasy Vibes.",
     "localImageFile": "images/artists/Madison.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Skill Damage Reduction",
         "normalizedText": "5% Skill Damage Reduction",
@@ -4086,7 +3891,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
     ],
@@ -4094,18 +3898,6 @@
     "description": "A talented Center from Sparkle Artists.",
     "localImageFile": "images/artists/Natalie.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -4143,7 +3935,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "20% Increase Normal Attack",
       "2% Fan Capacity"
     ],
@@ -4151,18 +3942,6 @@
     "description": "A talented Center from Radiance.",
     "localImageFile": "images/artists/Penelope.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "20% Increase Normal Attack",
         "normalizedText": "20% Increase Normal Attack",
@@ -4200,7 +3979,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Skill Damage Reduction",
       "40% Drive Speed Increase"
     ],
@@ -4208,18 +3986,6 @@
     "description": "A talented Dancer from Radiance.",
     "localImageFile": "images/artists/Samantha.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Skill Damage Reduction",
         "normalizedText": "5% Skill Damage Reduction",
@@ -4257,7 +4023,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "40% Drive Speed Increase"
     ],
@@ -4265,18 +4030,6 @@
     "description": "A talented Dancer from Luna.",
     "localImageFile": "images/artists/Sarah.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -4314,7 +4067,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "5% Skill Damage Reduction",
       "2% Fan Capacity"
     ],
@@ -4322,18 +4074,6 @@
     "description": "A talented Center from Neon.",
     "localImageFile": "images/artists/Scarlett.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "5% Skill Damage Reduction",
         "normalizedText": "5% Skill Damage Reduction",
@@ -4371,7 +4111,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
     ],
@@ -4379,18 +4118,6 @@
     "description": "A talented Vocalist from WildFlower.",
     "localImageFile": "images/artists/Stella.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "30% Gold Brick Gather Speed",
         "normalizedText": "30% Gold Brick Gather Speed",
@@ -4428,7 +4155,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "10% Skill Damage",
       "2% Fan Capacity"
     ],
@@ -4436,18 +4162,6 @@
     "description": "A talented Center from Fantasy Vibes.",
     "localImageFile": "images/artists/Victoria.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "10% Skill Damage",
         "normalizedText": "10% Skill Damage",
@@ -4485,7 +4199,6 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/800 Damage",
       "20% Normal Attack Damage",
       "15% Damage Increase World Building Guard"
     ],
@@ -4493,18 +4206,6 @@
     "description": "A talented Vocalist from Luna.",
     "localImageFile": "images/artists/Violet.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/800 Damage",
-        "normalizedText": "10 sec/800 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 800,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 800"
-      },
       {
         "sourceText": "20% Normal Attack Damage",
         "normalizedText": "20% Normal Attack Damage",
@@ -4543,25 +4244,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "10% Basic Attack Damage"
     ],
     "season": "Universal",
     "description": "A talented Dancer from None.",
     "localImageFile": "images/artists/Charlotte.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "10% Basic Attack Damage",
         "normalizedText": "10% Basic Attack Damage",
@@ -4588,25 +4276,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "10% Drive Speed Increase"
     ],
     "season": "Universal",
     "description": "A talented Vocalist from None.",
     "localImageFile": "images/artists/Harper.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "10% Drive Speed Increase",
         "normalizedText": "10% Drive Speed Increase",
@@ -4633,25 +4308,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Center from None.",
     "localImageFile": "images/artists/Olivia.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "20% Gold Brick Gather Speed",
         "normalizedText": "20% Gold Brick Gather Speed",
@@ -4678,25 +4340,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Center from None.",
     "localImageFile": "images/artists/Isabella.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "20% Gold Brick Gather Speed",
         "normalizedText": "20% Gold Brick Gather Speed",
@@ -4723,25 +4372,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Dancer from None.",
     "localImageFile": "images/artists/Ava.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "20% Gold Brick Gather Speed",
         "normalizedText": "20% Gold Brick Gather Speed",
@@ -4768,25 +4404,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "5% Skill Damage"
     ],
     "season": "Universal",
     "description": "A talented Dancer from None.",
     "localImageFile": "images/artists/Emma.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "5% Skill Damage",
         "normalizedText": "5% Skill Damage",
@@ -4813,25 +4436,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "10% Basic Attack Damage"
     ],
     "season": "Universal",
     "description": "A talented Vocalist from None.",
     "localImageFile": "images/artists/Sophia.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "10% Basic Attack Damage",
         "normalizedText": "10% Basic Attack Damage",
@@ -4858,25 +4468,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Vocalist from None.",
     "localImageFile": "images/artists/Mia.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "20% Gold Brick Gather Speed",
         "normalizedText": "20% Gold Brick Gather Speed",
@@ -4903,25 +4500,12 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "10 sec/300 Damage",
       "20% Gold Brick Gather Speed"
     ],
     "season": "Universal",
     "description": "A talented Center from None.",
     "localImageFile": "images/artists/Annabelle.webp",
     "normalizedSkillEffects": [
-      {
-        "sourceText": "10 sec/300 Damage",
-        "normalizedText": "10 sec/300 Damage",
-        "category": "피해 증가",
-        "effectType": "periodic_damage",
-        "direction": "increase",
-        "value": 300,
-        "unit": "damage",
-        "normalizationStatus": "draft",
-        "durationSeconds": 10,
-        "displayTextKo": "10초간 주기 피해 300"
-      },
       {
         "sourceText": "20% Gold Brick Gather Speed",
         "normalizedText": "20% Gold Brick Gather Speed",
