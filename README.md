@@ -1,9 +1,11 @@
 # TOPGIRL Artist Database
 
-이 폴더는 아티스트 도감, 시즌별 파티 편성 결과, 육성 계산의 세 페이지로 구성된 정적 사이트입니다. 좌측 메뉴로 페이지를 이동합니다. 보유 현황 및 레벨·호감도 관리 기능은 포함하지 않습니다.
+This static site contains three pages: the artist directory, season party results, and the leveling calculator. It does not include roster management, save/restore, or level and affection management. Artist data and images are copied from the application source. The season filter preference is stored in the visitor's browser localStorage.
 
-## 배포 설정
+## GitHub Pages
 
-GitHub 저장소 `blackmole13/TopG`의 **Settings → Pages → Deploy from a branch**에서 `main` 브랜치와 `/(root)`를 선택합니다. 사이트 주소는 https://blackmole13.github.io/TopG/ 입니다.
+For repository blackmole13/TopG, configure Settings ? Pages ? Deploy from a branch ? main / (root). The site URL is https://blackmole13.github.io/TopG/.
 
-시즌 파티 결과와 육성 계산 결과는 로컬 앱에서 각각 공개할 수 있습니다.
+GitHub Pages sites are public by default. A private source repository does not make the website private. Enable Pages only when a public site is intended.
+
+There is no build step. Publishing season party results or a leveling plan from the local app updates the corresponding result and page files on main. Refresh the artist directory from data/artists.json and public/images/artists/ in the source project.
