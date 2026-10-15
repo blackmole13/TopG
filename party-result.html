@@ -6,12 +6,12 @@
     document.title="Season Results | TOPGIRL";
     document.getElementById("title").textContent="시즌별 파티 편성 결과";
     document.getElementById("intro").textContent="모든 장르의 시즌별 편성 변화와 선택한 시점의 편성 및 스킬 총합을 확인할 수 있습니다.";
-    const storedDatasets=data.genres||[data],genreCatalog=[["Hip Hop","\uD799\uD569"],["R&B","R&B"],["Rock","\uB77D"],["Pop","\uD31D"],["EDM","EDM"]],datasets=genreCatalog.map(([genre,genreLabel])=>storedDatasets.find(item=>item.genre===genre)||{genre,genreLabel,seasons:null}),root=document.getElementById("genre-results"),tabs=document.createElement("div");
+    const storedDatasets=data.genres||[data],genreCatalog=[["Hip Hop","힙합"],["R&B","R&B"],["Rock","락"],["Pop","팝"],["EDM","EDM"]],datasets=genreCatalog.map(([genre,genreLabel])=>storedDatasets.find(item=>item.genre===genre)||{genre,genreLabel,seasons:null}),root=document.getElementById("genre-results"),tabs=document.createElement("div");
     tabs.className="genre-tabs";root.append(tabs);
     datasets.forEach((data,datasetIndex)=>{
       const tab=document.createElement("button");tab.type="button";tab.className="genre-tab"+(datasetIndex===0?" active":"");tab.textContent=data.genreLabel;tabs.append(tab);
       const genre=node("section","genre-block"),heading=node("h2","genre-heading",data.genreLabel);genre.append(heading);genre.hidden=datasetIndex!==0;
-      if(!data.seasons){genre.append(node("div","no-candidates","\uC544\uC9C1 \uC774 \uC7A5\uB974\uC758 \uD3B8\uC131 \uACB0\uACFC\uAC00 \uAC8C\uC2DC\uB418\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4."));root.append(genre);tab.onclick=()=>{tabs.querySelectorAll(".genre-tab").forEach((button,index)=>button.classList.toggle("active",index===datasetIndex));root.querySelectorAll(".genre-block").forEach((section,index)=>{section.hidden=index!==datasetIndex})};return}
+      if(!data.seasons){genre.append(node("div","no-candidates","아직 이 장르의 편성 결과가 게시되지 않았습니다."));root.append(genre);tab.onclick=()=>{tabs.querySelectorAll(".genre-tab").forEach((button,index)=>button.classList.toggle("active",index===datasetIndex));root.querySelectorAll(".genre-block").forEach((section,index)=>{section.hidden=index!==datasetIndex})};return}
       const scroll=node("div","scroll"),chart=node("div","grid"),detail=node("div","detail");scroll.append(chart);genre.append(scroll,detail);root.append(genre);let selected=0;
       tab.onclick=()=>{tabs.querySelectorAll(".genre-tab").forEach((button,index)=>button.classList.toggle("active",index===datasetIndex));root.querySelectorAll(".genre-block").forEach((section,index)=>{section.hidden=index!==datasetIndex})};
       const people=new Map();data.seasons.forEach(season=>season.members.forEach(artist=>{if(artist)people.set(artist.id,artist)}));
