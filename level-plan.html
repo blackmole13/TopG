@@ -12,9 +12,10 @@
 </head>
 <body>
   <div class="pages-layout">
-    <aside class="pages-sidebar"><a class="pages-brand" href="./"><span class="pages-brand-mark">TG</span><span><b>TOPGIRL</b><small>PUBLIC DIRECTORY</small></span></a><div class="pages-nav-label">PAGES</div><nav class="pages-nav" aria-label="페이지"><a href="./"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></span>아티스트</a><a href="./party-result.html"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><path d="M4 19V5M4 19h17M7 15l4-4 3 2 6-7"/><circle cx="20" cy="6" r="1"/></svg></span>파티 편성</a><a class="active" href="./level-plan.html" aria-current="page"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><path d="m12 3 1.9 5.8L20 11l-6.1 2.2L12 19l-2-5.8L4 11l6-2.2L12 3ZM19 14l1.2 3.3L23 18.5l-2.8 1.1L19 23l-1.1-3.4-2.9-1.1 2.9-1.2L19 14Z"/></svg></span>육성 계산</a></nav><div class="pages-sidebar-note">공개 아티스트 정보와 공유 결과</div></aside>
+    <aside class="pages-sidebar"><a class="pages-brand" href="./"><span class="pages-brand-mark">TG</span><span><b>TOPGIRL</b><small>PUBLIC DIRECTORY</small></span></a><div class="pages-nav-label">PAGES</div><nav class="pages-nav" aria-label="페이지"><a href="./"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></span>아티스트</a><a href="./party-result.html"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><path d="M4 19V5M4 19h17M7 15l4-4 3 2 6-7"/><circle cx="20" cy="6" r="1"/></svg></span>파티 편성</a><a class="active" href="./level-plan.html" aria-current="page"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0zM20 3v4M22 5h-4M4 17v2M5 18H3"/></svg></span>육성 계산</a></nav><div class="pages-sidebar-note">공개 아티스트 정보와 공유 결과</div></aside>
   <main class="shell">
     <section class="heading"><div class="eyebrow">LEVEL PLANNER</div><h1>육성 계산 공유</h1><p class="sub">로컬 앱에서 마지막으로 공개 게시한 육성 계산 내용입니다.</p><div class="stamp" id="stamp">계산 정보를 불러오는 중…</div></section>
+    <label class="favorite-filter"><input id="favorite-only" type="checkbox"> 선호 캐릭터만 보기</label>
     <section class="summary" id="summary"></section>
     <section class="list" id="list"></section>
     <p class="note">이 페이지에는 공개 게시 시 선택된 아티스트와 레벨 계산 정보만 표시됩니다. 보유 목록이나 호감도 정보는 포함되지 않습니다.</p>
@@ -25,6 +26,8 @@
     const number = value => Number(value || 0).toLocaleString("ko-KR");
     const compact = value => { const n=Number(value||0); return n>=1000000?(n/1000000).toFixed(1).replace(/\.0$/,"")+"M":n>=1000?(n/1000).toFixed(1).replace(/\.0$/,"")+"K":number(n); };
     const box = (label,value) => { const el=document.createElement("div"); el.className="total"; const small=document.createElement("small"); small.textContent=label; const bold=document.createElement("b"); bold.textContent=value; el.append(small,bold); return el; };
+    let favoriteIds=new Set();try{favoriteIds=new Set(JSON.parse(localStorage.getItem("topgirl:favorite-artists:v1")||"[]"))}catch{}
+    document.getElementById("favorite-only").addEventListener("change",event=>{for(const row of document.querySelectorAll("[data-artist-id]"))row.hidden=event.target.checked&&!favoriteIds.has(Number(row.dataset.artistId));});
     async function loadPlan(){
       const list=document.getElementById("list"), summary=document.getElementById("summary"), stamp=document.getElementById("stamp");
       try {
@@ -35,7 +38,8 @@
         summary.append(box("선택 아티스트",number(data.artists.length)+"명"),box("필요 EXP",compact(data.totals.exp)+" ("+number(data.totals.exp)+")"));
         for(const rank of ["SSR","SR"]){const item=data.totals.cardsByRank.find(entry=>entry.rank===rank);summary.append(box(rank+" 카드",number(item?.cards)+"장"));}
         for(const item of data.artists){
-          const row=document.createElement("article"); row.className="row";
+          const row=document.createElement("article"); row.className="row";row.dataset.artistId=item.id;
+          if(document.getElementById("favorite-only").checked&&!favoriteIds.has(item.id))row.hidden=true;
           const identity=document.createElement("div"); identity.className="identity";
           if(item.localImageFile){const img=document.createElement("img");img.className="portrait";img.alt="";img.src="./"+item.localImageFile.split("/").map(encodeURIComponent).join("/");identity.append(img);}
           const name=document.createElement("div");name.className="name";const title=document.createElement("b");title.textContent=item.nameKo;const meta=document.createElement("small");meta.textContent=[item.rank,item.genreLabel,item.role,item.tier].join(" · ");name.append(title,meta);identity.append(name);
