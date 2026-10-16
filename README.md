@@ -1,6 +1,6 @@
 # TOPGIRL Artist Database
 
-This static site contains the artist directory, season party results, favorite artist selection, and a published leveling plan viewer. It does not include roster management, save/restore, or level and affection management. Artist data and images are copied from the application source. Favorite artist selections and the season filter preference are stored in the visitor's browser localStorage.
+This static site contains the artist directory, season party results, a read-only published favorite artist order, and a published leveling plan viewer. It does not include roster management, save/restore, or level and affection management. Artist data and images are copied from the application source. The local app publishes the selected favorite order and season activity to favorites.json; the season filter preference is stored in the visitor's browser localStorage.
 
 ## GitHub Pages
 
