@@ -355,5 +355,1041 @@
         "cards": 0
       }
     ]
+  },
+  "rules": {
+    "milestones": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      80,
+      85,
+      90,
+      95,
+      100,
+      105,
+      110,
+      115,
+      120,
+      125,
+      130,
+      135,
+      140
+    ],
+    "expByLevel": [
+      {
+        "level": 1,
+        "exp": 100
+      },
+      {
+        "level": 2,
+        "exp": 200
+      },
+      {
+        "level": 3,
+        "exp": 300
+      },
+      {
+        "level": 4,
+        "exp": 400
+      },
+      {
+        "level": 5,
+        "exp": 500
+      },
+      {
+        "level": 6,
+        "exp": 600
+      },
+      {
+        "level": 7,
+        "exp": 700
+      },
+      {
+        "level": 8,
+        "exp": 800
+      },
+      {
+        "level": 9,
+        "exp": 1000
+      },
+      {
+        "level": 10,
+        "exp": 2000
+      },
+      {
+        "level": 11,
+        "exp": 3000
+      },
+      {
+        "level": 12,
+        "exp": 4000
+      },
+      {
+        "level": 13,
+        "exp": 5000
+      },
+      {
+        "level": 14,
+        "exp": 6000
+      },
+      {
+        "level": 15,
+        "exp": 7000
+      },
+      {
+        "level": 16,
+        "exp": 8000
+      },
+      {
+        "level": 17,
+        "exp": 9000
+      },
+      {
+        "level": 18,
+        "exp": 10000
+      },
+      {
+        "level": 19,
+        "exp": 12000
+      },
+      {
+        "level": 20,
+        "exp": 14000
+      },
+      {
+        "level": 21,
+        "exp": 16000
+      },
+      {
+        "level": 22,
+        "exp": 18000
+      },
+      {
+        "level": 23,
+        "exp": 20000
+      },
+      {
+        "level": 24,
+        "exp": 25000
+      },
+      {
+        "level": 25,
+        "exp": 30000
+      },
+      {
+        "level": 26,
+        "exp": 35000
+      },
+      {
+        "level": 27,
+        "exp": 40000
+      },
+      {
+        "level": 28,
+        "exp": 45000
+      },
+      {
+        "level": 29,
+        "exp": 50000
+      },
+      {
+        "level": 30,
+        "exp": 65000
+      },
+      {
+        "level": 31,
+        "exp": 70000
+      },
+      {
+        "level": 32,
+        "exp": 75000
+      },
+      {
+        "level": 33,
+        "exp": 80000
+      },
+      {
+        "level": 34,
+        "exp": 85000
+      },
+      {
+        "level": 35,
+        "exp": 90000
+      },
+      {
+        "level": 36,
+        "exp": 95000
+      },
+      {
+        "level": 37,
+        "exp": 110000
+      },
+      {
+        "level": 38,
+        "exp": 120000
+      },
+      {
+        "level": 39,
+        "exp": 130000
+      },
+      {
+        "level": 40,
+        "exp": 190000
+      },
+      {
+        "level": 41,
+        "exp": 200000
+      },
+      {
+        "level": 42,
+        "exp": 210000
+      },
+      {
+        "level": 43,
+        "exp": 220000
+      },
+      {
+        "level": 44,
+        "exp": 230000
+      },
+      {
+        "level": 45,
+        "exp": 240000
+      },
+      {
+        "level": 46,
+        "exp": 250000
+      },
+      {
+        "level": 47,
+        "exp": 260000
+      },
+      {
+        "level": 48,
+        "exp": 270000
+      },
+      {
+        "level": 49,
+        "exp": 280000
+      },
+      {
+        "level": 50,
+        "exp": 380000
+      },
+      {
+        "level": 51,
+        "exp": 400000
+      },
+      {
+        "level": 52,
+        "exp": 450000
+      },
+      {
+        "level": 53,
+        "exp": 500000
+      },
+      {
+        "level": 54,
+        "exp": 550000
+      },
+      {
+        "level": 55,
+        "exp": 600000
+      },
+      {
+        "level": 56,
+        "exp": 650000
+      },
+      {
+        "level": 57,
+        "exp": 700000
+      },
+      {
+        "level": 58,
+        "exp": 750000
+      },
+      {
+        "level": 59,
+        "exp": 800000
+      },
+      {
+        "level": 60,
+        "exp": 1000000
+      },
+      {
+        "level": 61,
+        "exp": 1050000
+      },
+      {
+        "level": 62,
+        "exp": 1100000
+      },
+      {
+        "level": 63,
+        "exp": 1150000
+      },
+      {
+        "level": 64,
+        "exp": 1200000
+      },
+      {
+        "level": 65,
+        "exp": 1250000
+      },
+      {
+        "level": 66,
+        "exp": 1300000
+      },
+      {
+        "level": 67,
+        "exp": 1350000
+      },
+      {
+        "level": 68,
+        "exp": 1400000
+      },
+      {
+        "level": 69,
+        "exp": 1450000
+      },
+      {
+        "level": 70,
+        "exp": 1500000
+      },
+      {
+        "level": 71,
+        "exp": 1550000
+      },
+      {
+        "level": 72,
+        "exp": 1600000
+      },
+      {
+        "level": 73,
+        "exp": 1650000
+      },
+      {
+        "level": 74,
+        "exp": 1700000
+      },
+      {
+        "level": 75,
+        "exp": 1750000
+      },
+      {
+        "level": 76,
+        "exp": 1800000
+      },
+      {
+        "level": 77,
+        "exp": 1850000
+      },
+      {
+        "level": 78,
+        "exp": 1900000
+      },
+      {
+        "level": 79,
+        "exp": 2000000
+      },
+      {
+        "level": 80,
+        "exp": 2100000
+      },
+      {
+        "level": 81,
+        "exp": 2200000
+      },
+      {
+        "level": 82,
+        "exp": 2300000
+      },
+      {
+        "level": 83,
+        "exp": 2400000
+      },
+      {
+        "level": 84,
+        "exp": 2500000
+      },
+      {
+        "level": 85,
+        "exp": 2600000
+      },
+      {
+        "level": 86,
+        "exp": 2700000
+      },
+      {
+        "level": 87,
+        "exp": 2800000
+      },
+      {
+        "level": 88,
+        "exp": 2900000
+      },
+      {
+        "level": 89,
+        "exp": 3000000
+      },
+      {
+        "level": 90,
+        "exp": 3100000
+      },
+      {
+        "level": 91,
+        "exp": 3200000
+      },
+      {
+        "level": 92,
+        "exp": 3300000
+      },
+      {
+        "level": 93,
+        "exp": 3400000
+      },
+      {
+        "level": 94,
+        "exp": 3500000
+      },
+      {
+        "level": 95,
+        "exp": 3600000
+      },
+      {
+        "level": 96,
+        "exp": 3700000
+      },
+      {
+        "level": 97,
+        "exp": 3800000
+      },
+      {
+        "level": 98,
+        "exp": 3900000
+      },
+      {
+        "level": 99,
+        "exp": 4000000
+      },
+      {
+        "level": 100,
+        "exp": 4100000
+      },
+      {
+        "level": 101,
+        "exp": 4200000
+      },
+      {
+        "level": 102,
+        "exp": 4300000
+      },
+      {
+        "level": 103,
+        "exp": 4400000
+      },
+      {
+        "level": 104,
+        "exp": 4500000
+      },
+      {
+        "level": 105,
+        "exp": 4600000
+      },
+      {
+        "level": 106,
+        "exp": 4700000
+      },
+      {
+        "level": 107,
+        "exp": 4800000
+      },
+      {
+        "level": 108,
+        "exp": 4900000
+      },
+      {
+        "level": 109,
+        "exp": 5000000
+      },
+      {
+        "level": 110,
+        "exp": 5100000
+      },
+      {
+        "level": 111,
+        "exp": 5200000
+      },
+      {
+        "level": 112,
+        "exp": 5300000
+      },
+      {
+        "level": 113,
+        "exp": 5400000
+      },
+      {
+        "level": 114,
+        "exp": 5500000
+      },
+      {
+        "level": 115,
+        "exp": 5600000
+      },
+      {
+        "level": 116,
+        "exp": 5700000
+      },
+      {
+        "level": 117,
+        "exp": 5800000
+      },
+      {
+        "level": 118,
+        "exp": 5900000
+      },
+      {
+        "level": 119,
+        "exp": 6000000
+      },
+      {
+        "level": 120,
+        "exp": 6100000
+      },
+      {
+        "level": 121,
+        "exp": 6200000
+      },
+      {
+        "level": 122,
+        "exp": 6300000
+      },
+      {
+        "level": 123,
+        "exp": 6400000
+      },
+      {
+        "level": 124,
+        "exp": 6500000
+      },
+      {
+        "level": 125,
+        "exp": 6600000
+      },
+      {
+        "level": 126,
+        "exp": 6700000
+      },
+      {
+        "level": 127,
+        "exp": 6800000
+      },
+      {
+        "level": 128,
+        "exp": 6900000
+      },
+      {
+        "level": 129,
+        "exp": 7000000
+      },
+      {
+        "level": 130,
+        "exp": 7100000
+      },
+      {
+        "level": 131,
+        "exp": 7200000
+      },
+      {
+        "level": 132,
+        "exp": 7300000
+      },
+      {
+        "level": 133,
+        "exp": 7400000
+      },
+      {
+        "level": 134,
+        "exp": 7500000
+      },
+      {
+        "level": 135,
+        "exp": 7600000
+      },
+      {
+        "level": 136,
+        "exp": 7700000
+      },
+      {
+        "level": 137,
+        "exp": 7800000
+      },
+      {
+        "level": 138,
+        "exp": 7900000
+      },
+      {
+        "level": 139,
+        "exp": 8000000
+      },
+      {
+        "level": 140,
+        "exp": 12000000
+      },
+      {
+        "level": 141,
+        "exp": 14000000
+      },
+      {
+        "level": 142,
+        "exp": 16000000
+      },
+      {
+        "level": 143,
+        "exp": 18000000
+      },
+      {
+        "level": 144,
+        "exp": 20000000
+      },
+      {
+        "level": 145,
+        "exp": 25000000
+      },
+      {
+        "level": 146,
+        "exp": 30000000
+      },
+      {
+        "level": 147,
+        "exp": 35000000
+      },
+      {
+        "level": 148,
+        "exp": 40000000
+      },
+      {
+        "level": 149,
+        "exp": 45000000
+      },
+      {
+        "level": 150,
+        "exp": 55000000
+      },
+      {
+        "level": 151,
+        "exp": 65000000
+      },
+      {
+        "level": 152,
+        "exp": 75000000
+      },
+      {
+        "level": 153,
+        "exp": 85000000
+      },
+      {
+        "level": 154,
+        "exp": 95000000
+      },
+      {
+        "level": 155,
+        "exp": 110000000
+      },
+      {
+        "level": 156,
+        "exp": 125000000
+      },
+      {
+        "level": 157,
+        "exp": 140000000
+      },
+      {
+        "level": 158,
+        "exp": 155000000
+      },
+      {
+        "level": 159,
+        "exp": 170000000
+      }
+    ],
+    "promotionGates": [
+      {
+        "level": 20,
+        "cards": 50
+      },
+      {
+        "level": 30,
+        "cards": 100
+      },
+      {
+        "level": 40,
+        "cards": 200
+      },
+      {
+        "level": 50,
+        "cards": 450
+      },
+      {
+        "level": 60,
+        "cards": 700
+      },
+      {
+        "level": 80,
+        "cards": 800
+      },
+      {
+        "level": 85,
+        "cards": 800
+      },
+      {
+        "level": 90,
+        "cards": 800
+      },
+      {
+        "level": 95,
+        "cards": 800
+      },
+      {
+        "level": 100,
+        "cards": 1200
+      },
+      {
+        "level": 105,
+        "cards": 1200
+      },
+      {
+        "level": 110,
+        "cards": 1200
+      },
+      {
+        "level": 115,
+        "cards": 1200
+      },
+      {
+        "level": 120,
+        "cards": 1600
+      },
+      {
+        "level": 125,
+        "cards": 1600
+      },
+      {
+        "level": 130,
+        "cards": 1600
+      },
+      {
+        "level": 135,
+        "cards": 1600
+      },
+      {
+        "level": 140,
+        "cards": 3200
+      },
+      {
+        "level": 145,
+        "cards": 3200
+      },
+      {
+        "level": 150,
+        "cards": 3200
+      },
+      {
+        "level": 155,
+        "cards": 3200
+      }
+    ],
+    "experienceMultipliers": [
+      {
+        "name": "Anya",
+        "extraPercent": 0
+      },
+      {
+        "name": "Kasha",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Longkui",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Monica",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Leilani",
+        "extraPercent": 0
+      },
+      {
+        "name": "Moana",
+        "extraPercent": 0
+      },
+      {
+        "name": "Ratih",
+        "extraPercent": 0
+      },
+      {
+        "name": "Sari",
+        "extraPercent": 0
+      },
+      {
+        "name": "Talia",
+        "extraPercent": 0
+      },
+      {
+        "name": "Dewi",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Lestari",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Ningsih",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Isla",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Marina",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Vivienne",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Margot",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Sienna",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Valentina",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Hestia",
+        "extraPercent": 0
+      },
+      {
+        "name": "Kelly",
+        "extraPercent": 0
+      },
+      {
+        "name": "Megan",
+        "extraPercent": 0
+      },
+      {
+        "name": "Mellissa",
+        "extraPercent": 0
+      },
+      {
+        "name": "Nastassja",
+        "extraPercent": 0
+      },
+      {
+        "name": "Noora",
+        "extraPercent": 0
+      },
+      {
+        "name": "Ruby",
+        "extraPercent": 0
+      },
+      {
+        "name": "Rosemary",
+        "extraPercent": 0
+      },
+      {
+        "name": "Alice",
+        "extraPercent": 0
+      },
+      {
+        "name": "Audrey",
+        "extraPercent": 0
+      },
+      {
+        "name": "Aurora",
+        "extraPercent": 0
+      },
+      {
+        "name": "Avery",
+        "extraPercent": 0
+      },
+      {
+        "name": "Bella",
+        "extraPercent": 0
+      },
+      {
+        "name": "Brooklyn",
+        "extraPercent": 0
+      },
+      {
+        "name": "Caroline",
+        "extraPercent": 0
+      },
+      {
+        "name": "Claire",
+        "extraPercent": 0
+      },
+      {
+        "name": "Everly",
+        "extraPercent": 0
+      },
+      {
+        "name": "Julia",
+        "extraPercent": 0
+      },
+      {
+        "name": "Nova",
+        "extraPercent": 0
+      },
+      {
+        "name": "Paisley",
+        "extraPercent": 0
+      },
+      {
+        "name": "R or SR Girl",
+        "extraPercent": 0
+      },
+      {
+        "name": "Savannah",
+        "extraPercent": 0
+      },
+      {
+        "name": "Skylar",
+        "extraPercent": 0
+      },
+      {
+        "name": "Zendaya",
+        "extraPercent": 0
+      },
+      {
+        "name": "Ariadne",
+        "extraPercent": 0
+      },
+      {
+        "name": "Calliope",
+        "extraPercent": 0
+      },
+      {
+        "name": "Daphne",
+        "extraPercent": 0
+      },
+      {
+        "name": "Eirene",
+        "extraPercent": 0
+      },
+      {
+        "name": "Xenia",
+        "extraPercent": 0
+      },
+      {
+        "name": "Aurelia",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Cornelia",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Octavia",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Antonia",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Claudius",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Flora",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Kendell",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Sloane",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Valerie",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Cindy",
+        "extraPercent": 0
+      },
+      {
+        "name": "Kesnia",
+        "extraPercent": 0
+      },
+      {
+        "name": "Ayaka",
+        "extraPercent": 0
+      },
+      {
+        "name": "Chizuru",
+        "extraPercent": 0
+      },
+      {
+        "name": "Kokoro",
+        "extraPercent": 0
+      },
+      {
+        "name": "Sora",
+        "extraPercent": 0
+      },
+      {
+        "name": "Yuuko",
+        "extraPercent": 0
+      },
+      {
+        "name": "Haruki",
+        "extraPercent": 0
+      },
+      {
+        "name": "Miyuki",
+        "extraPercent": 0
+      },
+      {
+        "name": "Riku",
+        "extraPercent": 0
+      },
+      {
+        "name": "Eri",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Hikari",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Rin",
+        "extraPercent": 0.2
+      },
+      {
+        "name": "Aya",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Mio",
+        "extraPercent": 0.44
+      },
+      {
+        "name": "Yumeno",
+        "extraPercent": 0.44
+      }
+    ]
   }
 }
