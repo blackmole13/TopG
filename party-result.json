@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T14:31:38.146Z",
+  "updatedAt": "2026-10-18T14:56:16.815Z",
   "slots": [
     "메인 · 댄서",
     "메인 · 센터",
@@ -22,7 +22,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -30,7 +35,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 73,
@@ -38,7 +48,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Bella.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Bella.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 98,
@@ -46,7 +61,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "보컬",
-              "localImageFile": "images/artists/Violet.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Violet.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
             },
             null
           ],
@@ -316,7 +336,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -324,7 +349,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 18,
@@ -332,7 +362,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 73,
@@ -340,7 +375,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Bella.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Bella.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 98,
@@ -348,7 +388,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "보컬",
-              "localImageFile": "images/artists/Violet.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Violet.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
             }
           ],
           "skillTotals": [
@@ -434,7 +479,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -442,7 +492,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -450,7 +505,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -458,7 +518,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -466,7 +531,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -593,7 +663,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -601,7 +676,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -609,7 +689,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -617,7 +702,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -625,7 +715,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -718,7 +813,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -726,7 +826,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -734,7 +839,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -742,7 +852,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -750,7 +865,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -843,7 +963,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -851,7 +976,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -859,7 +989,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -867,7 +1002,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -875,7 +1015,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -968,7 +1113,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -976,7 +1126,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -984,7 +1139,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -992,7 +1152,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -1000,7 +1165,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1075,7 +1245,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1083,7 +1258,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -1091,7 +1271,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -1099,7 +1284,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -1107,7 +1297,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1182,7 +1377,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1190,7 +1390,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 18,
@@ -1198,7 +1403,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -1206,7 +1416,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 41,
@@ -1214,7 +1429,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Leilani.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Leilani.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1307,7 +1527,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1315,7 +1540,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 24,
@@ -1323,7 +1553,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1331,7 +1566,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -1339,7 +1579,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1435,7 +1680,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1443,7 +1693,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 24,
@@ -1451,7 +1706,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1459,7 +1719,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -1467,7 +1732,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1546,7 +1816,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1554,7 +1829,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 24,
@@ -1562,7 +1842,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1570,7 +1855,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 13,
@@ -1578,7 +1868,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Audrey.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Audrey.webp",
+              "skills": [
+                "월드 빌딩 가드 피해 +30%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1639,7 +1934,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1647,7 +1947,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 24,
@@ -1655,7 +1960,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1663,7 +1973,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 112,
@@ -1671,7 +1986,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Kendell.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Kendell.webp",
+              "skills": [
+                "팬 수용량 +14%",
+                "스킬 피해 +28%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1757,7 +2077,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 33,
@@ -1765,7 +2090,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hestia.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Hestia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 24,
@@ -1773,7 +2103,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1781,7 +2116,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 112,
@@ -1789,7 +2129,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Kendell.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Kendell.webp",
+              "skills": [
+                "팬 수용량 +14%",
+                "스킬 피해 +28%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1857,7 +2202,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 122,
@@ -1865,7 +2215,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Landy.webp"
+              "season": "발리 5",
+              "localImageFile": "images/artists/Landy.webp",
+              "skills": [
+                "기본 공격 피해 +80%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 24,
@@ -1873,7 +2228,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1881,7 +2241,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 112,
@@ -1889,7 +2254,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Kendell.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Kendell.webp",
+              "skills": [
+                "팬 수용량 +14%",
+                "스킬 피해 +28%"
+              ]
             }
           ],
           "skillTotals": [
@@ -1975,7 +2345,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Avery.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Avery.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 122,
@@ -1983,7 +2358,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Landy.webp"
+              "season": "발리 5",
+              "localImageFile": "images/artists/Landy.webp",
+              "skills": [
+                "기본 공격 피해 +80%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 24,
@@ -1991,7 +2371,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Claudius.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Claudius.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "플레이어 피해 +24%"
+              ]
             },
             {
               "id": 18,
@@ -1999,7 +2384,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Ayaka.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Ayaka.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 112,
@@ -2007,7 +2397,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Kendell.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Kendell.webp",
+              "skills": [
+                "팬 수용량 +14%",
+                "스킬 피해 +28%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2099,7 +2494,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 72,
@@ -2107,7 +2507,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Zendayah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
             },
             {
               "id": 5,
@@ -2115,7 +2520,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 53,
@@ -2123,7 +2533,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Nova.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Nova.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 92,
@@ -2131,7 +2546,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "센터",
-              "localImageFile": "images/artists/Penelope.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Penelope.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2386,7 +2806,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 72,
@@ -2394,7 +2819,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Zendayah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
             },
             {
               "id": 5,
@@ -2402,7 +2832,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 53,
@@ -2410,7 +2845,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Nova.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Nova.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 92,
@@ -2418,7 +2858,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "센터",
-              "localImageFile": "images/artists/Penelope.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Penelope.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2504,7 +2949,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 72,
@@ -2512,7 +2962,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Zendayah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
             },
             {
               "id": 5,
@@ -2520,7 +2975,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 56,
@@ -2528,7 +2988,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 92,
@@ -2536,7 +3001,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "센터",
-              "localImageFile": "images/artists/Penelope.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Penelope.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2639,7 +3109,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 72,
@@ -2647,7 +3122,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Zendayah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
             },
             {
               "id": 5,
@@ -2655,7 +3135,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 56,
@@ -2663,7 +3148,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 28,
@@ -2671,7 +3161,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Eirene.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Eirene.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2750,7 +3245,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 72,
@@ -2758,7 +3258,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Zendayah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Zendayah.webp",
+              "skills": [
+                "드라이브 속도 +50%",
+                "월드 빌딩 가드 피해 +20%"
+              ]
             },
             {
               "id": 5,
@@ -2766,7 +3271,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 56,
@@ -2774,7 +3284,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 28,
@@ -2782,7 +3297,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Eirene.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Eirene.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2843,7 +3363,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 27,
@@ -2851,7 +3376,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Dewi.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 5,
@@ -2859,7 +3389,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 56,
@@ -2867,7 +3402,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 28,
@@ -2875,7 +3415,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Eirene.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Eirene.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -2940,7 +3485,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 27,
@@ -2948,7 +3498,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Dewi.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 5,
@@ -2956,7 +3511,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -2964,7 +3524,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -2972,7 +3537,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3051,7 +3621,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 27,
@@ -3059,7 +3634,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Dewi.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 5,
@@ -3067,7 +3647,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3075,7 +3660,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3083,7 +3673,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3162,7 +3757,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 27,
@@ -3170,7 +3770,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Dewi.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 5,
@@ -3178,7 +3783,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3186,7 +3796,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3194,7 +3809,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3255,7 +3875,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 27,
@@ -3263,7 +3888,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Dewi.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Dewi.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 5,
@@ -3271,7 +3901,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3279,7 +3914,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3287,7 +3927,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3348,7 +3993,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3356,7 +4006,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 5,
@@ -3364,7 +4019,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3372,7 +4032,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3380,7 +4045,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3466,7 +4136,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3474,7 +4149,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 5,
@@ -3482,7 +4162,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3490,7 +4175,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3498,7 +4188,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3584,7 +4279,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3592,7 +4292,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 5,
@@ -3600,7 +4305,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3608,7 +4318,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 56,
@@ -3616,7 +4331,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ratih.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ratih.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3684,7 +4404,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3692,7 +4417,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 118,
@@ -3700,7 +4430,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Rena.webp"
+              "season": "도쿄 5",
+              "localImageFile": "images/artists/Rena.webp",
+              "skills": [
+                "플레이어 피해 +32%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 5,
@@ -3708,7 +4443,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3716,7 +4456,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3809,7 +4554,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3817,7 +4567,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 118,
@@ -3825,7 +4580,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Rena.webp"
+              "season": "도쿄 5",
+              "localImageFile": "images/artists/Rena.webp",
+              "skills": [
+                "플레이어 피해 +32%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 5,
@@ -3833,7 +4593,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3841,7 +4606,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -3916,7 +4686,12 @@
               "tier": "S",
               "rank": "UR",
               "role": "댄서",
-              "localImageFile": "images/artists/Elizabeth.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Elizabeth.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 17,
@@ -3924,7 +4699,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aya.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Aya.webp",
+              "skills": [
+                "기본 공격 피해 +70%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 118,
@@ -3932,7 +4712,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Rena.webp"
+              "season": "도쿄 5",
+              "localImageFile": "images/artists/Rena.webp",
+              "skills": [
+                "플레이어 피해 +32%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 5,
@@ -3940,7 +4725,12 @@
               "tier": "A",
               "rank": "UR",
               "role": "보컬",
-              "localImageFile": "images/artists/Marguerite.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Marguerite.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 25,
@@ -3948,7 +4738,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Cornelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Cornelia.webp",
+              "skills": [
+                "방어 시 DPS +240",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4047,7 +4842,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4055,7 +4855,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 64,
@@ -4063,7 +4868,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Skylar.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Skylar.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "월드 빌딩 가드 피해 +30%"
+              ]
             },
             {
               "id": 80,
@@ -4071,7 +4881,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Chloe.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
             },
             null
           ],
@@ -4324,7 +5139,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4332,7 +5152,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 64,
@@ -4340,7 +5165,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Skylar.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Skylar.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "월드 빌딩 가드 피해 +30%"
+              ]
             },
             {
               "id": 71,
@@ -4348,7 +5178,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 80,
@@ -4356,7 +5191,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Chloe.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4442,7 +5282,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4450,7 +5295,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 64,
@@ -4458,7 +5308,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Skylar.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Skylar.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "월드 빌딩 가드 피해 +30%"
+              ]
             },
             {
               "id": 71,
@@ -4466,7 +5321,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 80,
@@ -4474,7 +5334,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Chloe.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4594,7 +5459,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4602,7 +5472,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 64,
@@ -4610,7 +5485,12 @@
               "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Skylar.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Skylar.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "월드 빌딩 가드 피해 +30%"
+              ]
             },
             {
               "id": 71,
@@ -4618,7 +5498,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 80,
@@ -4626,7 +5511,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Chloe.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4712,7 +5602,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4720,7 +5615,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 57,
@@ -4728,7 +5628,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 71,
@@ -4736,7 +5641,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 80,
@@ -4744,7 +5654,12 @@
               "tier": "C",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Chloe.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Chloe.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "드라이브 속도 +40%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4830,7 +5745,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4838,7 +5758,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 57,
@@ -4846,7 +5771,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -4854,7 +5784,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 71,
@@ -4862,7 +5797,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -4941,7 +5881,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 23,
@@ -4949,7 +5894,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Claire.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 57,
@@ -4957,7 +5907,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -4965,7 +5920,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 71,
@@ -4973,7 +5933,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5034,7 +5999,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 34,
@@ -5042,7 +6012,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5050,7 +6025,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5058,7 +6038,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 71,
@@ -5066,7 +6051,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5138,7 +6128,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 34,
@@ -5146,7 +6141,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5154,7 +6154,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5162,7 +6167,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 71,
@@ -5170,7 +6180,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Yuuko.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Yuuko.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5242,7 +6257,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 34,
@@ -5250,7 +6270,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5258,7 +6283,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5266,7 +6296,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 10,
@@ -5274,7 +6309,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Antonia.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Antonia.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5360,7 +6400,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 34,
@@ -5368,7 +6413,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5376,7 +6426,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5384,7 +6439,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 10,
@@ -5392,7 +6452,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Antonia.webp"
+              "season": "로마 3",
+              "localImageFile": "images/artists/Antonia.webp",
+              "skills": [
+                "스킬 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5460,7 +6525,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 63,
@@ -5468,7 +6538,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sienna.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5476,7 +6551,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5484,7 +6564,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 34,
@@ -5492,7 +6577,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5564,7 +6654,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 63,
@@ -5572,7 +6667,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sienna.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5580,7 +6680,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5588,7 +6693,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 34,
@@ -5596,7 +6706,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5668,7 +6783,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 63,
@@ -5676,7 +6796,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sienna.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5684,7 +6809,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5692,7 +6822,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 34,
@@ -5700,7 +6835,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5754,7 +6894,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 63,
@@ -5762,7 +6907,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sienna.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5770,7 +6920,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5778,7 +6933,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 34,
@@ -5786,7 +6946,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5858,7 +7023,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Paisley.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Paisley.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 63,
@@ -5866,7 +7036,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sienna.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Sienna.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 57,
@@ -5874,7 +7049,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Riku.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Riku.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 37,
@@ -5882,7 +7062,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Kasha.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Kasha.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "기본 공격 피해 +60%"
+              ]
             },
             {
               "id": 34,
@@ -5890,7 +7075,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Hikari.webp"
+              "season": "도쿄 3",
+              "localImageFile": "images/artists/Hikari.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5950,7 +7140,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Savannah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Savannah.webp",
+              "skills": [
+                "회사 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 15,
@@ -5958,7 +7153,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 19,
@@ -5966,7 +7166,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Brooklyn.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Brooklyn.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "월드 빌딩 가드 피해 +36%"
+              ]
             },
             {
               "id": 84,
@@ -5974,7 +7179,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "센터",
-              "localImageFile": "images/artists/Evelyn.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Evelyn.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
             },
             {
               "id": 83,
@@ -5982,7 +7192,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "댄서",
-              "localImageFile": "images/artists/Emily.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Emily.webp",
+              "skills": [
+                "받는 스킬 피해 -5%",
+                "월드 빌딩 가드 피해 +15%"
+              ]
             }
           ],
           "skillTotals": [
@@ -6260,7 +7475,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Savannah.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Savannah.webp",
+              "skills": [
+                "회사 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 21,
@@ -6268,7 +7488,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 19,
@@ -6276,7 +7501,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Brooklyn.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Brooklyn.webp",
+              "skills": [
+                "방어 시 DPS +200",
+                "월드 빌딩 가드 피해 +36%"
+              ]
             },
             {
               "id": 15,
@@ -6284,7 +7514,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 84,
@@ -6292,7 +7527,12 @@
               "tier": "B",
               "rank": "SR",
               "role": "센터",
-              "localImageFile": "images/artists/Evelyn.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Evelyn.webp",
+              "skills": [
+                "기본 공격 피해 +20%",
+                "팬 수용량 +2%"
+              ]
             }
           ],
           "skillTotals": [
@@ -6392,7 +7632,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 21,
@@ -6400,7 +7645,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 49,
@@ -6408,7 +7658,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 15,
@@ -6416,7 +7671,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             null
           ],
@@ -6535,7 +7795,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 21,
@@ -6543,7 +7808,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 49,
@@ -6551,7 +7821,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 15,
@@ -6559,7 +7834,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 12,
@@ -6567,7 +7847,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Ariadne.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Ariadne.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -6653,7 +7938,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 21,
@@ -6661,7 +7951,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 49,
@@ -6669,7 +7964,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 15,
@@ -6677,7 +7977,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 12,
@@ -6685,7 +7990,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Ariadne.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Ariadne.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -6753,7 +8063,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -6761,7 +8076,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -6769,7 +8089,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 21,
@@ -6777,7 +8102,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 15,
@@ -6785,7 +8115,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -6888,7 +8223,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -6896,7 +8236,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -6904,7 +8249,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 21,
@@ -6912,7 +8262,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 15,
@@ -6920,7 +8275,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7006,7 +8366,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7014,7 +8379,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7022,7 +8392,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 21,
@@ -7030,7 +8405,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 15,
@@ -7038,7 +8418,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Aurora.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Aurora.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7106,7 +8491,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7114,7 +8504,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7122,7 +8517,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 35,
@@ -7130,7 +8530,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Isla.webp"
+              "season": "발리 3",
+              "localImageFile": "images/artists/Isla.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 21,
@@ -7138,7 +8543,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7217,7 +8627,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7225,7 +8640,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7233,7 +8653,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 35,
@@ -7241,7 +8666,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Isla.webp"
+              "season": "발리 3",
+              "localImageFile": "images/artists/Isla.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 21,
@@ -7249,7 +8679,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Chizuru.webp"
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Chizuru.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7328,7 +8763,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7336,7 +8776,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7344,7 +8789,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 35,
@@ -7352,7 +8802,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Isla.webp"
+              "season": "발리 3",
+              "localImageFile": "images/artists/Isla.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 70,
@@ -7360,7 +8815,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7432,7 +8892,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7440,7 +8905,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7448,7 +8918,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 35,
@@ -7456,7 +8931,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Isla.webp"
+              "season": "발리 3",
+              "localImageFile": "images/artists/Isla.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "받는 스킬 피해 -12%"
+              ]
             },
             {
               "id": 70,
@@ -7464,7 +8944,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7518,7 +9003,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7526,7 +9016,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7534,7 +9029,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 111,
@@ -7542,7 +9042,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sloane.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Sloane.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "플레이어 피해 +28%"
+              ]
             },
             {
               "id": 70,
@@ -7550,7 +9055,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7629,7 +9139,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7637,7 +9152,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7645,7 +9165,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 111,
@@ -7653,7 +9178,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sloane.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Sloane.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "플레이어 피해 +28%"
+              ]
             },
             {
               "id": 70,
@@ -7661,7 +9191,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7740,7 +9275,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7748,7 +9288,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7756,7 +9301,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 111,
@@ -7764,7 +9314,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sloane.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Sloane.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "플레이어 피해 +28%"
+              ]
             },
             {
               "id": 70,
@@ -7772,7 +9327,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7833,7 +9393,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Ruby.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Ruby.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 76,
@@ -7841,7 +9406,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Monica.webp"
+              "season": "발리 2",
+              "localImageFile": "images/artists/Monica.webp",
+              "skills": [
+                "플레이어 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 49,
@@ -7849,7 +9419,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Moana.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Moana.webp",
+              "skills": [
+                "받는 스킬 피해 -12%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 111,
@@ -7857,7 +9432,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Sloane.webp"
+              "season": "로마 4",
+              "localImageFile": "images/artists/Sloane.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "플레이어 피해 +28%"
+              ]
             },
             {
               "id": 70,
@@ -7865,7 +9445,12 @@
               "tier": "S",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Yumeno.webp"
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
+              "skills": [
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -7950,7 +9535,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Caroline.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Caroline.webp",
+              "skills": [
+                "GC/클럽/LM 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 75,
@@ -7958,7 +9548,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 9,
@@ -7966,7 +9561,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 30,
@@ -7974,7 +9574,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Everly.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Everly.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 22,
@@ -7982,7 +9587,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Cindy.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Cindy.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8253,7 +9863,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Caroline.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Caroline.webp",
+              "skills": [
+                "GC/클럽/LM 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 75,
@@ -8261,7 +9876,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 9,
@@ -8269,7 +9889,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             },
             {
               "id": 30,
@@ -8277,7 +9902,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Everly.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Everly.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 22,
@@ -8285,7 +9915,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Cindy.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Cindy.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "받는 기본 공격 피해 -12%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8371,7 +10006,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Caroline.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Caroline.webp",
+              "skills": [
+                "GC/클럽/LM 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 75,
@@ -8379,7 +10019,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 61,
@@ -8387,7 +10032,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 30,
@@ -8395,7 +10045,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Everly.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Everly.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 9,
@@ -8403,7 +10058,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8496,7 +10156,12 @@
               "tier": "D",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Caroline.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Caroline.webp",
+              "skills": [
+                "GC/클럽/LM 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
             },
             {
               "id": 75,
@@ -8504,7 +10169,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 61,
@@ -8512,7 +10182,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 69,
@@ -8520,7 +10195,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 9,
@@ -8528,7 +10208,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8614,7 +10299,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -8622,7 +10312,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 61,
@@ -8630,7 +10325,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 69,
@@ -8638,7 +10338,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 9,
@@ -8646,7 +10351,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8725,7 +10435,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -8733,7 +10448,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 61,
@@ -8741,7 +10461,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 69,
@@ -8749,7 +10474,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 9,
@@ -8757,7 +10487,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Alice.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Alice.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8853,7 +10588,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -8861,7 +10601,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 14,
@@ -8869,7 +10614,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 69,
@@ -8877,7 +10627,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 61,
@@ -8885,7 +10640,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -8971,7 +10731,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -8979,7 +10744,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 14,
@@ -8987,7 +10757,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 69,
@@ -8995,7 +10770,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 61,
@@ -9003,7 +10783,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9089,7 +10874,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9097,7 +10887,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 14,
@@ -9105,7 +10900,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 69,
@@ -9113,7 +10913,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 61,
@@ -9121,7 +10926,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9189,7 +10999,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9197,7 +11012,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 14,
@@ -9205,7 +11025,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 69,
@@ -9213,7 +11038,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 61,
@@ -9221,7 +11051,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9324,7 +11159,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9332,7 +11172,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 14,
@@ -9340,7 +11185,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 69,
@@ -9348,7 +11198,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Xenia.webp"
+              "season": "로마 1",
+              "localImageFile": "images/artists/Xenia.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             },
             {
               "id": 61,
@@ -9356,7 +11211,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9424,7 +11284,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9432,7 +11297,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 43,
@@ -9440,7 +11310,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Margot.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Margot.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 14,
@@ -9448,7 +11323,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 61,
@@ -9456,7 +11336,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9542,7 +11427,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9550,7 +11440,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 43,
@@ -9558,7 +11453,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Margot.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Margot.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 14,
@@ -9566,7 +11466,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 61,
@@ -9574,7 +11479,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9642,7 +11552,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9650,7 +11565,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 43,
@@ -9658,7 +11578,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Margot.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Margot.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 14,
@@ -9666,7 +11591,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 61,
@@ -9674,7 +11604,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9760,7 +11695,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9768,7 +11708,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 43,
@@ -9776,7 +11721,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Margot.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Margot.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 14,
@@ -9784,7 +11734,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 61,
@@ -9792,7 +11747,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
@@ -9878,7 +11838,12 @@
               "tier": "B",
               "rank": "SSR",
               "role": "댄서",
-              "localImageFile": "images/artists/Miyuki.webp"
+              "season": "도쿄 2",
+              "localImageFile": "images/artists/Miyuki.webp",
+              "skills": [
+                "기본 공격 피해 +60%",
+                "받는 기본 공격 피해 -12%"
+              ]
             },
             {
               "id": 75,
@@ -9886,7 +11851,12 @@
               "tier": "S+",
               "rank": "SSR",
               "role": "센터",
-              "localImageFile": "images/artists/Longkui.webp"
+              "season": "초기",
+              "localImageFile": "images/artists/Longkui.webp",
+              "skills": [
+                "스킬 피해 +30%",
+                "플레이어 피해 +30%"
+              ]
             },
             {
               "id": 43,
@@ -9894,7 +11864,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Margot.webp"
+              "season": "발리 4",
+              "localImageFile": "images/artists/Margot.webp",
+              "skills": [
+                "스킬 피해 +28%",
+                "팬 수용량 +14%"
+              ]
             },
             {
               "id": 14,
@@ -9902,7 +11877,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Aurelia.webp"
+              "season": "로마 2",
+              "localImageFile": "images/artists/Aurelia.webp",
+              "skills": [
+                "플레이어 피해 +24%",
+                "팬 수용량 +12%"
+              ]
             },
             {
               "id": 61,
@@ -9910,7 +11890,12 @@
               "tier": "A",
               "rank": "SSR",
               "role": "보컬",
-              "localImageFile": "images/artists/Sari.webp"
+              "season": "발리 1",
+              "localImageFile": "images/artists/Sari.webp",
+              "skills": [
+                "플레이어 피해 +20%",
+                "집결 팬 수용량 +10%"
+              ]
             }
           ],
           "skillTotals": [
