@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:37:06.776Z",
+  "updatedAt": "2026-10-19T17:13:16.772Z",
   "slots": [
     "메인 · 댄서",
     "메인 · 센터",
@@ -4972,16 +4972,16 @@
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
+              "id": 46,
+              "nameKo": "멜리사",
+              "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
+              "season": "도쿄 1",
+              "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             },
             {
@@ -5011,28 +5011,28 @@
               ]
             },
             {
-              "id": 80,
-              "nameKo": "클로이",
-              "tier": "C",
-              "rank": "SR",
-              "role": "댄서",
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
               "season": "초기",
-              "localImageFile": "images/artists/Chloe.webp",
+              "localImageFile": "images/artists/Claire.webp",
               "skills": [
-                "기본 공격 피해 +20%",
-                "드라이브 속도 +40%"
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 120,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "유코",
-                "클레어",
-                "클로이"
+                "멜리사",
+                "클레어"
               ]
             },
             {
@@ -5045,12 +5045,20 @@
               ]
             },
             {
+              "label": "팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "멜리사"
+              ]
+            },
+            {
               "label": "스킬 피해 +20%",
               "value": 40,
               "unit": "percent",
               "sources": [
-                "클레어",
-                "스카일러"
+                "스카일러",
+                "클레어"
               ]
             },
             {
@@ -5068,17 +5076,26 @@
               "sources": [
                 "페이즐리"
               ]
-            },
-            {
-              "label": "드라이브 속도 +40%",
-              "value": 40,
-              "unit": "percent",
-              "sources": [
-                "클로이"
-              ]
             }
           ],
           "newCandidates": [
+            {
+              "id": 46,
+              "name": "Melissa",
+              "nameKo": "멜리사",
+              "tier": "C",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "도쿄 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Mellissa.webp",
+              "skills": [
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
+              ]
+            },
             {
               "id": 71,
               "name": "Yuuko",
@@ -5120,7 +5137,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5141,19 +5158,6 @@
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
-              "rank": "SSR",
-              "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
-              "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
-              ]
-            },
-            {
               "id": 66,
               "nameKo": "탈리아",
               "tier": "C",
@@ -5165,6 +5169,19 @@
                 "기본 공격 피해 +50%",
                 "팬 수용량 +10%"
               ]
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5175,8 +5192,8 @@
               "sources": [
                 "유코",
                 "멜리사",
-                "클레어",
-                "탈리아"
+                "탈리아",
+                "클레어"
               ]
             },
             {
@@ -5233,23 +5250,6 @@
               ]
             },
             {
-              "id": 46,
-              "name": "Melissa",
-              "nameKo": "멜리사",
-              "tier": "C",
-              "rank": "SSR",
-              "role": "센터",
-              "season": "발리 1",
-              "experienceBonus": 0,
-              "singStat": 24959,
-              "danceStat": 24959,
-              "localImageFile": "images/artists/Mellissa.webp",
-              "skills": [
-                "기본 공격 피해 +50%",
-                "팬 수용량 +10%"
-              ]
-            },
-            {
               "id": 66,
               "name": "Talia",
               "nameKo": "탈리아",
@@ -5290,7 +5290,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5311,19 +5311,6 @@
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
-              "rank": "SSR",
-              "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
-              "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
-              ]
-            },
-            {
               "id": 66,
               "nameKo": "탈리아",
               "tier": "C",
@@ -5335,6 +5322,19 @@
                 "기본 공격 피해 +50%",
                 "팬 수용량 +10%"
               ]
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5345,8 +5345,8 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
-                "탈리아"
+                "탈리아",
+                "클레어"
               ]
             },
             {
@@ -5419,7 +5419,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5427,29 +5427,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
-              ]
-            },
-            {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
-              "rank": "SSR",
-              "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
-              "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -5464,6 +5451,19 @@
                 "기본 공격 피해 +50%",
                 "팬 수용량 +10%"
               ]
+            },
+            {
+              "id": 23,
+              "nameKo": "클레어",
+              "tier": "B",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "초기",
+              "localImageFile": "images/artists/Claire.webp",
+              "skills": [
+                "스킬 피해 +20%",
+                "기본 공격 피해 +50%"
+              ]
             }
           ],
           "skillTotals": [
@@ -5474,34 +5474,27 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
-                "탈리아"
+                "탈리아",
+                "클레어"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 30,
+              "value": 40,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
+                "켈리",
                 "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 24,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -5555,7 +5548,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5563,29 +5556,29 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             },
             {
@@ -5610,42 +5603,35 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
+                "탈리아",
                 "카샤"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 20,
+              "value": 40,
               "unit": "percent",
               "sources": [
                 "칼리오페",
-                "멜리사"
+                "멜리사",
+                "켈리",
+                "탈리아"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "켈리"
               ]
             },
             {
               "label": "플레이어 피해 +24%",
-              "value": 48,
+              "value": 24,
               "unit": "percent",
               "sources": [
-                "리쿠",
                 "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
-              ]
-            },
-            {
-              "label": "스킬 피해 +20%",
-              "value": 20,
-              "unit": "percent",
-              "sources": [
-                "클레어"
               ]
             }
           ],
@@ -5691,7 +5677,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5699,29 +5685,29 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             },
             {
@@ -5746,42 +5732,35 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
+                "탈리아",
                 "카샤"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 20,
+              "value": 40,
               "unit": "percent",
               "sources": [
                 "칼리오페",
-                "멜리사"
+                "멜리사",
+                "켈리",
+                "탈리아"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "켈리"
               ]
             },
             {
               "label": "플레이어 피해 +24%",
-              "value": 48,
+              "value": 24,
               "unit": "percent",
               "sources": [
-                "리쿠",
                 "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
-              ]
-            },
-            {
-              "label": "스킬 피해 +20%",
-              "value": 20,
-              "unit": "percent",
-              "sources": [
-                "클레어"
               ]
             }
           ],
@@ -5809,7 +5788,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5817,29 +5796,29 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             },
             {
@@ -5864,42 +5843,35 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
+                "탈리아",
                 "카샤"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 20,
+              "value": 40,
               "unit": "percent",
               "sources": [
                 "칼리오페",
-                "멜리사"
+                "멜리사",
+                "켈리",
+                "탈리아"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "켈리"
               ]
             },
             {
               "label": "플레이어 피해 +24%",
-              "value": 48,
+              "value": 24,
               "unit": "percent",
               "sources": [
-                "리쿠",
                 "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
-              ]
-            },
-            {
-              "label": "스킬 피해 +20%",
-              "value": 20,
-              "unit": "percent",
-              "sources": [
-                "클레어"
               ]
             }
           ],
@@ -5945,7 +5917,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -5953,29 +5925,29 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
-              "id": 23,
-              "nameKo": "클레어",
-              "tier": "B",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "초기",
-              "localImageFile": "images/artists/Claire.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "스킬 피해 +20%",
-                "기본 공격 피해 +50%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             },
             {
@@ -6000,42 +5972,35 @@
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "클레어",
+                "탈리아",
                 "카샤"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 20,
+              "value": 40,
               "unit": "percent",
               "sources": [
                 "칼리오페",
-                "멜리사"
+                "멜리사",
+                "켈리",
+                "탈리아"
+              ]
+            },
+            {
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
+              "unit": "percent",
+              "sources": [
+                "켈리"
               ]
             },
             {
               "label": "플레이어 피해 +24%",
-              "value": 48,
+              "value": 24,
               "unit": "percent",
               "sources": [
-                "리쿠",
                 "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
-              ]
-            },
-            {
-              "label": "스킬 피해 +20%",
-              "value": 20,
-              "unit": "percent",
-              "sources": [
-                "클레어"
               ]
             }
           ],
@@ -6081,7 +6046,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6089,16 +6054,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -6115,55 +6080,48 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 160,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 52,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "켈리",
+                "안토니아",
+                "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 48,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠",
-                "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -6217,7 +6175,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6225,16 +6183,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -6251,55 +6209,48 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 160,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 52,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "켈리",
+                "안토니아",
+                "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 48,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠",
-                "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -6335,7 +6286,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6343,16 +6294,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -6369,55 +6320,48 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 160,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 52,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "켈리",
+                "안토니아",
+                "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 48,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠",
-                "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -6471,7 +6415,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6479,16 +6423,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -6505,55 +6449,48 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 160,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 52,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "켈리",
+                "안토니아",
+                "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 48,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠",
-                "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -6607,7 +6544,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6615,16 +6552,16 @@
               ]
             },
             {
-              "id": 57,
-              "nameKo": "리쿠",
-              "tier": "A",
+              "id": 38,
+              "nameKo": "켈리",
+              "tier": "C",
               "rank": "SSR",
               "role": "보컬",
-              "season": "도쿄 2",
-              "localImageFile": "images/artists/Riku.webp",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Kelly.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 기본 공격 피해 -12%"
+                "팬 수용량 +10%",
+                "집결 팬 수용량 +10%"
               ]
             },
             {
@@ -6641,55 +6578,48 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 160,
+              "value": 150,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 52,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "켈리",
+                "안토니아",
+                "탈리아"
               ]
             },
             {
-              "label": "플레이어 피해 +24%",
-              "value": 48,
+              "label": "집결 팬 수용량 +10%",
+              "value": 10,
               "unit": "percent",
               "sources": [
-                "리쿠",
-                "카샤"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "리쿠"
+                "켈리"
               ]
             },
             {
@@ -6725,7 +6655,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6759,39 +6689,40 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 240,
+              "value": 230,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
                 "모모사키",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 42,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "안토니아",
+                "탈리아"
               ]
             },
             {
@@ -6808,14 +6739,6 @@
               "unit": "percent",
               "sources": [
                 "안토니아"
-              ]
-            },
-            {
-              "label": "플레이어 피해 +24%",
-              "value": 24,
-              "unit": "percent",
-              "sources": [
-                "카샤"
               ]
             }
           ],
@@ -6861,7 +6784,7 @@
               "tier": "C",
               "rank": "SSR",
               "role": "센터",
-              "season": "발리 1",
+              "season": "도쿄 1",
               "localImageFile": "images/artists/Mellissa.webp",
               "skills": [
                 "기본 공격 피해 +50%",
@@ -6895,39 +6818,40 @@
               ]
             },
             {
-              "id": 37,
-              "nameKo": "카샤",
-              "tier": "A",
+              "id": 66,
+              "nameKo": "탈리아",
+              "tier": "C",
               "rank": "SSR",
-              "role": "댄서",
-              "season": "발리 2",
-              "localImageFile": "images/artists/Kasha.webp",
+              "role": "센터",
+              "season": "발리 1",
+              "localImageFile": "images/artists/Talia.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "기본 공격 피해 +60%"
+                "기본 공격 피해 +50%",
+                "팬 수용량 +10%"
               ]
             }
           ],
           "skillTotals": [
             {
               "label": "기본 공격 피해 +50%",
-              "value": 240,
+              "value": 230,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
                 "모모사키",
-                "카샤"
+                "탈리아"
               ]
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 32,
+              "value": 42,
               "unit": "percent",
               "sources": [
                 "칼리오페",
                 "멜리사",
-                "안토니아"
+                "안토니아",
+                "탈리아"
               ]
             },
             {
@@ -6944,14 +6868,6 @@
               "unit": "percent",
               "sources": [
                 "안토니아"
-              ]
-            },
-            {
-              "label": "플레이어 피해 +24%",
-              "value": 24,
-              "unit": "percent",
-              "sources": [
-                "카샤"
               ]
             }
           ],
@@ -9790,6 +9706,23 @@
           ],
           "newCandidates": [
             {
+              "id": 11,
+              "name": "Anya",
+              "nameKo": "안야",
+              "tier": "D",
+              "rank": "SSR",
+              "role": "센터",
+              "season": "도쿄 1",
+              "experienceBonus": 0,
+              "singStat": 24959,
+              "danceStat": 24959,
+              "localImageFile": "images/artists/Anya.webp",
+              "skills": [
+                "GC/클럽/LM 공격 시 DPS +200",
+                "팬 수용량 +10%"
+              ]
+            },
+            {
               "id": 40,
               "name": "Kokoro",
               "nameKo": "코코로",
@@ -10333,23 +10266,6 @@
             }
           ],
           "newCandidates": [
-            {
-              "id": 11,
-              "name": "Anya",
-              "nameKo": "안야",
-              "tier": "D",
-              "rank": "SSR",
-              "role": "센터",
-              "season": "발리 2",
-              "experienceBonus": 0,
-              "singStat": 24959,
-              "danceStat": 24959,
-              "localImageFile": "images/artists/Anya.webp",
-              "skills": [
-                "GC/클럽/LM 공격 시 DPS +200",
-                "팬 수용량 +10%"
-              ]
-            },
             {
               "id": 50,
               "name": "Nastassja",
