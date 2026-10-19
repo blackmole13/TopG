@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:50:43.129Z",
+  "updatedAt": "2026-10-19T17:15:16.128Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -54,6 +54,37 @@
     },
     {
       "priority": 2,
+      "id": 46,
+      "name": "Melissa",
+      "nameKo": "멜리사",
+      "rank": "SSR",
+      "tier": "C",
+      "genre": "Rock",
+      "role": "센터",
+      "startSeason": "도쿄 1",
+      "endSeason": "로마 5",
+      "seasonCount": 15,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "localImageFile": "images/artists/Mellissa.webp"
+    },
+    {
+      "priority": 3,
       "id": 15,
       "name": "Aurora",
       "nameKo": "오로라",
@@ -84,7 +115,7 @@
       "localImageFile": "images/artists/Aurora.webp"
     },
     {
-      "priority": 3,
+      "priority": 4,
       "id": 73,
       "name": "Bella",
       "nameKo": "벨라",
@@ -112,31 +143,6 @@
         13
       ],
       "localImageFile": "images/artists/Bella.webp"
-    },
-    {
-      "priority": 4,
-      "id": 23,
-      "name": "Claire",
-      "nameKo": "클레어",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "Rock",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "발리 3",
-      "seasonCount": 9,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "localImageFile": "images/artists/Claire.webp"
     },
     {
       "priority": 5,
@@ -207,6 +213,27 @@
         5
       ],
       "localImageFile": "images/artists/Everly.webp"
+    },
+    {
+      "priority": 8,
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "Rock",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "도쿄 2",
+      "seasonCount": 5,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "localImageFile": "images/artists/Claire.webp"
     }
   ]
 }
