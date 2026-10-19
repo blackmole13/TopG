@@ -95,8 +95,9 @@ function render() {
       icon.title = item.genreLabel;
       genre.append(icon);
     }
-    genre.append(document.createTextNode(item.genreLabel));
-    meta.append(genre, document.createTextNode(` · ${item.role} · ${item.tier}`));
+    genre.setAttribute("aria-label", item.genreLabel);
+    genre.title = item.genreLabel;
+    meta.append(genre, document.createTextNode(`${item.role} · ${item.tier}`));
     name.append(title, meta);
     identity.append(name);
 
@@ -154,7 +155,11 @@ async function loadPlan() {
   const list = document.getElementById("list");
   const stamp = document.getElementById("stamp");
   try {
-    const response = await fetch(`./level-plan.json?updated=${Date.now()}`, { cache: "no-store" });
+    const cacheBust = Date.now();
+    const [response, favoritesResponse] = await Promise.all([
+      fetch(`./level-plan.json?updated=${cacheBust}`, { cache: "no-store" }),
+      fetch(`./favorites.json?updated=${cacheBust}`, { cache: "no-store" }),
+    ]);
     if (!response.ok) throw new Error("공개 계산 정보를 불러오지 못했습니다.");
     const data = await response.json();
     if (!data.updatedAt) {
@@ -164,7 +169,12 @@ async function loadPlan() {
       return;
     }
     if (!data.rules?.expByLevel || !data.rules?.promotionGates) throw new Error("이 공개 데이터는 레벨 조정 규칙이 없습니다. 로컬 앱에서 육성 계산을 다시 게시해주세요.");
-    plan = { ...data, artists: data.artists.map((item) => ({ ...item, selected: true })) };
+    const favorites = favoritesResponse.ok ? await favoritesResponse.json() : { artists: [] };
+    const preference = new Map((favorites.artists || []).map((item) => [item.id, item.priority]));
+    const artists = data.artists
+      .map((item) => ({ ...item, selected: true, priority: preference.get(item.id) ?? Number.MAX_SAFE_INTEGER }))
+      .sort((a, b) => a.priority - b.priority || a.nameKo.localeCompare(b.nameKo, "ko"));
+    plan = { ...data, artists };
     stamp.textContent = "마지막 공개 게시 · " + new Date(data.updatedAt).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" });
     document.getElementById("controls").hidden = false;
     document.getElementById("select-all").addEventListener("click", () => { plan.artists.forEach((item) => { item.selected = true; }); render(); });
