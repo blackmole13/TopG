@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:49:10.950Z",
+  "updatedAt": "2026-10-19T17:18:30.252Z",
   "rules": {
     "milestones": [
       20,
@@ -1140,6 +1140,88 @@
       ]
     },
     {
+      "id": 46,
+      "nameKo": "멜리사",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "C",
+      "localImageFile": "images/artists/Mellissa.webp",
+      "currentLevel": 1,
+      "targetLevel": 120,
+      "includeCurrentPromotion": false,
+      "exp": 200963600,
+      "cards": 9500,
+      "gates": [
+        {
+          "level": 20,
+          "cards": 50,
+          "included": true
+        },
+        {
+          "level": 30,
+          "cards": 100,
+          "included": true
+        },
+        {
+          "level": 40,
+          "cards": 200,
+          "included": true
+        },
+        {
+          "level": 50,
+          "cards": 450,
+          "included": true
+        },
+        {
+          "level": 60,
+          "cards": 700,
+          "included": true
+        },
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
       "id": 15,
       "nameKo": "오로라",
       "rank": "SSR",
@@ -1319,11 +1401,11 @@
     }
   ],
   "totals": {
-    "exp": 574656320,
+    "exp": 775619920,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 25100
+        "cards": 34600
       },
       {
         "rank": "SR",
