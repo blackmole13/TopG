@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:22:56.877Z",
+  "updatedAt": "2026-10-19T16:37:06.776Z",
   "slots": [
     "메인 · 댄서",
     "메인 · 센터",
@@ -2968,16 +2968,16 @@
               ]
             },
             {
-              "id": 56,
-              "nameKo": "라티",
-              "tier": "B",
+              "id": 53,
+              "nameKo": "노바",
+              "tier": "C",
               "rank": "SSR",
               "role": "댄서",
-              "season": "발리 1",
-              "localImageFile": "images/artists/Ratih.webp",
+              "season": "초기",
+              "localImageFile": "images/artists/Nova.webp",
               "skills": [
-                "기본 공격 피해 +50%",
-                "받는 기본 공격 피해 -12%"
+                "방어 시 DPS +200",
+                "기본 공격 피해 +50%"
               ]
             }
           ],
@@ -2999,7 +2999,7 @@
                 "엘리자베스",
                 "마르그리트",
                 "소라",
-                "라티"
+                "노바"
               ]
             },
             {
@@ -3027,11 +3027,11 @@
               ]
             },
             {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
+              "label": "방어 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
               "sources": [
-                "라티"
+                "노바"
               ]
             }
           ],
@@ -7497,16 +7497,16 @@
               ]
             },
             {
-              "id": 49,
-              "nameKo": "모아나",
-              "tier": "S",
+              "id": 62,
+              "nameKo": "사바나",
+              "tier": "D",
               "rank": "SSR",
-              "role": "보컬",
-              "season": "발리 1",
-              "localImageFile": "images/artists/Moana.webp",
+              "role": "댄서",
+              "season": "초기",
+              "localImageFile": "images/artists/Savannah.webp",
               "skills": [
-                "받는 스킬 피해 -12%",
-                "받는 기본 공격 피해 -12%"
+                "회사 공격 시 DPS +200",
+                "팬 수용량 +10%"
               ]
             }
           ],
@@ -7540,10 +7540,11 @@
             },
             {
               "label": "팬 수용량 +10%",
-              "value": 10,
+              "value": 20,
               "unit": "percent",
               "sources": [
-                "로즈메리"
+                "로즈메리",
+                "사바나"
               ]
             },
             {
@@ -7555,19 +7556,11 @@
               ]
             },
             {
-              "label": "받는 스킬 피해 -12%",
-              "value": 12,
-              "unit": "percent",
+              "label": "회사 공격 시 DPS +200",
+              "value": 200,
+              "unit": "dps",
               "sources": [
-                "모아나"
-              ]
-            },
-            {
-              "label": "받는 기본 공격 피해 -12%",
-              "value": 12,
-              "unit": "percent",
-              "sources": [
-                "모아나"
+                "사바나"
               ]
             }
           ],
@@ -8615,16 +8608,16 @@
               ]
             },
             {
-              "id": 35,
-              "nameKo": "아일라",
-              "tier": "S+",
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
               "rank": "SSR",
-              "role": "센터",
-              "season": "발리 3",
-              "localImageFile": "images/artists/Isla.webp",
+              "role": "보컬",
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 스킬 피해 -12%"
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
               ]
             },
             {
@@ -8644,13 +8637,13 @@
           "skillTotals": [
             {
               "label": "플레이어 피해 +20%",
-              "value": 104,
+              "value": 108,
               "unit": "percent",
               "sources": [
                 "루비",
                 "모니카",
                 "모니카",
-                "아일라"
+                "유메노"
               ]
             },
             {
@@ -8672,11 +8665,11 @@
               ]
             },
             {
-              "label": "받는 스킬 피해 -12%",
+              "label": "받는 기본 공격 피해 -12%",
               "value": 12,
               "unit": "percent",
               "sources": [
-                "아일라"
+                "유메노"
               ]
             },
             {
@@ -8751,16 +8744,16 @@
               ]
             },
             {
-              "id": 35,
-              "nameKo": "아일라",
-              "tier": "S+",
+              "id": 70,
+              "nameKo": "유메노",
+              "tier": "S",
               "rank": "SSR",
-              "role": "센터",
-              "season": "발리 3",
-              "localImageFile": "images/artists/Isla.webp",
+              "role": "보컬",
+              "season": "도쿄 4",
+              "localImageFile": "images/artists/Yumeno.webp",
               "skills": [
-                "플레이어 피해 +24%",
-                "받는 스킬 피해 -12%"
+                "플레이어 피해 +28%",
+                "받는 기본 공격 피해 -12%"
               ]
             },
             {
@@ -8780,13 +8773,13 @@
           "skillTotals": [
             {
               "label": "플레이어 피해 +20%",
-              "value": 104,
+              "value": 108,
               "unit": "percent",
               "sources": [
                 "루비",
                 "모니카",
                 "모니카",
-                "아일라"
+                "유메노"
               ]
             },
             {
@@ -8808,11 +8801,11 @@
               ]
             },
             {
-              "label": "받는 스킬 피해 -12%",
+              "label": "받는 기본 공격 피해 -12%",
               "value": 12,
               "unit": "percent",
               "sources": [
-                "아일라"
+                "유메노"
               ]
             },
             {
