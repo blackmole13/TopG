@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T06:42:56.036Z",
+  "updatedAt": "2026-10-19T16:50:43.129Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -22,70 +22,6 @@
   "artists": [
     {
       "priority": 1,
-      "id": 16,
-      "name": "Avery",
-      "nameKo": "에이버리",
-      "rank": "SSR",
-      "tier": "S",
-      "genre": "Hip Hop",
-      "role": "댄서",
-      "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "localImageFile": "images/artists/Avery.webp"
-    },
-    {
-      "priority": 2,
-      "id": 55,
-      "name": "Paisley",
-      "nameKo": "페이즐리",
-      "rank": "SSR",
-      "tier": "S",
-      "genre": "Rock",
-      "role": "댄서",
-      "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "localImageFile": "images/artists/Paisley.webp"
-    },
-    {
-      "priority": 3,
       "id": 75,
       "name": "Longkui",
       "nameKo": "롱쿠이",
@@ -117,17 +53,17 @@
       "localImageFile": "images/artists/Longkui.webp"
     },
     {
-      "priority": 4,
-      "id": 13,
-      "name": "Audrey",
-      "nameKo": "오드리",
+      "priority": 2,
+      "id": 15,
+      "name": "Aurora",
+      "nameKo": "오로라",
       "rank": "SSR",
-      "tier": "A",
-      "genre": "Hip Hop",
+      "tier": "B",
+      "genre": "Pop",
       "role": "센터",
       "startSeason": "초기",
-      "endSeason": "발리 4",
-      "seasonCount": 12,
+      "endSeason": "발리 5",
+      "seasonCount": 15,
       "activeSeasons": [
         0,
         1,
@@ -140,22 +76,25 @@
         8,
         9,
         10,
-        11
+        11,
+        12,
+        13,
+        14
       ],
-      "localImageFile": "images/artists/Audrey.webp"
+      "localImageFile": "images/artists/Aurora.webp"
     },
     {
-      "priority": 5,
-      "id": 15,
-      "name": "Aurora",
-      "nameKo": "오로라",
+      "priority": 3,
+      "id": 73,
+      "name": "Bella",
+      "nameKo": "벨라",
       "rank": "SSR",
       "tier": "B",
-      "genre": "Pop",
-      "role": "센터",
+      "genre": "Hip Hop",
+      "role": "보컬",
       "startSeason": "초기",
-      "endSeason": "도쿄 3",
-      "seasonCount": 8,
+      "endSeason": "도쿄 5",
+      "seasonCount": 14,
       "activeSeasons": [
         0,
         1,
@@ -164,12 +103,18 @@
         4,
         5,
         6,
-        7
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
       ],
-      "localImageFile": "images/artists/Aurora.webp"
+      "localImageFile": "images/artists/Bella.webp"
     },
     {
-      "priority": 6,
+      "priority": 4,
       "id": 23,
       "name": "Claire",
       "nameKo": "클레어",
@@ -177,6 +122,56 @@
       "tier": "B",
       "genre": "Rock",
       "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "발리 3",
+      "seasonCount": 9,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "localImageFile": "images/artists/Claire.webp"
+    },
+    {
+      "priority": 5,
+      "id": 13,
+      "name": "Audrey",
+      "nameKo": "오드리",
+      "rank": "SSR",
+      "tier": "A",
+      "genre": "Hip Hop",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "발리 3",
+      "seasonCount": 9,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "localImageFile": "images/artists/Audrey.webp"
+    },
+    {
+      "priority": 6,
+      "id": 9,
+      "name": "Alice",
+      "nameKo": "앨리스",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "EDM",
+      "role": "보컬",
       "startSeason": "초기",
       "endSeason": "로마 2",
       "seasonCount": 7,
@@ -189,17 +184,17 @@
         5,
         6
       ],
-      "localImageFile": "images/artists/Claire.webp"
+      "localImageFile": "images/artists/Alice.webp"
     },
     {
       "priority": 7,
-      "id": 9,
-      "name": "Alice",
-      "nameKo": "앨리스",
+      "id": 30,
+      "name": "Everly",
+      "nameKo": "에블리",
       "rank": "SSR",
       "tier": "B",
       "genre": "EDM",
-      "role": "보컬",
+      "role": "센터",
       "startSeason": "초기",
       "endSeason": "발리 2",
       "seasonCount": 6,
@@ -211,179 +206,7 @@
         4,
         5
       ],
-      "localImageFile": "images/artists/Alice.webp"
-    },
-    {
-      "priority": 8,
-      "id": 30,
-      "name": "Everly",
-      "nameKo": "에블리",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "EDM",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "발리 1",
-      "seasonCount": 3,
-      "activeSeasons": [
-        0,
-        1,
-        2
-      ],
       "localImageFile": "images/artists/Everly.webp"
-    },
-    {
-      "priority": 9,
-      "id": 72,
-      "name": "Zendayah",
-      "nameKo": "젠다이아",
-      "rank": "SSR",
-      "tier": "D",
-      "genre": "R&B",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "도쿄 2",
-      "seasonCount": 5,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ],
-      "localImageFile": "images/artists/Zendayah.webp"
-    },
-    {
-      "priority": 10,
-      "id": 64,
-      "name": "Skylar",
-      "nameKo": "스카일러",
-      "rank": "SSR",
-      "tier": "C",
-      "genre": "Rock",
-      "role": "보컬",
-      "startSeason": "초기",
-      "endSeason": "로마 1",
-      "seasonCount": 4,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "localImageFile": "images/artists/Skylar.webp"
-    },
-    {
-      "priority": 11,
-      "id": 80,
-      "name": "Chloe",
-      "nameKo": "클로이",
-      "rank": "SR",
-      "tier": "C",
-      "genre": "Rock",
-      "role": "댄서",
-      "startSeason": "초기",
-      "endSeason": "도쿄 2",
-      "seasonCount": 5,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ],
-      "localImageFile": "images/artists/Chloe.webp"
-    },
-    {
-      "priority": 12,
-      "id": 92,
-      "name": "Penelope",
-      "nameKo": "페넬로페",
-      "rank": "SR",
-      "tier": "B",
-      "genre": "R&B",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "발리 1",
-      "seasonCount": 3,
-      "activeSeasons": [
-        0,
-        1,
-        2
-      ],
-      "localImageFile": "images/artists/Penelope.webp"
-    },
-    {
-      "priority": 13,
-      "id": 73,
-      "name": "Bella",
-      "nameKo": "벨라",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "Hip Hop",
-      "role": "보컬",
-      "startSeason": "초기",
-      "endSeason": "도쿄 1",
-      "seasonCount": 2,
-      "activeSeasons": [
-        0,
-        1
-      ],
-      "localImageFile": "images/artists/Bella.webp"
-    },
-    {
-      "priority": 14,
-      "id": 53,
-      "name": "Nova",
-      "nameKo": "노바",
-      "rank": "SSR",
-      "tier": "C",
-      "genre": "R&B",
-      "role": "댄서",
-      "startSeason": "초기",
-      "endSeason": "도쿄 1",
-      "seasonCount": 2,
-      "activeSeasons": [
-        0,
-        1
-      ],
-      "localImageFile": "images/artists/Nova.webp"
-    },
-    {
-      "priority": 15,
-      "id": 19,
-      "name": "Brooklyn",
-      "nameKo": "브루클린",
-      "rank": "SSR",
-      "tier": "D",
-      "genre": "Pop",
-      "role": "보컬",
-      "startSeason": "초기",
-      "endSeason": "도쿄 1",
-      "seasonCount": 2,
-      "activeSeasons": [
-        0,
-        1
-      ],
-      "localImageFile": "images/artists/Brooklyn.webp"
-    },
-    {
-      "priority": 16,
-      "id": 62,
-      "name": "Savannah",
-      "nameKo": "사바나",
-      "rank": "SSR",
-      "tier": "D",
-      "genre": "Pop",
-      "role": "댄서",
-      "startSeason": "초기",
-      "endSeason": "도쿄 1",
-      "seasonCount": 2,
-      "activeSeasons": [
-        0,
-        1
-      ],
-      "localImageFile": "images/artists/Savannah.webp"
     }
   ]
 }
