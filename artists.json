@@ -3625,7 +3625,7 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "5% Damage Reduction",
+      "5% Basic Attack Damage Reduction",
       "15% Damage Increase World Building Guard"
     ],
     "season": "Universal",
@@ -3633,15 +3633,15 @@
     "localImageFile": "images/artists/Grace.webp",
     "normalizedSkillEffects": [
       {
-        "sourceText": "5% Damage Reduction",
-        "normalizedText": "5% Damage Reduction",
+        "sourceText": "5% Basic Attack Damage Reduction",
+        "normalizedText": "5% Basic Attack Damage Reduction",
         "category": "피해 감소",
-        "effectType": "incoming_damage_reduction",
+        "effectType": "basic_attack_damage_reduction",
         "direction": "reduce",
         "value": 5,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "displayTextKo": "받는 피해 -5%"
+        "displayTextKo": "받는 기본 공격 피해 -5%"
       },
       {
         "sourceText": "15% Damage Increase World Building Guard",
@@ -3758,7 +3758,7 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "5% Damage Reduction",
+      "5% Basic Attack Damage Reduction",
       "2% Fan Capacity"
     ],
     "season": "Universal",
@@ -3766,15 +3766,15 @@
     "localImageFile": "images/artists/Lily.webp",
     "normalizedSkillEffects": [
       {
-        "sourceText": "5% Damage Reduction",
-        "normalizedText": "5% Damage Reduction",
+        "sourceText": "5% Basic Attack Damage Reduction",
+        "normalizedText": "5% Basic Attack Damage Reduction",
         "category": "피해 감소",
-        "effectType": "incoming_damage_reduction",
+        "effectType": "basic_attack_damage_reduction",
         "direction": "reduce",
         "value": 5,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "displayTextKo": "받는 피해 -5%"
+        "displayTextKo": "받는 기본 공격 피해 -5%"
       },
       {
         "sourceText": "2% Fan Capacity",
@@ -3802,7 +3802,7 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "5% Damage Reduction",
+      "5% Basic Attack Damage Reduction",
       "40% Drive Speed Increase"
     ],
     "season": "Universal",
@@ -3810,15 +3810,15 @@
     "localImageFile": "images/artists/Luna.webp",
     "normalizedSkillEffects": [
       {
-        "sourceText": "5% Damage Reduction",
-        "normalizedText": "5% Damage Reduction",
+        "sourceText": "5% Basic Attack Damage Reduction",
+        "normalizedText": "5% Basic Attack Damage Reduction",
         "category": "피해 감소",
-        "effectType": "incoming_damage_reduction",
+        "effectType": "basic_attack_damage_reduction",
         "direction": "reduce",
         "value": 5,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "displayTextKo": "받는 피해 -5%"
+        "displayTextKo": "받는 기본 공격 피해 -5%"
       },
       {
         "sourceText": "40% Drive Speed Increase",
@@ -5109,35 +5109,34 @@
     "singStat": null,
     "danceStat": null,
     "skills": [
-      "↑36% damage to world building guard",
-      "↓12% damage taken"
+      "↑80% basic attack damage dealt",
+      "↓12% basic attack damage taken"
     ],
     "season": "Bali 5",
     "description": "A talented Vocalist from None.",
     "localImageFile": "images/artists/Momosaki.webp",
     "normalizedSkillEffects": [
       {
-        "sourceText": "↑36% damage to world building guard",
-        "normalizedText": "↑36% damage to world building guard",
+        "sourceText": "↑80% basic attack damage dealt",
+        "normalizedText": "↑80% basic attack damage dealt",
         "category": "피해 증가",
-        "effectType": "world_building_guard_damage_increase",
+        "effectType": "basic_attack_damage_increase",
         "direction": "increase",
-        "value": 36,
+        "value": 80,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "target": "World Building Guard",
-        "displayTextKo": "월드 빌딩 가드 피해 +36%"
+        "displayTextKo": "기본 공격 피해 +80%"
       },
       {
-        "sourceText": "↓12% damage taken",
-        "normalizedText": "↓12% damage taken",
+        "sourceText": "↓12% basic attack damage taken",
+        "normalizedText": "↓12% basic attack damage taken",
         "category": "피해 감소",
-        "effectType": "incoming_damage_reduction",
+        "effectType": "basic_attack_damage_reduction",
         "direction": "reduce",
         "value": 12,
         "unit": "percent",
         "normalizationStatus": "draft",
-        "displayTextKo": "받는 피해 -12%"
+        "displayTextKo": "받는 기본 공격 피해 -12%"
       }
     ]
   },
