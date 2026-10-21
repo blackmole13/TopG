@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T17:15:16.128Z",
+  "updatedAt": "2026-10-21T15:11:25.597Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -85,6 +85,62 @@
     },
     {
       "priority": 3,
+      "id": 9,
+      "name": "Alice",
+      "nameKo": "앨리스",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "EDM",
+      "role": "보컬",
+      "startSeason": "초기",
+      "endSeason": "로마 4",
+      "seasonCount": 13,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "localImageFile": "images/artists/Alice.webp"
+    },
+    {
+      "priority": 4,
+      "id": 30,
+      "name": "Everly",
+      "nameKo": "에블리",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "EDM",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "도쿄 4",
+      "seasonCount": 11,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "localImageFile": "images/artists/Everly.webp"
+    },
+    {
+      "priority": 5,
       "id": 15,
       "name": "Aurora",
       "nameKo": "오로라",
@@ -93,8 +149,8 @@
       "genre": "Pop",
       "role": "센터",
       "startSeason": "초기",
-      "endSeason": "발리 5",
-      "seasonCount": 15,
+      "endSeason": "로마 5",
+      "seasonCount": 16,
       "activeSeasons": [
         0,
         1,
@@ -110,12 +166,45 @@
         11,
         12,
         13,
-        14
+        14,
+        15
       ],
       "localImageFile": "images/artists/Aurora.webp"
     },
     {
-      "priority": 4,
+      "priority": 6,
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "Rock",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "로마 5",
+      "seasonCount": 16,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "localImageFile": "images/artists/Claire.webp"
+    },
+    {
+      "priority": 7,
       "id": 73,
       "name": "Bella",
       "nameKo": "벨라",
@@ -145,7 +234,33 @@
       "localImageFile": "images/artists/Bella.webp"
     },
     {
-      "priority": 5,
+      "priority": 8,
+      "id": 16,
+      "name": "Avery",
+      "nameKo": "에이버리",
+      "rank": "SSR",
+      "tier": "S",
+      "genre": "Hip Hop",
+      "role": "댄서",
+      "startSeason": "초기",
+      "endSeason": "로마 3",
+      "seasonCount": 10,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "localImageFile": "images/artists/Avery.webp"
+    },
+    {
+      "priority": 9,
       "id": 13,
       "name": "Audrey",
       "nameKo": "오드리",
@@ -168,72 +283,6 @@
         8
       ],
       "localImageFile": "images/artists/Audrey.webp"
-    },
-    {
-      "priority": 6,
-      "id": 9,
-      "name": "Alice",
-      "nameKo": "앨리스",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "EDM",
-      "role": "보컬",
-      "startSeason": "초기",
-      "endSeason": "로마 2",
-      "seasonCount": 7,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "localImageFile": "images/artists/Alice.webp"
-    },
-    {
-      "priority": 7,
-      "id": 30,
-      "name": "Everly",
-      "nameKo": "에블리",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "EDM",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "발리 2",
-      "seasonCount": 6,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "localImageFile": "images/artists/Everly.webp"
-    },
-    {
-      "priority": 8,
-      "id": 23,
-      "name": "Claire",
-      "nameKo": "클레어",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "Rock",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "도쿄 2",
-      "seasonCount": 5,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ],
-      "localImageFile": "images/artists/Claire.webp"
     }
   ]
 }
