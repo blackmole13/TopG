@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T15:11:38.839Z",
+  "updatedAt": "2026-10-21T15:24:21.441Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -50,6 +50,90 @@
         14,
         15
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "센터"
+        },
+        {
+          "season": 2,
+          "role": "센터"
+        },
+        {
+          "season": 3,
+          "role": "센터"
+        },
+        {
+          "season": 4,
+          "role": "센터"
+        },
+        {
+          "season": 5,
+          "role": "센터"
+        },
+        {
+          "season": 6,
+          "role": "센터"
+        },
+        {
+          "season": 7,
+          "role": "센터"
+        },
+        {
+          "season": 8,
+          "role": "센터"
+        },
+        {
+          "season": 9,
+          "role": "센터"
+        },
+        {
+          "season": 10,
+          "role": "센터"
+        },
+        {
+          "season": 11,
+          "role": "센터"
+        },
+        {
+          "season": 12,
+          "role": "센터"
+        },
+        {
+          "season": 13,
+          "role": "센터"
+        },
+        {
+          "season": 14,
+          "role": "센터"
+        },
+        {
+          "season": 15,
+          "role": "센터"
+        }
+      ],
       "localImageFile": "images/artists/Longkui.webp"
     },
     {
@@ -81,6 +165,85 @@
         14,
         15
       ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "albumSeasons": [
+        {
+          "season": 1,
+          "role": "센터"
+        },
+        {
+          "season": 2,
+          "role": "센터"
+        },
+        {
+          "season": 3,
+          "role": "센터"
+        },
+        {
+          "season": 4,
+          "role": "센터"
+        },
+        {
+          "season": 5,
+          "role": "센터"
+        },
+        {
+          "season": 6,
+          "role": "센터"
+        },
+        {
+          "season": 7,
+          "role": "센터"
+        },
+        {
+          "season": 8,
+          "role": "센터"
+        },
+        {
+          "season": 9,
+          "role": "센터"
+        },
+        {
+          "season": 10,
+          "role": "센터"
+        },
+        {
+          "season": 11,
+          "role": "센터"
+        },
+        {
+          "season": 12,
+          "role": "센터"
+        },
+        {
+          "season": 13,
+          "role": "센터"
+        },
+        {
+          "season": 14,
+          "role": "센터"
+        },
+        {
+          "season": 15,
+          "role": "센터"
+        }
+      ],
       "localImageFile": "images/artists/Mellissa.webp"
     },
     {
@@ -110,6 +273,73 @@
         11,
         12
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "보컬"
+        },
+        {
+          "season": 1,
+          "role": "보컬"
+        },
+        {
+          "season": 2,
+          "role": "보컬"
+        },
+        {
+          "season": 3,
+          "role": "보컬"
+        },
+        {
+          "season": 4,
+          "role": "보컬"
+        },
+        {
+          "season": 5,
+          "role": "보컬"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        }
+      ],
       "localImageFile": "images/artists/Alice.webp"
     },
     {
@@ -136,6 +366,60 @@
         8,
         9,
         10
+      ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "서브"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        }
       ],
       "localImageFile": "images/artists/Everly.webp"
     },
@@ -169,6 +453,87 @@
         14,
         15
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "센터"
+        },
+        {
+          "season": 2,
+          "role": "센터"
+        },
+        {
+          "season": 3,
+          "role": "센터"
+        },
+        {
+          "season": 4,
+          "role": "센터"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        }
+      ],
       "localImageFile": "images/artists/Aurora.webp"
     },
     {
@@ -201,6 +566,83 @@
         14,
         15
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        }
+      ],
       "localImageFile": "images/artists/Claire.webp"
     },
     {
@@ -231,6 +673,80 @@
         12,
         13
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "보컬"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        }
+      ],
       "localImageFile": "images/artists/Bella.webp"
     },
     {
@@ -257,6 +773,59 @@
         8,
         9
       ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "댄서"
+        },
+        {
+          "season": 1,
+          "role": "댄서"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        }
+      ],
       "localImageFile": "images/artists/Avery.webp"
     },
     {
@@ -281,6 +850,49 @@
         6,
         7,
         8
+      ],
+      "battleSeasons": [
+        0,
+        1,
+        2
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "센터"
+        },
+        {
+          "season": 2,
+          "role": "센터"
+        },
+        {
+          "season": 3,
+          "role": "센터"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        }
       ],
       "localImageFile": "images/artists/Audrey.webp"
     }
