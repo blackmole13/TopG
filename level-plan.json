@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T17:18:30.252Z",
+  "updatedAt": "2026-10-21T15:46:44.498Z",
   "rules": {
     "milestones": [
       20,
@@ -1039,6 +1039,33 @@
   },
   "artists": [
     {
+      "id": 16,
+      "nameKo": "에이버리",
+      "rank": "SSR",
+      "role": "댄서",
+      "genre": "Hip Hop",
+      "genreLabel": "힙합",
+      "tier": "S",
+      "localImageFile": "images/artists/Avery.webp",
+      "currentLevel": 80,
+      "targetLevel": 90,
+      "includeCurrentPromotion": true,
+      "exp": 25500000,
+      "cards": 1600,
+      "gates": [
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
       "id": 13,
       "nameKo": "오드리",
       "rank": "SSR",
@@ -1048,10 +1075,10 @@
       "tier": "A",
       "localImageFile": "images/artists/Audrey.webp",
       "currentLevel": 80,
-      "targetLevel": 100,
+      "targetLevel": 90,
       "includeCurrentPromotion": true,
-      "exp": 61000000,
-      "cards": 3200,
+      "exp": 25500000,
+      "cards": 1600,
       "gates": [
         {
           "level": 80,
@@ -1060,53 +1087,6 @@
         },
         {
           "level": 85,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
-          "cards": 800,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "nameKo": "벨라",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "Hip Hop",
-      "genreLabel": "힙합",
-      "tier": "B",
-      "localImageFile": "images/artists/Bella.webp",
-      "currentLevel": 80,
-      "targetLevel": 100,
-      "includeCurrentPromotion": false,
-      "exp": 61000000,
-      "cards": 2400,
-      "gates": [
-        {
-          "level": 80,
-          "cards": 800,
-          "included": false
-        },
-        {
-          "level": 85,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
           "cards": 800,
           "included": true
         }
@@ -1149,10 +1129,10 @@
       "tier": "C",
       "localImageFile": "images/artists/Mellissa.webp",
       "currentLevel": 1,
-      "targetLevel": 120,
+      "targetLevel": 100,
       "includeCurrentPromotion": false,
-      "exp": 200963600,
-      "cards": 9500,
+      "exp": 99963600,
+      "cards": 4700,
       "gates": [
         {
           "level": 20,
@@ -1197,26 +1177,6 @@
         {
           "level": 95,
           "cards": 800,
-          "included": true
-        },
-        {
-          "level": 100,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 105,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 110,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 115,
-          "cards": 1200,
           "included": true
         }
       ]
@@ -1362,10 +1322,10 @@
       "tier": "B",
       "localImageFile": "images/artists/Everly.webp",
       "currentLevel": 80,
-      "targetLevel": 110,
+      "targetLevel": 100,
       "includeCurrentPromotion": false,
-      "exp": 106500000,
-      "cards": 4800,
+      "exp": 61000000,
+      "cards": 2400,
       "gates": [
         {
           "level": 80,
@@ -1386,26 +1346,16 @@
           "level": 95,
           "cards": 800,
           "included": true
-        },
-        {
-          "level": 100,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 105,
-          "cards": 1200,
-          "included": true
         }
       ]
     }
   ],
   "totals": {
-    "exp": 775619920,
+    "exp": 558119920,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 34600
+        "cards": 25000
       },
       {
         "rank": "SR",
