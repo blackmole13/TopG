@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T15:24:21.441Z",
+  "updatedAt": "2026-10-21T15:48:53.609Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -425,6 +425,115 @@
     },
     {
       "priority": 5,
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "Rock",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "로마 5",
+      "seasonCount": 16,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Claire.webp"
+    },
+    {
+      "priority": 6,
       "id": 15,
       "name": "Aurora",
       "nameKo": "오로라",
@@ -535,115 +644,6 @@
         }
       ],
       "localImageFile": "images/artists/Aurora.webp"
-    },
-    {
-      "priority": 6,
-      "id": 23,
-      "name": "Claire",
-      "nameKo": "클레어",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "Rock",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "battleSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "albumSeasons": [
-        {
-          "season": 0,
-          "role": "센터"
-        },
-        {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        },
-        {
-          "season": 3,
-          "role": "서브"
-        },
-        {
-          "season": 4,
-          "role": "서브"
-        },
-        {
-          "season": 5,
-          "role": "서브"
-        },
-        {
-          "season": 6,
-          "role": "서브"
-        },
-        {
-          "season": 7,
-          "role": "서브"
-        },
-        {
-          "season": 8,
-          "role": "서브"
-        },
-        {
-          "season": 9,
-          "role": "서브"
-        },
-        {
-          "season": 10,
-          "role": "서브"
-        },
-        {
-          "season": 11,
-          "role": "서브"
-        },
-        {
-          "season": 12,
-          "role": "서브"
-        },
-        {
-          "season": 13,
-          "role": "서브"
-        },
-        {
-          "season": 14,
-          "role": "서브"
-        },
-        {
-          "season": 15,
-          "role": "서브"
-        }
-      ],
-      "localImageFile": "images/artists/Claire.webp"
     },
     {
       "priority": 7,
