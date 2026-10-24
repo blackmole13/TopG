@@ -34,6 +34,17 @@ function calculate(item) {
   return { exp, cards, hasStartingGate: gates.some((gate) => gate.level === item.currentLevel) };
 }
 
+function maximumLevel() {
+  return Math.max(...plan.rules.expByLevel.map(({ level }) => level)) + 1;
+}
+
+function targetChoices(currentLevel, selectedTarget) {
+  const maximum = maximumLevel();
+  const choices = [...plan.rules.milestones, maximum].filter((level) => level > currentLevel);
+  if (selectedTarget > currentLevel && selectedTarget <= maximum && !choices.includes(selectedTarget)) choices.push(selectedTarget);
+  return [...new Set(choices)].sort((a, b) => a - b);
+}
+
 function render() {
   const list = document.getElementById("list");
   const summary = document.getElementById("summary");
@@ -101,13 +112,25 @@ function render() {
     name.append(title, meta);
     identity.append(name);
 
-    const current = document.createElement("div");
+    const current = document.createElement("label");
     current.className = "levels current";
     const currentLabel = document.createElement("small");
-    currentLabel.textContent = "현재 레벨";
-    const currentValue = document.createElement("b");
-    currentValue.textContent = `Lv.${item.currentLevel}`;
-    current.append(currentLabel, currentValue);
+    currentLabel.textContent = "시작 레벨";
+    const currentInput = document.createElement("input");
+    currentInput.className = "level-input";
+    currentInput.type = "number";
+    currentInput.min = "1";
+    currentInput.max = String(maximumLevel() - 1);
+    currentInput.value = String(item.currentLevel);
+    currentInput.disabled = !item.selected;
+    currentInput.addEventListener("change", () => {
+      const next = Math.min(maximumLevel() - 1, Math.max(1, Math.trunc(Number(currentInput.value) || item.publishedCurrentLevel)));
+      item.currentLevel = next;
+      const choices = targetChoices(next, item.targetLevel);
+      if (item.targetLevel <= next) item.targetLevel = choices[0] ?? maximumLevel();
+      render();
+    });
+    current.append(currentLabel, currentInput);
 
     const target = document.createElement("label");
     target.className = "levels target";
@@ -115,10 +138,7 @@ function render() {
     targetLabel.textContent = "목표 레벨";
     const targetSelect = document.createElement("select");
     targetSelect.className = "target-select";
-    const choices = plan.rules.milestones.filter((level) => level > item.currentLevel);
-    if (!choices.length) choices.push(140);
-    if (!choices.includes(item.targetLevel)) choices.push(item.targetLevel);
-    choices.sort((a, b) => a - b);
+    const choices = targetChoices(item.currentLevel, item.targetLevel);
     for (const level of choices) {
       const option = document.createElement("option");
       option.value = String(level);
@@ -172,7 +192,7 @@ async function loadPlan() {
     const favorites = favoritesResponse.ok ? await favoritesResponse.json() : { artists: [] };
     const preference = new Map((favorites.artists || []).map((item) => [item.id, item.priority]));
     const artists = data.artists
-      .map((item) => ({ ...item, selected: true, priority: preference.get(item.id) ?? Number.MAX_SAFE_INTEGER }))
+      .map((item) => ({ ...item, publishedCurrentLevel: item.currentLevel, selected: true, priority: preference.get(item.id) ?? Number.MAX_SAFE_INTEGER }))
       .sort((a, b) => a.priority - b.priority || a.nameKo.localeCompare(b.nameKo, "ko"));
     plan = { ...data, artists };
     stamp.textContent = "마지막 공개 게시 · " + new Date(data.updatedAt).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" });

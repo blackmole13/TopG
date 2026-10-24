@@ -1,6 +1,6 @@
 # TOPGIRL Artist Database
 
-This static site contains the artist directory, season party results, a read-only published favorite artist order, and an interactive published leveling plan. The leveling page lets visitors select among published artists and adjust target levels in their browser; fixed promotion settings come from the published plan. It does not include roster management, account sync, or affection management. Artist data and images are copied from the application source. The local app publishes the selected favorite order and season activity to favorites.json; browser-only preferences stay on the visitor's device.
+This static site contains the artist directory, season party results, a read-only published favorite artist order, and an interactive published leveling plan. The leveling page starts from the current levels captured from the local app and lets visitors adjust both starting and target levels in their browser; fixed promotion settings come from the published plan. Browser changes are session-only and never update the local app. It does not include roster management, account sync, or affection management. Artist data and images are copied from the application source. The local app publishes the selected favorite order and season activity to favorites.json; browser-only preferences stay on the visitor's device.
 
 ## GitHub Pages
 
