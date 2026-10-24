@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:24:53.741Z",
+  "updatedAt": "2026-10-24T16:26:23.435Z",
   "rules": {
     "milestones": [
       20,
@@ -1087,35 +1087,6 @@
       ]
     },
     {
-      "id": 55,
-      "name": "Paisley",
-      "nameKo": "페이즐리",
-      "rank": "SSR",
-      "role": "댄서",
-      "genre": "Rock",
-      "genreLabel": "록",
-      "tier": "A",
-      "localImageFile": "images/artists/Paisley.webp",
-      "currentLevel": 100,
-      "targetLevel": 110,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 45500000,
-      "cards": 2400,
-      "gates": [
-        {
-          "level": 100,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 105,
-          "cards": 1200,
-          "included": true
-        }
-      ]
-    },
-    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
@@ -1189,59 +1160,6 @@
       ]
     },
     {
-      "id": 19,
-      "name": "Brooklyn",
-      "nameKo": "브루클린",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "Pop",
-      "genreLabel": "팝",
-      "tier": "D",
-      "localImageFile": "images/artists/Brooklyn.webp",
-      "currentLevel": 60,
-      "targetLevel": 80,
-      "includeCurrentPromotion": false,
-      "experienceExtraPercent": 0,
-      "exp": 29550000,
-      "cards": 0,
-      "gates": [
-        {
-          "level": 60,
-          "cards": 700,
-          "included": false
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "name": "Savannah",
-      "nameKo": "사바나",
-      "rank": "SSR",
-      "role": "댄서",
-      "genre": "Pop",
-      "genreLabel": "팝",
-      "tier": "D",
-      "localImageFile": "images/artists/Savannah.webp",
-      "currentLevel": 50,
-      "targetLevel": 80,
-      "includeCurrentPromotion": false,
-      "experienceExtraPercent": 0,
-      "exp": 35330000,
-      "cards": 700,
-      "gates": [
-        {
-          "level": 50,
-          "cards": 450,
-          "included": false
-        },
-        {
-          "level": 60,
-          "cards": 700,
-          "included": true
-        }
-      ]
-    },
-    {
       "id": 9,
       "name": "Alice",
       "nameKo": "앨리스",
@@ -1271,15 +1189,15 @@
       "localImageFile": "images/artists/Cindy.webp",
       "currentLevel": 40,
       "targetLevel": 50,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 2350000,
-      "cards": 0,
+      "cards": 200,
       "gates": [
         {
           "level": 40,
           "cards": 200,
-          "included": false
+          "included": true
         }
       ]
     },
@@ -1377,11 +1295,11 @@
     }
   ],
   "totals": {
-    "exp": 387210000,
+    "exp": 276830000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 10300
+        "cards": 7400
       },
       {
         "rank": "SR",
