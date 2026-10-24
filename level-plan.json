@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:19:50.480Z",
+  "updatedAt": "2026-10-24T16:24:53.741Z",
   "rules": {
     "milestones": [
       20,
@@ -1040,6 +1040,7 @@
   "artists": [
     {
       "id": 39,
+      "name": "Kesnia",
       "nameKo": "케스니아",
       "rank": "SSR",
       "role": "보컬",
@@ -1050,6 +1051,7 @@
       "currentLevel": 40,
       "targetLevel": 50,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 2350000,
       "cards": 0,
       "gates": [
@@ -1062,6 +1064,7 @@
     },
     {
       "id": 128,
+      "name": "Anna",
       "nameKo": "안나",
       "rank": "SSR",
       "role": "보컬",
@@ -1072,6 +1075,7 @@
       "currentLevel": 40,
       "targetLevel": 50,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 2350000,
       "cards": 0,
       "gates": [
@@ -1084,6 +1088,7 @@
     },
     {
       "id": 55,
+      "name": "Paisley",
       "nameKo": "페이즐리",
       "rank": "SSR",
       "role": "댄서",
@@ -1094,6 +1099,7 @@
       "currentLevel": 100,
       "targetLevel": 110,
       "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
       "exp": 45500000,
       "cards": 2400,
       "gates": [
@@ -1111,6 +1117,7 @@
     },
     {
       "id": 46,
+      "name": "Mellissa",
       "nameKo": "멜리사",
       "rank": "SSR",
       "role": "센터",
@@ -1121,6 +1128,7 @@
       "currentLevel": 60,
       "targetLevel": 100,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 90550000,
       "cards": 3200,
       "gates": [
@@ -1153,6 +1161,7 @@
     },
     {
       "id": 15,
+      "name": "Aurora",
       "nameKo": "오로라",
       "rank": "SSR",
       "role": "센터",
@@ -1163,6 +1172,7 @@
       "currentLevel": 90,
       "targetLevel": 100,
       "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
       "exp": 35500000,
       "cards": 1600,
       "gates": [
@@ -1180,6 +1190,7 @@
     },
     {
       "id": 19,
+      "name": "Brooklyn",
       "nameKo": "브루클린",
       "rank": "SSR",
       "role": "보컬",
@@ -1190,6 +1201,7 @@
       "currentLevel": 60,
       "targetLevel": 80,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 29550000,
       "cards": 0,
       "gates": [
@@ -1202,6 +1214,7 @@
     },
     {
       "id": 62,
+      "name": "Savannah",
       "nameKo": "사바나",
       "rank": "SSR",
       "role": "댄서",
@@ -1212,6 +1225,7 @@
       "currentLevel": 50,
       "targetLevel": 80,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 35330000,
       "cards": 700,
       "gates": [
@@ -1229,6 +1243,7 @@
     },
     {
       "id": 9,
+      "name": "Alice",
       "nameKo": "앨리스",
       "rank": "SSR",
       "role": "보컬",
@@ -1239,12 +1254,14 @@
       "currentLevel": 116,
       "targetLevel": 120,
       "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
       "exp": 23400000,
       "cards": 0,
       "gates": []
     },
     {
       "id": 22,
+      "name": "Cindy",
       "nameKo": "신디",
       "rank": "SSR",
       "role": "센터",
@@ -1255,6 +1272,7 @@
       "currentLevel": 40,
       "targetLevel": 50,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 2350000,
       "cards": 0,
       "gates": [
@@ -1267,6 +1285,7 @@
     },
     {
       "id": 30,
+      "name": "Everly",
       "nameKo": "에블리",
       "rank": "SSR",
       "role": "센터",
@@ -1277,6 +1296,7 @@
       "currentLevel": 80,
       "targetLevel": 100,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 61000000,
       "cards": 2400,
       "gates": [
@@ -1304,6 +1324,7 @@
     },
     {
       "id": 92,
+      "name": "Penelope",
       "nameKo": "페넬로페",
       "rank": "SR",
       "role": "센터",
@@ -1314,6 +1335,7 @@
       "currentLevel": 105,
       "targetLevel": 110,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 24000000,
       "cards": 0,
       "gates": [
@@ -1326,6 +1348,7 @@
     },
     {
       "id": 97,
+      "name": "Victoria",
       "nameKo": "빅토리아",
       "rank": "SR",
       "role": "센터",
@@ -1336,6 +1359,7 @@
       "currentLevel": 50,
       "targetLevel": 80,
       "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
       "exp": 35330000,
       "cards": 700,
       "gates": [

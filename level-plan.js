@@ -19,7 +19,7 @@ let plan;
 function calculate(item) {
   const rules = plan.rules;
   const expByLevel = new Map(rules.expByLevel.map(({ level, exp }) => [level, exp]));
-  const extra = rules.experienceMultipliers.find((entry) => entry.name === item.name)?.extraPercent ?? 0;
+  const extra = item.experienceExtraPercent ?? rules.experienceMultipliers.find((entry) => entry.name === item.name)?.extraPercent ?? 0;
   let exp = 0;
   for (let level = item.currentLevel; level < item.targetLevel; level += 1) {
     const cost = expByLevel.get(level);
@@ -109,6 +109,12 @@ function render() {
     genre.setAttribute("aria-label", item.genreLabel);
     genre.title = item.genreLabel;
     meta.append(genre, document.createTextNode(`${item.role} · ${item.tier}`));
+    if (item.experienceExtraPercent > 0) {
+      const bonus = document.createElement("span");
+      bonus.className = "exp-bonus";
+      bonus.textContent = `경험치 +${Math.round(item.experienceExtraPercent * 100)}%`;
+      meta.append(bonus);
+    }
     name.append(title, meta);
     identity.append(name);
 
