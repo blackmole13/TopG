@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:26:23.435Z",
+  "updatedAt": "2026-10-24T16:38:58.249Z",
   "rules": {
     "milestones": [
       20,
@@ -1050,15 +1050,15 @@
       "localImageFile": "images/artists/Kesnia.webp",
       "currentLevel": 40,
       "targetLevel": 50,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 2350000,
-      "cards": 0,
+      "cards": 200,
       "gates": [
         {
           "level": 40,
           "cards": 200,
-          "included": false
+          "included": true
         }
       ]
     },
@@ -1074,15 +1074,44 @@
       "localImageFile": "images/artists/Anna.webp",
       "currentLevel": 40,
       "targetLevel": 50,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 2350000,
-      "cards": 0,
+      "cards": 200,
       "gates": [
         {
           "level": 40,
           "cards": 200,
-          "included": false
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Paisley",
+      "nameKo": "페이즐리",
+      "rank": "SSR",
+      "role": "댄서",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "A",
+      "localImageFile": "images/artists/Paisley.webp",
+      "currentLevel": 100,
+      "targetLevel": 110,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 45500000,
+      "cards": 2400,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
         }
       ]
     },
@@ -1098,15 +1127,15 @@
       "localImageFile": "images/artists/Mellissa.webp",
       "currentLevel": 60,
       "targetLevel": 100,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 90550000,
-      "cards": 3200,
+      "cards": 3900,
       "gates": [
         {
           "level": 60,
           "cards": 700,
-          "included": false
+          "included": true
         },
         {
           "level": 80,
@@ -1155,6 +1184,59 @@
         {
           "level": 95,
           "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Brooklyn",
+      "nameKo": "브루클린",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "Pop",
+      "genreLabel": "팝",
+      "tier": "D",
+      "localImageFile": "images/artists/Brooklyn.webp",
+      "currentLevel": 60,
+      "targetLevel": 80,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 29550000,
+      "cards": 700,
+      "gates": [
+        {
+          "level": 60,
+          "cards": 700,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Savannah",
+      "nameKo": "사바나",
+      "rank": "SSR",
+      "role": "댄서",
+      "genre": "Pop",
+      "genreLabel": "팝",
+      "tier": "D",
+      "localImageFile": "images/artists/Savannah.webp",
+      "currentLevel": 50,
+      "targetLevel": 80,
+      "includeCurrentPromotion": false,
+      "experienceExtraPercent": 0,
+      "exp": 35330000,
+      "cards": 700,
+      "gates": [
+        {
+          "level": 50,
+          "cards": 450,
+          "included": false
+        },
+        {
+          "level": 60,
+          "cards": 700,
           "included": true
         }
       ]
@@ -1213,15 +1295,15 @@
       "localImageFile": "images/artists/Everly.webp",
       "currentLevel": 80,
       "targetLevel": 100,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 61000000,
-      "cards": 2400,
+      "cards": 3200,
       "gates": [
         {
           "level": 80,
           "cards": 800,
-          "included": false
+          "included": true
         },
         {
           "level": 85,
@@ -1276,15 +1358,15 @@
       "localImageFile": "images/artists/Victoria.webp",
       "currentLevel": 50,
       "targetLevel": 80,
-      "includeCurrentPromotion": false,
+      "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
       "exp": 35330000,
-      "cards": 700,
+      "cards": 1150,
       "gates": [
         {
           "level": 50,
           "cards": 450,
-          "included": false
+          "included": true
         },
         {
           "level": 60,
@@ -1295,15 +1377,15 @@
     }
   ],
   "totals": {
-    "exp": 276830000,
+    "exp": 387210000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 7400
+        "cards": 13100
       },
       {
         "rank": "SR",
-        "cards": 700
+        "cards": 1150
       }
     ]
   }

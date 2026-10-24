@@ -167,10 +167,17 @@ function render() {
     cards.textContent = `돌파 카드 ${number(result.cards)}`;
     resource.append(expLabel, expValue, cards);
     if (result.hasStartingGate) {
-      const fixedPromotion = document.createElement("small");
-      fixedPromotion.className = "fixed-promotion";
-      fixedPromotion.textContent = item.includeCurrentPromotion ? "현재 레벨 돌파 포함 · 고정" : "현재 레벨 돌파 제외 · 고정";
-      resource.append(fixedPromotion);
+      const promotionToggle = document.createElement("label");
+      promotionToggle.className = "promotion-toggle";
+      const promotionInput = document.createElement("input");
+      promotionInput.type = "checkbox";
+      promotionInput.checked = item.includeCurrentPromotion;
+      promotionInput.disabled = !item.selected;
+      promotionInput.addEventListener("change", () => { item.includeCurrentPromotion = promotionInput.checked; render(); });
+      const promotionText = document.createElement("span");
+      promotionText.textContent = `Lv.${item.currentLevel} → ${item.currentLevel + 1} 돌파 포함`;
+      promotionToggle.append(promotionInput, promotionText);
+      resource.append(promotionToggle);
     }
     row.append(toggle, identity, current, target, resource);
     list.append(row);

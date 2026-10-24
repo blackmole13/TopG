@@ -22,6 +22,9 @@
     @media(max-width:800px){.row{grid-template-columns:22px minmax(0,1fr) 95px 120px}.row .identity{grid-column:auto}.row .levels.current{grid-column:auto}.row .levels.target{grid-column:auto}.row .resource{grid-column:2/5;display:grid;grid-template-columns:auto auto 1fr;align-items:center;gap:8px;text-align:left}.resource b,.resource small{margin:0}.resource .fixed-promotion{text-align:right}}
     @media(max-width:580px){.row{grid-template-columns:22px minmax(0,1fr) 108px;gap:10px}.row .identity{grid-column:2/4}.row .levels.current{grid-column:2}.row .levels.target{grid-column:3}.row .resource{grid-column:2/4;grid-template-columns:auto auto}.resource .fixed-promotion{grid-column:1/-1;text-align:left}}
   </style>
+  <style>
+    .promotion-toggle{display:flex;justify-content:flex-end;align-items:center;gap:5px;margin-top:7px;color:#6f746d;font-size:9px;cursor:pointer}.promotion-toggle input{width:14px;height:14px;margin:0;accent-color:#355c41}.row[aria-disabled="true"] .promotion-toggle{pointer-events:none}@media(max-width:800px){.promotion-toggle{justify-content:flex-start}}
+  </style>
 </head>
 <body>
   <div class="pages-layout">
@@ -31,7 +34,7 @@
     <section class="controls" id="controls" hidden><b id="selection-count">계산할 캐릭터 선택</b><div class="control-actions"><button type="button" id="select-all">전체 선택</button><button type="button" id="select-none">전체 해제</button></div></section>
     <section class="summary" id="summary"></section>
     <section class="list" id="list"></section>
-    <p class="note">시작 레벨은 게시 시점의 로컬 현재 레벨로 설정됩니다. 이 페이지에서 바꾼 캐릭터 선택·시작 레벨·목표 레벨은 현재 방문 중에만 적용되며 로컬 서버 데이터는 변경하지 않습니다. 돌파 설정은 공개된 값으로 고정됩니다.</p>
+    <p class="note">시작 레벨은 게시 시점의 로컬 현재 레벨로 설정됩니다. 캐릭터 선택·시작 레벨·목표 레벨·시작 레벨 돌파 포함 여부는 현재 방문 중에만 적용되며 로컬 서버 데이터는 변경하지 않습니다. 목표 레벨에 도착한 뒤의 돌파 비용은 포함하지 않습니다.</p>
     <footer class="footer">TOPGIRL · GitHub Pages</footer>
   </main>
   </div>
