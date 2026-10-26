@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:41:46.371Z",
+  "updatedAt": "2026-10-26T16:21:32.690Z",
   "rules": {
     "milestones": [
       20,
@@ -1039,54 +1039,6 @@
   },
   "artists": [
     {
-      "id": 39,
-      "name": "Kesnia",
-      "nameKo": "케스니아",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "R&B",
-      "genreLabel": "R&B",
-      "tier": "D",
-      "localImageFile": "images/artists/Kesnia.webp",
-      "currentLevel": 40,
-      "targetLevel": 50,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 2350000,
-      "cards": 200,
-      "gates": [
-        {
-          "level": 40,
-          "cards": 200,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 128,
-      "name": "Anna",
-      "nameKo": "안나",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "R&B",
-      "genreLabel": "R&B",
-      "tier": "미분류",
-      "localImageFile": "images/artists/Anna.webp",
-      "currentLevel": 40,
-      "targetLevel": 50,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 2350000,
-      "cards": 200,
-      "gates": [
-        {
-          "level": 40,
-          "cards": 200,
-          "included": true
-        }
-      ]
-    },
-    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
@@ -1131,35 +1083,6 @@
       ]
     },
     {
-      "id": 15,
-      "name": "Aurora",
-      "nameKo": "오로라",
-      "rank": "SSR",
-      "role": "센터",
-      "genre": "Pop",
-      "genreLabel": "팝",
-      "tier": "A",
-      "localImageFile": "images/artists/Aurora.webp",
-      "currentLevel": 90,
-      "targetLevel": 100,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 35500000,
-      "cards": 1600,
-      "gates": [
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
-          "cards": 800,
-          "included": true
-        }
-      ]
-    },
-    {
       "id": 9,
       "name": "Alice",
       "nameKo": "앨리스",
@@ -1178,25 +1101,65 @@
       "gates": []
     },
     {
-      "id": 22,
-      "name": "Cindy",
-      "nameKo": "신디",
+      "id": 40,
+      "name": "Kokoro",
+      "nameKo": "코코로",
       "rank": "SSR",
       "role": "센터",
       "genre": "EDM",
       "genreLabel": "EDM",
-      "tier": "B",
-      "localImageFile": "images/artists/Cindy.webp",
-      "currentLevel": 40,
-      "targetLevel": 50,
+      "tier": "A",
+      "localImageFile": "images/artists/Kokoro.webp",
+      "currentLevel": 11,
+      "targetLevel": 100,
       "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
-      "exp": 2350000,
-      "cards": 200,
+      "exp": 99957000,
+      "cards": 4700,
       "gates": [
+        {
+          "level": 20,
+          "cards": 50,
+          "included": true
+        },
+        {
+          "level": 30,
+          "cards": 100,
+          "included": true
+        },
         {
           "level": 40,
           "cards": 200,
+          "included": true
+        },
+        {
+          "level": 50,
+          "cards": 450,
+          "included": true
+        },
+        {
+          "level": 60,
+          "cards": 700,
+          "included": true
+        },
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
           "included": true
         }
       ]
@@ -1239,71 +1202,18 @@
           "included": true
         }
       ]
-    },
-    {
-      "id": 92,
-      "name": "Penelope",
-      "nameKo": "페넬로페",
-      "rank": "SR",
-      "role": "센터",
-      "genre": "R&B",
-      "genreLabel": "R&B",
-      "tier": "D",
-      "localImageFile": "images/artists/Penelope.webp",
-      "currentLevel": 105,
-      "targetLevel": 110,
-      "includeCurrentPromotion": false,
-      "experienceExtraPercent": 0,
-      "exp": 24000000,
-      "cards": 0,
-      "gates": [
-        {
-          "level": 105,
-          "cards": 1200,
-          "included": false
-        }
-      ]
-    },
-    {
-      "id": 97,
-      "name": "Victoria",
-      "nameKo": "빅토리아",
-      "rank": "SR",
-      "role": "센터",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "tier": "D",
-      "localImageFile": "images/artists/Victoria.webp",
-      "currentLevel": 50,
-      "targetLevel": 80,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 35330000,
-      "cards": 1150,
-      "gates": [
-        {
-          "level": 50,
-          "cards": 450,
-          "included": true
-        },
-        {
-          "level": 60,
-          "cards": 700,
-          "included": true
-        }
-      ]
     }
   ],
   "totals": {
-    "exp": 276830000,
+    "exp": 274907000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 9300
+        "cards": 11800
       },
       {
         "rank": "SR",
-        "cards": 1150
+        "cards": 0
       }
     ]
   }
