@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T15:48:53.609Z",
+  "updatedAt": "2026-10-26T16:24:41.729Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -139,7 +139,7 @@
     {
       "priority": 2,
       "id": 46,
-      "name": "Melissa",
+      "name": "Mellissa",
       "nameKo": "멜리사",
       "rank": "SSR",
       "tier": "C",
@@ -252,7 +252,7 @@
       "name": "Alice",
       "nameKo": "앨리스",
       "rank": "SSR",
-      "tier": "B",
+      "tier": "A",
       "genre": "EDM",
       "role": "보컬",
       "startSeason": "초기",
@@ -425,11 +425,177 @@
     },
     {
       "priority": 5,
+      "id": 40,
+      "name": "Kokoro",
+      "nameKo": "코코로",
+      "rank": "SSR",
+      "tier": "A",
+      "genre": "EDM",
+      "role": "센터",
+      "startSeason": "도쿄 1",
+      "endSeason": "로마 5",
+      "seasonCount": 15,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "albumSeasons": [
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Kokoro.webp"
+    },
+    {
+      "priority": 6,
+      "id": 22,
+      "name": "Cindy",
+      "nameKo": "신디",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "EDM",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "로마 2",
+      "seasonCount": 7,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "서브"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Cindy.webp"
+    },
+    {
+      "priority": 7,
       "id": 23,
       "name": "Claire",
       "nameKo": "클레어",
       "rank": "SSR",
-      "tier": "B",
+      "tier": "A",
       "genre": "Rock",
       "role": "센터",
       "startSeason": "초기",
@@ -533,12 +699,12 @@
       "localImageFile": "images/artists/Claire.webp"
     },
     {
-      "priority": 6,
+      "priority": 8,
       "id": 15,
       "name": "Aurora",
       "nameKo": "오로라",
       "rank": "SSR",
-      "tier": "B",
+      "tier": "A",
       "genre": "Pop",
       "role": "센터",
       "startSeason": "초기",
@@ -646,12 +812,12 @@
       "localImageFile": "images/artists/Aurora.webp"
     },
     {
-      "priority": 7,
+      "priority": 9,
       "id": 73,
       "name": "Bella",
       "nameKo": "벨라",
       "rank": "SSR",
-      "tier": "B",
+      "tier": "C",
       "genre": "Hip Hop",
       "role": "보컬",
       "startSeason": "초기",
@@ -750,12 +916,101 @@
       "localImageFile": "images/artists/Bella.webp"
     },
     {
-      "priority": 8,
+      "priority": 10,
+      "id": 21,
+      "name": "Chizuru",
+      "nameKo": "치즈루",
+      "rank": "SSR",
+      "tier": "S",
+      "genre": "Pop",
+      "role": "센터",
+      "startSeason": "도쿄 1",
+      "endSeason": "로마 4",
+      "seasonCount": 12,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "albumSeasons": [
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Chizuru.webp"
+    },
+    {
+      "priority": 11,
       "id": 16,
       "name": "Avery",
       "nameKo": "에이버리",
       "rank": "SSR",
-      "tier": "S",
+      "tier": "A",
       "genre": "Hip Hop",
       "role": "댄서",
       "startSeason": "초기",
@@ -829,12 +1084,12 @@
       "localImageFile": "images/artists/Avery.webp"
     },
     {
-      "priority": 9,
+      "priority": 12,
       "id": 13,
       "name": "Audrey",
       "nameKo": "오드리",
       "rank": "SSR",
-      "tier": "A",
+      "tier": "B",
       "genre": "Hip Hop",
       "role": "센터",
       "startSeason": "초기",
@@ -895,6 +1150,59 @@
         }
       ],
       "localImageFile": "images/artists/Audrey.webp"
+    },
+    {
+      "priority": 13,
+      "id": 92,
+      "name": "Penelope",
+      "nameKo": "페넬로페",
+      "rank": "SR",
+      "tier": "D",
+      "genre": "R&B",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "발리 1",
+      "seasonCount": 3,
+      "activeSeasons": [
+        0,
+        1,
+        2
+      ],
+      "battleSeasons": [
+        0
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "서브"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Penelope.webp"
+    },
+    {
+      "priority": 14,
+      "id": 97,
+      "name": "Victoria",
+      "nameKo": "빅토리아",
+      "rank": "SR",
+      "tier": "D",
+      "genre": "EDM",
+      "role": "센터",
+      "startSeason": null,
+      "endSeason": null,
+      "seasonCount": 0,
+      "activeSeasons": [],
+      "battleSeasons": [],
+      "albumSeasons": [],
+      "localImageFile": "images/artists/Victoria.webp"
     }
   ]
 }
