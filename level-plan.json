@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T16:21:32.690Z",
+  "updatedAt": "2026-10-29T15:40:21.331Z",
   "rules": {
     "milestones": [
       20,
@@ -1039,6 +1039,45 @@
   },
   "artists": [
     {
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "A",
+      "localImageFile": "images/artists/Claire.webp",
+      "currentLevel": 100,
+      "targetLevel": 120,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 101000000,
+      "cards": 4800,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
@@ -1049,94 +1088,12 @@
       "tier": "C",
       "localImageFile": "images/artists/Mellissa.webp",
       "currentLevel": 60,
-      "targetLevel": 100,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 90550000,
-      "cards": 3900,
-      "gates": [
-        {
-          "level": 60,
-          "cards": 700,
-          "included": true
-        },
-        {
-          "level": 80,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 85,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
-          "cards": 800,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Alice",
-      "nameKo": "앨리스",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "tier": "A",
-      "localImageFile": "images/artists/Alice.webp",
-      "currentLevel": 116,
       "targetLevel": 120,
       "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
-      "exp": 23400000,
-      "cards": 0,
-      "gates": []
-    },
-    {
-      "id": 40,
-      "name": "Kokoro",
-      "nameKo": "코코로",
-      "rank": "SSR",
-      "role": "센터",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "tier": "A",
-      "localImageFile": "images/artists/Kokoro.webp",
-      "currentLevel": 11,
-      "targetLevel": 100,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 99957000,
-      "cards": 4700,
+      "exp": 191550000,
+      "cards": 8700,
       "gates": [
-        {
-          "level": 20,
-          "cards": 50,
-          "included": true
-        },
-        {
-          "level": 30,
-          "cards": 100,
-          "included": true
-        },
-        {
-          "level": 40,
-          "cards": 200,
-          "included": true
-        },
-        {
-          "level": 50,
-          "cards": 450,
-          "included": true
-        },
         {
           "level": 60,
           "cards": 700,
@@ -1160,6 +1117,26 @@
         {
           "level": 95,
           "cards": 800,
+          "included": true
+        },
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
           "included": true
         }
       ]
@@ -1175,11 +1152,11 @@
       "tier": "B",
       "localImageFile": "images/artists/Everly.webp",
       "currentLevel": 80,
-      "targetLevel": 100,
+      "targetLevel": 120,
       "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
-      "exp": 61000000,
-      "cards": 3200,
+      "exp": 162000000,
+      "cards": 8000,
       "gates": [
         {
           "level": 80,
@@ -1200,16 +1177,36 @@
           "level": 95,
           "cards": 800,
           "included": true
+        },
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
         }
       ]
     }
   ],
   "totals": {
-    "exp": 274907000,
+    "exp": 454550000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 11800
+        "cards": 21500
       },
       {
         "rank": "SR",
