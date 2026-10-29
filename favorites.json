@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T16:24:41.729Z",
+  "updatedAt": "2026-10-29T15:39:30.942Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -741,7 +741,10 @@
         9,
         10,
         11,
-        12
+        12,
+        13,
+        14,
+        15
       ],
       "albumSeasons": [
         {
@@ -750,19 +753,19 @@
         },
         {
           "season": 1,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 2,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 3,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 4,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 5,
@@ -925,8 +928,8 @@
       "genre": "Pop",
       "role": "센터",
       "startSeason": "도쿄 1",
-      "endSeason": "로마 4",
-      "seasonCount": 12,
+      "endSeason": "로마 5",
+      "seasonCount": 15,
       "activeSeasons": [
         1,
         2,
@@ -939,7 +942,10 @@
         9,
         10,
         11,
-        12
+        12,
+        13,
+        14,
+        15
       ],
       "battleSeasons": [
         1,
@@ -950,7 +956,9 @@
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11
       ],
       "albumSeasons": [
         {
@@ -999,6 +1007,18 @@
         },
         {
           "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
           "role": "서브"
         }
       ],
@@ -1150,59 +1170,6 @@
         }
       ],
       "localImageFile": "images/artists/Audrey.webp"
-    },
-    {
-      "priority": 13,
-      "id": 92,
-      "name": "Penelope",
-      "nameKo": "페넬로페",
-      "rank": "SR",
-      "tier": "D",
-      "genre": "R&B",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "발리 1",
-      "seasonCount": 3,
-      "activeSeasons": [
-        0,
-        1,
-        2
-      ],
-      "battleSeasons": [
-        0
-      ],
-      "albumSeasons": [
-        {
-          "season": 0,
-          "role": "서브"
-        },
-        {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        }
-      ],
-      "localImageFile": "images/artists/Penelope.webp"
-    },
-    {
-      "priority": 14,
-      "id": 97,
-      "name": "Victoria",
-      "nameKo": "빅토리아",
-      "rank": "SR",
-      "tier": "D",
-      "genre": "EDM",
-      "role": "센터",
-      "startSeason": null,
-      "endSeason": null,
-      "seasonCount": 0,
-      "activeSeasons": [],
-      "battleSeasons": [],
-      "albumSeasons": [],
-      "localImageFile": "images/artists/Victoria.webp"
     }
   ]
 }
