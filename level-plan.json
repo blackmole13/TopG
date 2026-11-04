@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T15:43:54.921Z",
+  "updatedAt": "2026-11-04T15:45:02.977Z",
   "rules": {
     "milestones": [
       20,
@@ -1103,6 +1103,45 @@
       ]
     },
     {
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "A",
+      "localImageFile": "images/artists/Claire.webp",
+      "currentLevel": 100,
+      "targetLevel": 120,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 101000000,
+      "cards": 4800,
+      "gates": [
+        {
+          "level": 100,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 105,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
@@ -1145,14 +1184,38 @@
           "included": true
         }
       ]
+    },
+    {
+      "id": 40,
+      "name": "Kokoro",
+      "nameKo": "코코로",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "tier": "A",
+      "localImageFile": "images/artists/Kokoro.webp",
+      "currentLevel": 120,
+      "targetLevel": 125,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 31500000,
+      "cards": 1600,
+      "gates": [
+        {
+          "level": 120,
+          "cards": 1600,
+          "included": true
+        }
+      ]
     }
   ],
   "totals": {
-    "exp": 190513600,
+    "exp": 323013600,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 8600
+        "cards": 15000
       },
       {
         "rank": "SR",
