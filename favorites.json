@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T07:06:14.118Z",
+  "updatedAt": "2026-11-04T15:44:32.924Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -344,87 +344,6 @@
     },
     {
       "priority": 4,
-      "id": 30,
-      "name": "Everly",
-      "nameKo": "에블리",
-      "rank": "SSR",
-      "tier": "B",
-      "genre": "EDM",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "도쿄 4",
-      "seasonCount": 11,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "battleSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "albumSeasons": [
-        {
-          "season": 0,
-          "role": "서브"
-        },
-        {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        },
-        {
-          "season": 3,
-          "role": "서브"
-        },
-        {
-          "season": 4,
-          "role": "서브"
-        },
-        {
-          "season": 5,
-          "role": "서브"
-        },
-        {
-          "season": 6,
-          "role": "서브"
-        },
-        {
-          "season": 7,
-          "role": "서브"
-        },
-        {
-          "season": 8,
-          "role": "서브"
-        },
-        {
-          "season": 9,
-          "role": "서브"
-        },
-        {
-          "season": 10,
-          "role": "서브"
-        }
-      ],
-      "localImageFile": "images/artists/Everly.webp"
-    },
-    {
-      "priority": 5,
       "id": 40,
       "name": "Kokoro",
       "nameKo": "코코로",
@@ -531,7 +450,7 @@
       "localImageFile": "images/artists/Kokoro.webp"
     },
     {
-      "priority": 6,
+      "priority": 5,
       "id": 65,
       "name": "Sora",
       "nameKo": "소라",
@@ -641,17 +560,17 @@
       "localImageFile": "images/artists/Sora.webp"
     },
     {
-      "priority": 7,
-      "id": 22,
-      "name": "Cindy",
-      "nameKo": "신디",
+      "priority": 6,
+      "id": 30,
+      "name": "Everly",
+      "nameKo": "에블리",
       "rank": "SSR",
       "tier": "B",
       "genre": "EDM",
       "role": "센터",
       "startSeason": "초기",
-      "endSeason": "로마 2",
-      "seasonCount": 7,
+      "endSeason": "도쿄 4",
+      "seasonCount": 11,
       "activeSeasons": [
         0,
         1,
@@ -659,13 +578,19 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "battleSeasons": [
         0,
         1,
         2,
-        3
+        3,
+        4,
+        5
       ],
       "albumSeasons": [
         {
@@ -695,12 +620,28 @@
         {
           "season": 6,
           "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Cindy.webp"
+      "localImageFile": "images/artists/Everly.webp"
     },
     {
-      "priority": 8,
+      "priority": 7,
       "id": 23,
       "name": "Claire",
       "nameKo": "클레어",
@@ -807,6 +748,65 @@
         }
       ],
       "localImageFile": "images/artists/Claire.webp"
+    },
+    {
+      "priority": 8,
+      "id": 22,
+      "name": "Cindy",
+      "nameKo": "신디",
+      "rank": "SSR",
+      "tier": "B",
+      "genre": "EDM",
+      "role": "센터",
+      "startSeason": "초기",
+      "endSeason": "로마 2",
+      "seasonCount": 7,
+      "activeSeasons": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "battleSeasons": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "서브"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Cindy.webp"
     },
     {
       "priority": 9,
