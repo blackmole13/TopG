@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T15:45:02.977Z",
+  "updatedAt": "2026-11-05T15:03:10.459Z",
   "rules": {
     "milestones": [
       20,
@@ -1048,56 +1048,16 @@
       "genreLabel": "R&B",
       "tier": "C",
       "localImageFile": "images/artists/Sora.webp",
-      "currentLevel": 1,
-      "targetLevel": 100,
+      "currentLevel": 100,
+      "targetLevel": 105,
       "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
-      "exp": 99963600,
-      "cards": 4700,
+      "exp": 21500000,
+      "cards": 1200,
       "gates": [
         {
-          "level": 20,
-          "cards": 50,
-          "included": true
-        },
-        {
-          "level": 30,
-          "cards": 100,
-          "included": true
-        },
-        {
-          "level": 40,
-          "cards": 200,
-          "included": true
-        },
-        {
-          "level": 50,
-          "cards": 450,
-          "included": true
-        },
-        {
-          "level": 60,
-          "cards": 700,
-          "included": true
-        },
-        {
-          "level": 80,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 85,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
-          "cards": 800,
+          "level": 100,
+          "cards": 1200,
           "included": true
         }
       ]
@@ -1112,6 +1072,35 @@
       "genreLabel": "록",
       "tier": "A",
       "localImageFile": "images/artists/Claire.webp",
+      "currentLevel": 110,
+      "targetLevel": 120,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 55500000,
+      "cards": 2400,
+      "gates": [
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Mellissa",
+      "nameKo": "멜리사",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "tier": "C",
+      "localImageFile": "images/artists/Mellissa.webp",
       "currentLevel": 100,
       "targetLevel": 120,
       "includeCurrentPromotion": true,
@@ -1142,50 +1131,6 @@
       ]
     },
     {
-      "id": 46,
-      "name": "Mellissa",
-      "nameKo": "멜리사",
-      "rank": "SSR",
-      "role": "센터",
-      "genre": "Rock",
-      "genreLabel": "록",
-      "tier": "C",
-      "localImageFile": "images/artists/Mellissa.webp",
-      "currentLevel": 60,
-      "targetLevel": 100,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 90550000,
-      "cards": 3900,
-      "gates": [
-        {
-          "level": 60,
-          "cards": 700,
-          "included": true
-        },
-        {
-          "level": 80,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 85,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 90,
-          "cards": 800,
-          "included": true
-        },
-        {
-          "level": 95,
-          "cards": 800,
-          "included": true
-        }
-      ]
-    },
-    {
       "id": 40,
       "name": "Kokoro",
       "nameKo": "코코로",
@@ -1208,14 +1153,53 @@
           "included": true
         }
       ]
+    },
+    {
+      "id": 30,
+      "name": "Everly",
+      "nameKo": "에블리",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "tier": "B",
+      "localImageFile": "images/artists/Everly.webp",
+      "currentLevel": 80,
+      "targetLevel": 100,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 61000000,
+      "cards": 3200,
+      "gates": [
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
     }
   ],
   "totals": {
-    "exp": 323013600,
+    "exp": 270500000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 15000
+        "cards": 13200
       },
       {
         "rank": "SR",
