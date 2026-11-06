@@ -1,10 +1,30 @@
+const favoriteSkillTiers = { gold_gathering_speed_increase: "D", drive_speed_increase: "D", basic_attack_damage_reduction: "B", skill_damage_reduction: "B", conditional_dps: "C", skill_damage_increase: "A", world_building_guard_damage_increase: "C", rally_fan_capacity_increase: "A", fan_capacity_increase: "S", player_damage_increase: "A", basic_attack_damage_increase: "A" };
+function appendFavoriteSkills(parent, effects = []) {
+  const skills = document.createElement("span");
+  skills.className = "timeline-skills";
+  for (const effect of effects) {
+    const line = document.createElement("span");
+    const tier = favoriteSkillTiers[effect.effectType];
+    if (tier) { const badge = document.createElement("b"); badge.className = `skill-tier skill-tier-${tier.toLowerCase()}`; badge.textContent = tier; line.append(badge); }
+    line.append(document.createTextNode(effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중"));
+    skills.append(line);
+  }
+  parent.append(skills);
+}
+
 async function renderPublishedFavorites() {
   const list = document.getElementById("list");
   const stamp = document.getElementById("stamp");
   try {
-    const response = await fetch(`./favorites.json?v=${Date.now()}`, { cache: "no-store" });
+    const cacheBust = Date.now();
+    const [response, artistsResponse] = await Promise.all([
+      fetch(`./favorites.json?v=${cacheBust}`, { cache: "no-store" }),
+      fetch(`./artists.json?v=${cacheBust}`, { cache: "no-store" }),
+    ]);
     if (!response.ok) throw new Error();
     const data = await response.json();
+    const publicArtists = artistsResponse.ok ? await artistsResponse.json() : [];
+    const skillsById = new Map(publicArtists.map((artist) => [artist.id, artist.normalizedSkillEffects || []]));
     list.replaceChildren();
     if (!data.updatedAt) {
       list.className = "empty";
@@ -49,6 +69,7 @@ async function renderPublishedFavorites() {
       const meta = document.createElement("small");
       meta.textContent = [artist.tier, artist.rank, artist.role].join(" · ");
       identity.append(name, meta);
+      appendFavoriteSkills(identity, artist.normalizedSkillEffects || skillsById.get(artist.id));
       label.append(priority, image, identity);
       chart.append(label);
       const active = new Set(artist.activeSeasons ?? []);

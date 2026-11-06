@@ -14,6 +14,19 @@ const box = (label, value) => {
   return el;
 };
 const genreIcons = { "Hip Hop": "hip-hop.png", "R&B": "r-and-b.png", Rock: "rock.png", Pop: "pop.png", EDM: "edm.png" };
+const levelSkillTiers = { gold_gathering_speed_increase: "D", drive_speed_increase: "D", basic_attack_damage_reduction: "B", skill_damage_reduction: "B", conditional_dps: "C", skill_damage_increase: "A", world_building_guard_damage_increase: "C", rally_fan_capacity_increase: "A", fan_capacity_increase: "S", player_damage_increase: "A", basic_attack_damage_increase: "A" };
+function levelSkills(effects = []) {
+  const skills = document.createElement("span");
+  skills.className = "level-skills";
+  for (const effect of effects) {
+    const line = document.createElement("span");
+    const tier = levelSkillTiers[effect.effectType];
+    if (tier) { const badge = document.createElement("b"); badge.className = `skill-tier skill-tier-${tier.toLowerCase()}`; badge.textContent = tier; line.append(badge); }
+    line.append(document.createTextNode(effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중"));
+    skills.append(line);
+  }
+  return skills;
+}
 let plan;
 
 function calculate(item) {
@@ -115,7 +128,7 @@ function render() {
       bonus.textContent = `경험치 +${Math.round(item.experienceExtraPercent * 100)}%`;
       meta.append(bonus);
     }
-    name.append(title, meta);
+    name.append(title, meta, levelSkills(item.normalizedSkillEffects));
     identity.append(name);
 
     const current = document.createElement("label");
@@ -189,9 +202,10 @@ async function loadPlan() {
   const stamp = document.getElementById("stamp");
   try {
     const cacheBust = Date.now();
-    const [response, favoritesResponse] = await Promise.all([
+    const [response, favoritesResponse, artistsResponse] = await Promise.all([
       fetch(`./level-plan.json?updated=${cacheBust}`, { cache: "no-store" }),
       fetch(`./favorites.json?updated=${cacheBust}`, { cache: "no-store" }),
+      fetch(`./artists.json?updated=${cacheBust}`, { cache: "no-store" }),
     ]);
     if (!response.ok) throw new Error("공개 계산 정보를 불러오지 못했습니다.");
     const data = await response.json();
@@ -203,9 +217,11 @@ async function loadPlan() {
     }
     if (!data.rules?.expByLevel || !data.rules?.promotionGates) throw new Error("이 공개 데이터는 레벨 조정 규칙이 없습니다. 로컬 앱에서 육성 계산을 다시 게시해주세요.");
     const favorites = favoritesResponse.ok ? await favoritesResponse.json() : { artists: [] };
+    const publicArtists = artistsResponse.ok ? await artistsResponse.json() : [];
+    const skillsById = new Map(publicArtists.map((item) => [item.id, item.normalizedSkillEffects || []]));
     const preference = new Map((favorites.artists || []).map((item) => [item.id, item.priority]));
     const artists = data.artists
-      .map((item) => ({ ...item, publishedCurrentLevel: item.currentLevel, selected: true, priority: preference.get(item.id) ?? Number.MAX_SAFE_INTEGER }))
+      .map((item) => ({ ...item, normalizedSkillEffects: item.normalizedSkillEffects || skillsById.get(item.id) || [], publishedCurrentLevel: item.currentLevel, selected: true, priority: preference.get(item.id) ?? Number.MAX_SAFE_INTEGER }))
       .sort((a, b) => a.priority - b.priority || a.nameKo.localeCompare(b.nameKo, "ko"));
     plan = { ...data, artists };
     stamp.textContent = "마지막 공개 게시 · " + new Date(data.updatedAt).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" });
