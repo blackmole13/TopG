@@ -22,7 +22,10 @@ function levelSkills(effects = []) {
     const line = document.createElement("span");
     const tier = levelSkillTiers[effect.effectType];
     if (tier) { const badge = document.createElement("b"); badge.className = `skill-tier skill-tier-${tier.toLowerCase()}`; badge.textContent = tier; line.append(badge); }
-    line.append(document.createTextNode(effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중"));
+    const text = document.createElement("span");
+    text.className = "skill-text";
+    text.textContent = effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중";
+    line.append(text);
     skills.append(line);
   }
   return skills;
@@ -128,7 +131,7 @@ function render() {
       bonus.textContent = `경험치 +${Math.round(item.experienceExtraPercent * 100)}%`;
       meta.append(bonus);
     }
-    name.append(title, meta, levelSkills(item.normalizedSkillEffects));
+    name.append(title, meta);
     identity.append(name);
 
     const current = document.createElement("label");
@@ -192,7 +195,7 @@ function render() {
       promotionToggle.append(promotionInput, promotionText);
       resource.append(promotionToggle);
     }
-    row.append(toggle, identity, current, target, resource);
+    row.append(toggle, identity, current, target, resource, levelSkills(item.normalizedSkillEffects));
     list.append(row);
   }
 }

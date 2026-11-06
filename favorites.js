@@ -6,7 +6,10 @@ function appendFavoriteSkills(parent, effects = []) {
     const line = document.createElement("span");
     const tier = favoriteSkillTiers[effect.effectType];
     if (tier) { const badge = document.createElement("b"); badge.className = `skill-tier skill-tier-${tier.toLowerCase()}`; badge.textContent = tier; line.append(badge); }
-    line.append(document.createTextNode(effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중"));
+    const text = document.createElement("span");
+    text.className = "skill-text";
+    text.textContent = effect.displayTextKo || effect.sourceText || "스킬 문구 준비 중";
+    line.append(text);
     skills.append(line);
   }
   parent.append(skills);
@@ -69,8 +72,8 @@ async function renderPublishedFavorites() {
       const meta = document.createElement("small");
       meta.textContent = [artist.tier, artist.rank, artist.role].join(" · ");
       identity.append(name, meta);
-      appendFavoriteSkills(identity, artist.normalizedSkillEffects || skillsById.get(artist.id));
       label.append(priority, image, identity);
+      appendFavoriteSkills(label, artist.normalizedSkillEffects || skillsById.get(artist.id));
       chart.append(label);
       const active = new Set(artist.activeSeasons ?? []);
       const battle = new Set(artist.battleSeasons ?? []);
