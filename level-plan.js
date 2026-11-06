@@ -1,3 +1,4 @@
+if (!document.querySelector('.pages-nav a[href="./calendar.html"]')) document.querySelector(".pages-nav")?.insertAdjacentHTML("beforeend", '<a href="./calendar.html">일정</a>');
 const number = (value) => Number(value || 0).toLocaleString("ko-KR");
 const compact = (value) => {
   const n = Number(value || 0);

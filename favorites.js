@@ -1,3 +1,4 @@
+if (!document.querySelector('.pages-nav a[href="./calendar.html"]')) document.querySelector(".pages-nav")?.insertAdjacentHTML("beforeend", '<a href="./calendar.html">일정</a>');
 const favoriteSkillTiers = { gold_gathering_speed_increase: "D", drive_speed_increase: "D", basic_attack_damage_reduction: "B", skill_damage_reduction: "B", conditional_dps: "C", skill_damage_increase: "A", world_building_guard_damage_increase: "C", rally_fan_capacity_increase: "A", fan_capacity_increase: "S", player_damage_increase: "A", basic_attack_damage_increase: "A" };
 function appendFavoriteSkills(parent, effects = []) {
   const skills = document.createElement("span");

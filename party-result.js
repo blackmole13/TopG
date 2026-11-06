@@ -1,3 +1,4 @@
+if (!document.querySelector('.pages-nav a[href="./calendar.html"]')) document.querySelector(".pages-nav")?.insertAdjacentHTML("beforeend", '<a href="./calendar.html">일정</a>');
 let data,view="timeline",team="all",genreIndex=0,timelineGenre=-1,seasonIndex=0;
 const pageStateKey="topgirl-pages-party-view-v1";
 const app=document.querySelector("#app"), byId=new Map();

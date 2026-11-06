@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5,
+    "title": "도쿄 경매장",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-31",
+    "category": "경매장",
+    "color": "#7a6eb2",
+    "memo": ""
+  },
+  {
+    "id": 2,
+    "title": "도쿄 출장",
+    "startDate": "2026-10-26",
+    "endDate": "2026-11-15",
+    "category": "이벤트",
+    "color": "#b45d57",
+    "memo": ""
+  },
+  {
+    "id": 3,
+    "title": "도쿄 경매장",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-07",
+    "category": "경매장",
+    "color": "#7a6eb2",
+    "memo": ""
+  },
+  {
+    "id": 4,
+    "title": "도쿄 경매장",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-14",
+    "category": "경매장",
+    "color": "#7a6eb2",
+    "memo": ""
+  }
+]
