@@ -1,4 +1,4 @@
-if (!document.querySelector('.pages-nav a[href="./calendar.html"]')) document.querySelector(".pages-nav")?.insertAdjacentHTML("beforeend", '<a href="./calendar.html">일정</a>');
+if (!document.querySelector('.pages-nav a[href="./calendar.html"]')) document.querySelector(".pages-nav")?.insertAdjacentHTML("beforeend", '<a href="./calendar.html"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 10h18"/></svg></span>일정</a>');
 const number = (value) => Number(value || 0).toLocaleString("ko-KR");
 const compact = (value) => {
   const n = Number(value || 0);
