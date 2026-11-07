@@ -7,10 +7,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "10% Skill Damage",
       "15% Damage Increase World Building Guard"
@@ -52,10 +49,7 @@
     "rank": "UR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -96,10 +90,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -140,10 +131,7 @@
     "rank": "UR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -184,10 +172,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
@@ -228,10 +213,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
@@ -272,10 +254,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+40% gold gathering speed",
       "+40% gold gathering speed"
@@ -316,10 +295,7 @@
     "rank": "R",
     "role": "센터",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Économie",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Gold Brick Gather Speed"
     ],
@@ -348,10 +324,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "A",
     "specialty": "Solo car",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑24% skill damage",
       "↑12% fan cap"
@@ -392,10 +365,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑200 dps when attacking gc/club/lm",
       "↑10% fan cap"
@@ -438,10 +408,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "-12% basic ATK DMG taken",
       "+36% DMG to players"
@@ -482,10 +449,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "S",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+80% basic ATK",
       "+32% Skill DMG"
@@ -526,10 +490,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Normal Attack Damage",
       "15% Damage Increase World Building Guard"
@@ -571,10 +532,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑50% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -615,10 +573,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑30% damage to world building guard",
       "↓12% skill damage taken"
@@ -660,10 +615,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "S+",
     "specialty": "Solo car",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑24% player damage",
       "↑12% fan cap"
@@ -705,10 +657,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -749,10 +698,7 @@
     "rank": "R",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Économie",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Gold Brick Gather Speed"
     ],
@@ -781,10 +727,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -825,10 +768,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "A",
     "specialty": "Solo car",
-    "singStat": 35540,
-    "danceStat": 35540,
     "skills": [
       "↑70% basic attack damage dealt",
       "↑14% fan cap"
@@ -869,10 +809,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -913,10 +850,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+10% fans from selling CDs",
       "+10% fans from selling CDs"
@@ -957,10 +891,7 @@
     "rank": "UR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "S",
     "specialty": "Solo car",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑10% fan capacity",
       "↑20% damage to player"
@@ -1002,10 +933,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑10% fan cap"
@@ -1046,10 +974,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "HQ defense",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑200 dps when defending",
       "↑36% damage to world building guard"
@@ -1093,10 +1018,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "B",
     "specialty": "Solo car",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑50% basic attack damage dealt",
       "↑10% fan cap"
@@ -1137,10 +1059,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↑200 dps when attacking gc/club/lm",
       "↑10% fan cap"
@@ -1183,10 +1102,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+90% basic ATK",
       "-12% skill DMG taken"
@@ -1227,10 +1143,7 @@
     "rank": "R",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "10% Basic Attack Damage"
     ],
@@ -1259,10 +1172,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "S",
     "specialty": "Rassemblement",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑20% player damage",
       "↑10% rally fan cap"
@@ -1304,10 +1214,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Normal Attack Damage",
       "40% Drive Speed Increase"
@@ -1348,10 +1255,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑20% skill damage",
       "↓12% basic attack damage taken"
@@ -1392,10 +1296,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -1436,10 +1337,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "S+",
     "specialty": "Augmentation dommage",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑24% player damage",
       "↑24% player damage"
@@ -1482,10 +1380,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "A",
     "specialty": "HQ defense",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑240 dps when defending",
       "↓12% skill damage taken"
@@ -1528,10 +1423,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -1572,10 +1464,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "S",
     "specialty": "Augmentation dommage",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑24% skill damage",
       "↑60% basic attack damage dealt"
@@ -1616,10 +1505,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+90% basic ATK",
       "+36% skill DMG"
@@ -1660,10 +1546,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑50% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -1704,10 +1587,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "S",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑80% basic attack damage dealt",
       "↑16% fan cap"
@@ -1748,10 +1628,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+10% rally fans capacity",
       "+50% basic ATK"
@@ -1792,10 +1669,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+10% rally fans capacity",
       "+50% basic ATK"
@@ -1836,10 +1710,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
@@ -1880,10 +1751,7 @@
     "rank": "UR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "+50% basic ATK",
       "+20% DMG to players"
@@ -1925,10 +1793,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑24% player damage",
       "↓12% skill damage taken"
@@ -1970,10 +1835,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "10% Skill Damage",
       "40% Drive Speed Increase"
@@ -2014,10 +1876,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "C",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Skill Damage Reduction",
       "15% Damage Increase World Building Guard"
@@ -2059,10 +1918,7 @@
     "rank": "R",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Skill Damage"
     ],
@@ -2091,10 +1947,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑12% fan cap",
       "↓12% basic attack damage taken"
@@ -2135,10 +1988,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Increase Normal Attack",
       "2% Fan Capacity"
@@ -2179,10 +2029,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑20% skill damage",
       "↓12% basic attack damage taken"
@@ -2223,10 +2070,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑12% fan cap",
       "↓12% basic attack damage taken"
@@ -2267,10 +2111,7 @@
     "rank": "UR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "+20% skill DMG",
       "+20% DMG to players"
@@ -2312,10 +2153,7 @@
     "rank": "UR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -2356,10 +2194,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Basic Attack Damage Reduction",
       "15% Damage Increase World Building Guard"
@@ -2401,10 +2236,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
@@ -2445,10 +2277,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "S",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑80% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -2489,10 +2318,7 @@
     "rank": "R",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+20% drive speed"
     ],
@@ -2521,10 +2347,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "B",
     "specialty": "Solo car",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑60% basic attack damage dealt",
       "↑12% fan cap"
@@ -2565,10 +2388,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
@@ -2609,10 +2429,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "S",
     "specialty": "Rassemblement",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑20% player damage",
       "↑10% rally fan cap"
@@ -2654,10 +2471,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑24% player damage",
       "↓12% skill damage taken"
@@ -2699,10 +2513,7 @@
     "rank": "R",
     "role": "센터",
     "genre": "R&B",
-    "tier": "D",
     "specialty": "Économie",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Gold Brick Gather Speed"
     ],
@@ -2731,10 +2542,7 @@
     "rank": "UR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -2775,10 +2583,7 @@
     "rank": "UR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -2819,10 +2624,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Vitesse de conduite",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑75% drive speed"
@@ -2863,10 +2665,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "-12% basic ATK DMG taken",
       "+90% basic ATK"
@@ -2907,10 +2706,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "S+",
     "specialty": "Augmentation dommage",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "+50% basic ATK",
       "+20% DMG to players"
@@ -2952,10 +2748,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Rassemblement",
-    "singStat": 19033,
-    "danceStat": 10903,
     "skills": [
       "Fans capacity ↑ 10%",
       "Rally fans capacity ↑ 10%"
@@ -2996,10 +2789,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Solo car",
-    "singStat": 2845,
-    "danceStat": 14225,
     "skills": [
       "+28% DMG to players",
       "+14% fans capacity"
@@ -3041,10 +2831,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "D",
     "specialty": "Économie",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↑40% gold mining speed",
       "↑40% gold mining speed"
@@ -3085,10 +2872,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "+20% Skill DMG",
       "+50% basic ATK"
@@ -3129,10 +2913,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "S",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑80% basic attack damage dealt",
       "↓12% skill damage taken"
@@ -3173,10 +2954,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -3217,10 +2995,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Basic Attack Damage Reduction",
       "2% Fan Capacity"
@@ -3261,10 +3036,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "S+",
     "specialty": "Augmentation dommage",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑30% skill damage",
       "↑30% player damage"
@@ -3306,10 +3078,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Basic Attack Damage Reduction",
       "40% Drive Speed Increase"
@@ -3350,10 +3119,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "C",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Skill Damage Reduction",
       "15% Damage Increase World Building Guard"
@@ -3395,10 +3161,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "A",
     "specialty": "Solo car",
-    "singStat": 40439,
-    "danceStat": 26213,
     "skills": [
       "↑28% skill damage",
       "↑14% fan cap"
@@ -3439,10 +3202,7 @@
     "rank": "UR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "A",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑50% basic attack damage dealt"
@@ -3483,10 +3243,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑240 dps when attacking gc/club/lm",
       "↑12% fan cap"
@@ -3529,10 +3286,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "B",
     "specialty": "Augmentation dommage",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑20% player damage",
       "↑40% gold mining speed"
@@ -3574,10 +3328,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑50% basic attack damage dealt",
       "↑10% fan cap"
@@ -3618,10 +3369,7 @@
     "rank": "R",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Économie",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Gold Brick Gather Speed"
     ],
@@ -3650,10 +3398,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "S",
     "specialty": "Mixte",
-    "singStat": 28069,
-    "danceStat": 42152,
     "skills": [
       "↑70% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -3694,10 +3439,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "A",
     "specialty": "Mixte",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑60% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -3738,10 +3480,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "S",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑80% basic attack damage dealt",
       "↑16% fan cap"
@@ -3782,10 +3521,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -3826,10 +3562,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "S",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+80% basic ATK",
       "+16% fans capacity"
@@ -3870,10 +3603,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "C",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑80% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -3914,10 +3644,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "S+",
     "specialty": "Augmentation dommage",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑30% player damage",
       "↑30% player damage"
@@ -3960,10 +3687,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "10% Skill Damage"
@@ -4004,10 +3728,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "S",
     "specialty": "Rassemblement",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑20% player damage",
       "↑10% rally fan cap"
@@ -4049,10 +3770,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "S+",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑24% damage to player",
       "↑16% fan cap"
@@ -4094,10 +3812,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑240 dps when attacking company",
       "↑12% fan cap"
@@ -4140,10 +3855,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Augmentation dommage",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑40% gold mining speed",
       "↑50% basic attack damage dealt"
@@ -4184,10 +3896,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "B",
     "specialty": "HQ defense",
-    "singStat": 22464,
-    "danceStat": 22464,
     "skills": [
       "↑200 dps when defending",
       "↑50% basic attack damage dealt"
@@ -4230,10 +3939,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 29950,
-    "danceStat": 29950,
     "skills": [
       "↑240 dps when attacking company",
       "↑12% fan cap"
@@ -4276,10 +3982,7 @@
     "rank": "R",
     "role": "센터",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Gold Brick Gather Speed"
     ],
@@ -4308,10 +4011,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "A",
     "specialty": "Dommage réduction",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↓12% skill damage taken",
       "↓12% basic attack damage taken"
@@ -4352,10 +4052,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Increase Normal Attack",
       "2% Fan Capacity"
@@ -4396,10 +4093,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑50% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -4440,10 +4134,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "↑32% damage to player",
       "↓12% basic attack damage taken"
@@ -4485,10 +4176,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "HQ defense",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑240 dps when defending",
       "↑36% damage to world building guard"
@@ -4532,10 +4220,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+40% DMG to players",
       "+20% rally fans capacity"
@@ -4576,10 +4261,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑24% player damage",
       "↓12% basic attack damage taken"
@@ -4621,10 +4303,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "B",
     "specialty": "Solo car",
-    "singStat": 34827,
-    "danceStat": 25071,
     "skills": [
       "↑24% skill damage",
       "↑12% fan cap"
@@ -4665,10 +4344,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑50% basic attack damage dealt",
       "↑10% fan cap"
@@ -4709,10 +4385,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "S",
     "specialty": "Augmentation dommage",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑20% player damage",
       "↑50% basic attack damage dealt"
@@ -4754,10 +4427,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Skill Damage Reduction",
       "40% Drive Speed Increase"
@@ -4798,10 +4468,7 @@
     "rank": "SR",
     "role": "댄서",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Vitesse de conduite",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "40% Drive Speed Increase"
@@ -4842,10 +4509,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "EDM",
-    "tier": "S",
     "specialty": "Rassemblement",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑20% player damage",
       "↑10% rally fan cap"
@@ -4887,10 +4551,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "↑200 dps when attacking company",
       "↑10% fan cap"
@@ -4933,10 +4594,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "5% Skill Damage Reduction",
       "2% Fan Capacity"
@@ -4977,10 +4635,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Pop",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+90% basic ATK",
       "+18% fans capacity"
@@ -5021,10 +4676,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "-12% skill DMG taken",
       "+90% basic ATK"
@@ -5065,10 +4717,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": 33542,
-    "danceStat": 33542,
     "skills": [
       "↑28% player damage",
       "↓12% skill damage taken"
@@ -5110,10 +4759,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "C",
     "specialty": "Augmentation dommage",
-    "singStat": 25851,
-    "danceStat": 19076,
     "skills": [
       "↑20% skill damage",
       "↑30% damage to world building guard"
@@ -5155,10 +4801,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Pop",
-    "tier": "S+",
     "specialty": "Augmentation dommage",
-    "singStat": 21554,
-    "danceStat": 21554,
     "skills": [
       "↑28% skill damage",
       "↑28% damage to player"
@@ -5200,10 +4843,7 @@
     "rank": "R",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "10% Basic Attack Damage"
     ],
@@ -5232,10 +4872,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 29023,
-    "danceStat": 20893,
     "skills": [
       "↑50% basic attack damage dealt",
       "↑10% fan cap"
@@ -5276,10 +4913,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "30% Gold Brick Gather Speed",
       "20% Normal Attack Damage"
@@ -5320,10 +4954,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 24959,
-    "danceStat": 24959,
     "skills": [
       "↑50% basic attack damage dealt",
       "↑10% fan cap"
@@ -5364,10 +4995,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+90% basic ATK",
       "+18% fans capacity"
@@ -5408,10 +5036,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Solo car",
-    "singStat": 26071,
-    "danceStat": 40154,
     "skills": [
       "↑14% fan cap",
       "↓12% basic attack damage taken"
@@ -5452,10 +5077,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
@@ -5496,10 +5118,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "S",
     "specialty": "Mixte",
-    "singStat": 14083,
-    "danceStat": 28166,
     "skills": [
       "↓12% basic damage reduction",
       "↑28% skill damage"
@@ -5540,10 +5159,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "36% skill DMG",
       "+18% fans capacity"
@@ -5584,10 +5200,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Rock",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+10% fans capacity",
       "+10% rally fans capacity"
@@ -5628,10 +5241,7 @@
     "rank": "SR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "D",
     "specialty": "Solo car",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "10% Skill Damage",
       "2% Fan Capacity"
@@ -5672,10 +5282,7 @@
     "rank": "SR",
     "role": "보컬",
     "genre": "Hip Hop",
-    "tier": "D",
     "specialty": "Augmentation dommage",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "20% Normal Attack Damage",
       "15% Damage Increase World Building Guard"
@@ -5717,10 +5324,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "B",
     "specialty": "HQ defense",
-    "singStat": 25071,
-    "danceStat": 34827,
     "skills": [
       "↑240 dps when defending",
       "↓12% basic attack damage taken"
@@ -5763,10 +5367,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "EDM",
-    "tier": "S",
     "specialty": "Rassemblement",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑20% player damage",
       "↑10% rally fan cap"
@@ -5808,10 +5409,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "Rock",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+90% basic ATK",
       "+18% fans capacity"
@@ -5852,10 +5450,7 @@
     "rank": "SSR",
     "role": "보컬",
     "genre": "Pop",
-    "tier": "S+",
     "specialty": "Mixte",
-    "singStat": 42437,
-    "danceStat": 28211,
     "skills": [
       "↑28% player damage",
       "↓12% basic attack damage taken"
@@ -5897,10 +5492,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "EDM",
-    "tier": "미분류",
     "specialty": "미분류",
-    "singStat": null,
-    "danceStat": null,
     "skills": [
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
@@ -5941,10 +5533,7 @@
     "rank": "SSR",
     "role": "댄서",
     "genre": "Rock",
-    "tier": "B",
     "specialty": "Mixte",
-    "singStat": 20893,
-    "danceStat": 29023,
     "skills": [
       "↑50% basic attack damage dealt",
       "↓12% basic attack damage taken"
@@ -5985,10 +5574,7 @@
     "rank": "SSR",
     "role": "센터",
     "genre": "R&B",
-    "tier": "C",
     "specialty": "Vitesse de conduite",
-    "singStat": 19076,
-    "danceStat": 25851,
     "skills": [
       "+20% DMG to World Building Guard & 50% Drive Speed",
       "+50% basic ATK"

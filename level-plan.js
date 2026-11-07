@@ -125,7 +125,7 @@ function render() {
     }
     genre.setAttribute("aria-label", item.genreLabel);
     genre.title = item.genreLabel;
-    meta.append(genre, document.createTextNode(`${item.role} · ${item.tier}`));
+    meta.append(genre, document.createTextNode(`${item.role}`));
     if (item.experienceExtraPercent > 0) {
       const bonus = document.createElement("span");
       bonus.className = "exp-bonus";

@@ -749,291 +749,549 @@
     "experienceMultipliers": [
       {
         "name": "Anya",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Anniversary"
       },
       {
         "name": "Kasha",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Rock",
+        "season": "Anniversary"
       },
       {
         "name": "Longkui",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "EDM",
+        "season": "Auction"
       },
       {
         "name": "Monica",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Pop",
+        "season": "Auction"
       },
       {
         "name": "Leilani",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Bali 1"
       },
       {
         "name": "Moana",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Bali 1"
       },
       {
         "name": "Ratih",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Bali 1"
       },
       {
         "name": "Sari",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Bali 1"
       },
       {
         "name": "Talia",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Bali 1"
       },
       {
         "name": "Dewi",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "R&B",
+        "season": "Bali 2"
       },
       {
         "name": "Lestari",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Pop",
+        "season": "Bali 2"
       },
       {
         "name": "Ningsih",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Hip-Hop",
+        "season": "Bali 2"
       },
       {
         "name": "Isla",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Pop",
+        "season": "Bali 3"
       },
       {
         "name": "Marina",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Hip-Hop",
+        "season": "Bali 3"
       },
       {
         "name": "Vivienne",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Rock",
+        "season": "Bali 3"
       },
       {
         "name": "Margot",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "EDM",
+        "season": "Bali 4"
       },
       {
         "name": "Sienna",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Rock",
+        "season": "Bali 4"
       },
       {
         "name": "Valentina",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "R&B",
+        "season": "Bali 4"
       },
       {
         "name": "Hestia",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Community Event"
       },
       {
         "name": "Kelly",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Community Event"
       },
       {
         "name": "Megan",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Community Event"
       },
       {
         "name": "Mellissa",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Community Event"
       },
       {
         "name": "Nastassja",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Community Event"
       },
       {
         "name": "Noora",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Community Event"
       },
       {
         "name": "Ruby",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Community Event"
       },
       {
         "name": "Rosemary",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Just Rosemary"
       },
       {
         "name": "Alice",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Original"
       },
       {
         "name": "Audrey",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Original"
       },
       {
         "name": "Aurora",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Original"
       },
       {
         "name": "Avery",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Original"
       },
       {
         "name": "Bella",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Original"
       },
       {
         "name": "Brooklyn",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Original"
       },
       {
         "name": "Caroline",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Original"
       },
       {
         "name": "Claire",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Original"
       },
       {
         "name": "Everly",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Original"
       },
       {
         "name": "Julia",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Original"
       },
       {
         "name": "Nova",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Original"
       },
       {
         "name": "Paisley",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Original"
       },
       {
         "name": "R or SR Girl",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Various",
+        "season": "Original"
       },
       {
         "name": "Savannah",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Original"
       },
       {
         "name": "Skylar",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Original"
       },
       {
         "name": "Zendaya",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Original"
       },
       {
         "name": "Ariadne",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Rome 1"
       },
       {
         "name": "Calliope",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Rome 1"
       },
       {
         "name": "Daphne",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Rome 1"
       },
       {
         "name": "Eirene",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Rome 1"
       },
       {
         "name": "Xenia",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Rome 1"
       },
       {
         "name": "Aurelia",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "EDM",
+        "season": "Rome 2"
       },
       {
         "name": "Cornelia",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "R&B",
+        "season": "Rome 2"
       },
       {
         "name": "Octavia",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Pop",
+        "season": "Rome 2"
       },
       {
         "name": "Antonia",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Rock",
+        "season": "Rome 3"
       },
       {
         "name": "Claudius",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Hip-Hop",
+        "season": "Rome 3"
       },
       {
         "name": "Flora",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "EDM",
+        "season": "Rome 3"
       },
       {
         "name": "Kendell",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Hip-Hop",
+        "season": "Rome 4"
       },
       {
         "name": "Sloane",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Pop",
+        "season": "Rome 4"
       },
       {
         "name": "Valerie",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Rock",
+        "season": "Rome 4"
       },
       {
         "name": "Cindy",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "SVS"
       },
       {
         "name": "Kesnia",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "SVS"
       },
       {
         "name": "Ayaka",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Tokyo 1"
       },
       {
         "name": "Chizuru",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Pop",
+        "season": "Tokyo 1"
       },
       {
         "name": "Kokoro",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Tokyo 1"
       },
       {
         "name": "Sora",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "R&B",
+        "season": "Tokyo 1"
       },
       {
         "name": "Yuuko",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Tokyo 1"
       },
       {
         "name": "Haruki",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Hip-Hop",
+        "season": "Tokyo 2"
       },
       {
         "name": "Miyuki",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "EDM",
+        "season": "Tokyo 2"
       },
       {
         "name": "Riku",
-        "extraPercent": 0
+        "extraPercent": 0,
+        "genre": "Rock",
+        "season": "Tokyo 2"
       },
       {
         "name": "Eri",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "R&B",
+        "season": "Tokyo 3"
       },
       {
         "name": "Hikari",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "Rock",
+        "season": "Tokyo 3"
       },
       {
         "name": "Rin",
-        "extraPercent": 0.2
+        "extraPercent": 0.2,
+        "genre": "EDM",
+        "season": "Tokyo 3"
       },
       {
         "name": "Aya",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "R&B",
+        "season": "Tokyo 4"
       },
       {
         "name": "Mio",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Hip-Hop",
+        "season": "Tokyo 4"
       },
       {
         "name": "Yumeno",
-        "extraPercent": 0.44
+        "extraPercent": 0.44,
+        "genre": "Pop",
+        "season": "Tokyo 4"
+      },
+      {
+        "name": "Anna",
+        "extraPercent": 0.2,
+        "genre": "R&B",
+        "season": "Anniversary 2"
+      },
+      {
+        "name": "Hana",
+        "extraPercent": 0.728,
+        "genre": "Pop",
+        "season": "Tokyo 5"
+      },
+      {
+        "name": "Rena",
+        "extraPercent": 0.728,
+        "genre": "R&B",
+        "season": "Tokyo 5"
+      },
+      {
+        "name": "Mizakura",
+        "extraPercent": 0.728,
+        "genre": "EDM",
+        "season": "Tokyo 5"
+      },
+      {
+        "name": "Arashi",
+        "extraPercent": 0.728,
+        "genre": "Hip-Hop",
+        "season": "Bali 5"
+      },
+      {
+        "name": "Momona",
+        "extraPercent": 0.728,
+        "genre": "EDM",
+        "season": "Bali 5"
+      },
+      {
+        "name": "Momosaki",
+        "extraPercent": 0.728,
+        "genre": "Rock",
+        "season": "Bali 5"
+      },
+      {
+        "name": "Elame",
+        "extraPercent": 0.728,
+        "genre": "Hip-Hop",
+        "season": "Rome 5"
+      },
+      {
+        "name": "Layla",
+        "extraPercent": 0.728,
+        "genre": "Pop",
+        "season": "Rome 5"
+      },
+      {
+        "name": "Nephthys",
+        "extraPercent": 0.728,
+        "genre": "R&B",
+        "season": "Rome 5"
+      },
+      {
+        "name": "Aoi",
+        "extraPercent": 1,
+        "genre": "EDM",
+        "season": "Tokyo 6"
+      },
+      {
+        "name": "Shiori",
+        "extraPercent": 1,
+        "genre": "R&B",
+        "season": "Tokyo 6"
+      },
+      {
+        "name": "Yukine",
+        "extraPercent": 1,
+        "genre": "Rock",
+        "season": "Tokyo 6"
+      },
+      {
+        "name": "Diah",
+        "extraPercent": 1,
+        "genre": "Pop",
+        "season": "Bali 6"
+      },
+      {
+        "name": "Kalani",
+        "extraPercent": 1,
+        "genre": "Hip-Hop",
+        "season": "Bali 6"
+      },
+      {
+        "name": "Tanya",
+        "extraPercent": 1,
+        "genre": "Rock",
+        "season": "Bali 6"
+      },
+      {
+        "name": "Cassia",
+        "extraPercent": 1,
+        "genre": "R&B",
+        "season": "Rome 6"
+      },
+      {
+        "name": "Serena",
+        "extraPercent": 1,
+        "genre": "Pop",
+        "season": "Rome 6"
+      },
+      {
+        "name": "Venalia",
+        "extraPercent": 1,
+        "genre": "EDM",
+        "season": "Rome 6"
       }
     ]
   },
@@ -1046,7 +1304,6 @@
       "role": "보컬",
       "genre": "R&B",
       "genreLabel": "R&B",
-      "tier": "C",
       "localImageFile": "images/artists/Sora.webp",
       "currentLevel": 100,
       "targetLevel": 105,
@@ -1070,7 +1327,6 @@
       "role": "센터",
       "genre": "Rock",
       "genreLabel": "록",
-      "tier": "A",
       "localImageFile": "images/artists/Claire.webp",
       "currentLevel": 110,
       "targetLevel": 120,
@@ -1099,7 +1355,6 @@
       "role": "센터",
       "genre": "Rock",
       "genreLabel": "록",
-      "tier": "C",
       "localImageFile": "images/artists/Mellissa.webp",
       "currentLevel": 100,
       "targetLevel": 120,
@@ -1138,7 +1393,6 @@
       "role": "센터",
       "genre": "EDM",
       "genreLabel": "EDM",
-      "tier": "A",
       "localImageFile": "images/artists/Kokoro.webp",
       "currentLevel": 120,
       "targetLevel": 125,
@@ -1162,7 +1416,6 @@
       "role": "센터",
       "genre": "EDM",
       "genreLabel": "EDM",
-      "tier": "B",
       "localImageFile": "images/artists/Everly.webp",
       "currentLevel": 80,
       "targetLevel": 100,

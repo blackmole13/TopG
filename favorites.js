@@ -71,7 +71,7 @@ async function renderPublishedFavorites() {
       const name = document.createElement("b");
       name.textContent = artist.nameKo;
       const meta = document.createElement("small");
-      meta.textContent = [artist.tier, artist.rank, artist.role].join(" · ");
+      meta.textContent = [artist.rank, artist.role].join(" · ");
       identity.append(name, meta);
       label.append(priority, image, identity);
       appendFavoriteSkills(label, artist.normalizedSkillEffects || skillsById.get(artist.id));

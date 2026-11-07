@@ -12,7 +12,7 @@ const button=(text,active,fn)=>{const b=el("button",active?"active":"",text);b.o
 
 function memberCard(id,label,tone=""){
   const a=artist(id),card=el("article","member "+tone);card.append(el("small","",label));
-  if(!a){card.append(el("b","","미편성"));return card} card.append(image(a),el("b","",a.nameKo),el("span","",`${a.tier} · ${a.rank} · ${a.role}`));return card;
+  if(!a){card.append(el("b","","미편성"));return card} card.append(image(a),el("b","",a.nameKo),el("span","",`${a.rank} · ${a.role}`));return card;
 }
 function firstOrder(dataset,id){let first=99,exit=99,was=false;dataset.seasons.forEach((p,i)=>{const active=p.battle.includes(id)||p.album.includes(id);if(active&&!was&&first===99)first=i;if(!active&&was&&exit===99)exit=i;was=active});return [first,exit]}
 function renderTimeline(){
