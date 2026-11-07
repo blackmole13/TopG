@@ -177,7 +177,7 @@
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
     ],
-    "season": "미분류",
+    "season": "Community Event",
     "description": "엔젤의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Angel.webp",
     "normalizedSkillEffects": [
@@ -855,7 +855,7 @@
       "+10% fans from selling CDs",
       "+10% fans from selling CDs"
     ],
-    "season": "미분류",
+    "season": "World Cup",
     "description": "바이룽의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Bailong.webp",
     "normalizedSkillEffects": [
@@ -1633,7 +1633,7 @@
       "+10% rally fans capacity",
       "+50% basic ATK"
     ],
-    "season": "미분류",
+    "season": "Community Event",
     "description": "엘라라의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Elara.webp",
     "normalizedSkillEffects": [
@@ -1674,7 +1674,7 @@
       "+10% rally fans capacity",
       "+50% basic ATK"
     ],
-    "season": "Ultimate Dream Girl Creation",
+    "season": "Community Event",
     "description": "엘라와의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Elawa.webp",
     "normalizedSkillEffects": [
@@ -2836,7 +2836,7 @@
       "↑40% gold mining speed",
       "↑40% gold mining speed"
     ],
-    "season": "Anniversary",
+    "season": "SVS",
     "description": "A talented Vocalist from Radiance.",
     "localImageFile": "images/artists/Kesnia.webp",
     "normalizedSkillEffects": [
@@ -5082,7 +5082,7 @@
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
     ],
-    "season": "Ultimate Dream Girl Creation",
+    "season": "Community Event",
     "description": "발렌타인의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Valentine.webp",
     "normalizedSkillEffects": [
@@ -5205,7 +5205,7 @@
       "+10% fans capacity",
       "+10% rally fans capacity"
     ],
-    "season": "Ultimate Dream Girl Creation",
+    "season": "Community Event",
     "description": "베스퍼의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Vesper.webp",
     "normalizedSkillEffects": [
@@ -5497,7 +5497,7 @@
       "+40% gold gathering speed",
       "+10% fans from selling CDs"
     ],
-    "season": "Ultimate Dream Girl Creation",
+    "season": "Community Event",
     "description": "윈잉의 시트 기준 아티스트 데이터입니다.",
     "localImageFile": "images/artists/Yunying.webp",
     "normalizedSkillEffects": [
