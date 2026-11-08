@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-08T15:17:23.640Z",
+  "version": 2,
+  "updatedAt": "2026-11-08T15:29:24.987Z",
   "seasons": [
     "기존 시즌",
     "도쿄 1",
@@ -22,6 +22,123 @@
     "발리 6",
     "로마 6"
   ],
+  "candidates": {
+    "기존 시즌": [
+      53,
+      75,
+      46,
+      73,
+      19,
+      62,
+      64,
+      9,
+      30,
+      16,
+      13,
+      15,
+      72,
+      36,
+      74,
+      23,
+      55
+    ],
+    "도쿄 1": [
+      65,
+      18,
+      71,
+      21,
+      40
+    ],
+    "발리 1": [
+      56,
+      41,
+      49,
+      61,
+      66
+    ],
+    "로마 1": [
+      26,
+      12,
+      28,
+      69,
+      20
+    ],
+    "도쿄 2": [
+      57,
+      48,
+      32
+    ],
+    "발리 2": [
+      51,
+      27,
+      42
+    ],
+    "로마 2": [
+      14,
+      54,
+      25
+    ],
+    "도쿄 3": [
+      58,
+      29,
+      34
+    ],
+    "발리 3": [
+      44,
+      68,
+      35
+    ],
+    "로마 3": [
+      10,
+      24,
+      31
+    ],
+    "도쿄 4": [
+      47,
+      17,
+      70
+    ],
+    "발리 4": [
+      43,
+      67,
+      63
+    ],
+    "로마 4": [
+      113,
+      111,
+      112
+    ],
+    "도쿄 5": [
+      118,
+      119,
+      120
+    ],
+    "발리 5": [
+      123,
+      121,
+      122
+    ],
+    "로마 5": [
+      126,
+      125,
+      124
+    ],
+    "도쿄 6": [
+      138,
+      129,
+      144
+    ],
+    "발리 6": [
+      133,
+      135,
+      139
+    ],
+    "로마 6": [
+      141,
+      137,
+      132
+    ]
+  },
   "selections": {
     "기존 시즌": [
       75,
@@ -798,7 +915,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Alice.webp",
       "normalizedSkillEffects": [
         {
@@ -832,7 +949,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "로마 3",
+      "season": "Rome 3",
       "localImageFile": "images/artists/Antonia.webp",
       "normalizedSkillEffects": [
         {
@@ -860,13 +977,47 @@
       ]
     },
     {
+      "id": 129,
+      "name": "Aoi",
+      "nameKo": "아오이",
+      "rank": "SSR",
+      "genre": "EDM",
+      "role": "보컬",
+      "season": "Tokyo 6",
+      "localImageFile": "images/artists/Aoi.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "-12% basic ATK DMG taken",
+          "normalizedText": "-12% basic ATK DMG taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        },
+        {
+          "sourceText": "+36% DMG to players",
+          "normalizedText": "+36% DMG to players",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 36,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "플레이어 대상 피해 +36%"
+        }
+      ]
+    },
+    {
       "id": 122,
       "name": "Arashi",
       "nameKo": "아라시",
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "센터",
-      "season": "발리 5",
+      "season": "Bali 5",
       "localImageFile": "images/artists/Landy.webp",
       "normalizedSkillEffects": [
         {
@@ -894,13 +1045,47 @@
       ]
     },
     {
+      "id": 12,
+      "name": "Ariadne",
+      "nameKo": "아리아드네",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "센터",
+      "season": "Rome 1",
+      "localImageFile": "images/artists/Ariadne.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 13,
       "name": "Audrey",
       "nameKo": "오드리",
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Audrey.webp",
       "normalizedSkillEffects": [
         {
@@ -935,7 +1120,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "로마 2",
+      "season": "Rome 2",
       "localImageFile": "images/artists/Aurelia.webp",
       "normalizedSkillEffects": [
         {
@@ -970,7 +1155,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Aurora.webp",
       "normalizedSkillEffects": [
         {
@@ -1004,7 +1189,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Avery.webp",
       "normalizedSkillEffects": [
         {
@@ -1038,7 +1223,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "도쿄 4",
+      "season": "Tokyo 4",
       "localImageFile": "images/artists/Aya.webp",
       "normalizedSkillEffects": [
         {
@@ -1072,7 +1257,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "도쿄 1",
+      "season": "Tokyo 1",
       "localImageFile": "images/artists/Ayaka.webp",
       "normalizedSkillEffects": [
         {
@@ -1106,7 +1291,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Bella.webp",
       "normalizedSkillEffects": [
         {
@@ -1140,7 +1325,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "보컬",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Brooklyn.webp",
       "normalizedSkillEffects": [
         {
@@ -1177,7 +1362,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "로마 1",
+      "season": "Rome 1",
       "localImageFile": "images/artists/Calliope.webp",
       "normalizedSkillEffects": [
         {
@@ -1211,7 +1396,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Caroline.webp",
       "normalizedSkillEffects": [
         {
@@ -1241,13 +1426,47 @@
       ]
     },
     {
+      "id": 132,
+      "name": "Cassia",
+      "nameKo": "카시아",
+      "rank": "SSR",
+      "genre": "R&B",
+      "role": "보컬",
+      "season": "Rome 6",
+      "localImageFile": "images/artists/Cassia.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "+90% basic ATK",
+          "normalizedText": "+90% basic ATK",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 90,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +90%"
+        },
+        {
+          "sourceText": "-12% skill DMG taken",
+          "normalizedText": "-12% skill DMG taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 21,
       "name": "Chizuru",
       "nameKo": "치즈루",
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "도쿄 1",
+      "season": "Tokyo 1",
       "localImageFile": "images/artists/Chizuru.webp",
       "normalizedSkillEffects": [
         {
@@ -1282,7 +1501,7 @@
       "rank": "SR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Universal",
       "localImageFile": "images/artists/Chloe.webp",
       "normalizedSkillEffects": [
         {
@@ -1316,7 +1535,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": null,
+      "season": "SVS",
       "localImageFile": "images/artists/Cindy.webp",
       "normalizedSkillEffects": [
         {
@@ -1350,7 +1569,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Claire.webp",
       "normalizedSkillEffects": [
         {
@@ -1384,7 +1603,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "로마 3",
+      "season": "Rome 3",
       "localImageFile": "images/artists/Claudius.webp",
       "normalizedSkillEffects": [
         {
@@ -1414,13 +1633,49 @@
       ]
     },
     {
+      "id": 25,
+      "name": "Cornelia",
+      "nameKo": "코넬리아",
+      "rank": "SSR",
+      "genre": "R&B",
+      "role": "댄서",
+      "season": "Rome 2",
+      "localImageFile": "images/artists/Cornelia.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when defending",
+          "normalizedText": "↑240 dps when defending",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "defending",
+          "target": null,
+          "displayTextKo": "방어 시 DPS +240"
+        },
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 26,
       "name": "Daphne",
       "nameKo": "대프니",
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "로마 1",
+      "season": "Rome 1",
       "localImageFile": "images/artists/Daphne.webp",
       "normalizedSkillEffects": [
         {
@@ -1454,7 +1709,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "발리 2",
+      "season": "Bali 2",
       "localImageFile": "images/artists/Dewi.webp",
       "normalizedSkillEffects": [
         {
@@ -1488,7 +1743,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "발리 6",
+      "season": "Bali 6",
       "localImageFile": "images/artists/Diah.webp",
       "normalizedSkillEffects": [
         {
@@ -1522,7 +1777,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "보컬",
-      "season": "로마 1",
+      "season": "Rome 1",
       "localImageFile": "images/artists/Eirene.webp",
       "normalizedSkillEffects": [
         {
@@ -1556,7 +1811,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "로마 5",
+      "season": "Rome 5",
       "localImageFile": "images/artists/Elame.webp",
       "normalizedSkillEffects": [
         {
@@ -1590,7 +1845,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "발리 3",
+      "season": "Bali 3",
       "localImageFile": "images/artists/Isla.webp",
       "normalizedSkillEffects": [
         {
@@ -1625,7 +1880,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "도쿄 3",
+      "season": "Tokyo 3",
       "localImageFile": "images/artists/Eri.webp",
       "normalizedSkillEffects": [
         {
@@ -1659,7 +1914,7 @@
       "rank": "SR",
       "genre": "Pop",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Universal",
       "localImageFile": "images/artists/Evelyn.webp",
       "normalizedSkillEffects": [
         {
@@ -1693,7 +1948,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Everly.webp",
       "normalizedSkillEffects": [
         {
@@ -1721,13 +1976,81 @@
       ]
     },
     {
+      "id": 31,
+      "name": "Flora",
+      "nameKo": "플로라",
+      "rank": "SSR",
+      "genre": "EDM",
+      "role": "센터",
+      "season": "Rome 3",
+      "localImageFile": "images/artists/Flora.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑12% fan cap",
+          "normalizedText": "↑12% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +12%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Hana",
+      "nameKo": "하나",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "댄서",
+      "season": "Tokyo 5",
+      "localImageFile": "images/artists/Hana.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑80% basic attack damage dealt",
+          "normalizedText": "↑80% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 80,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +80%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 32,
       "name": "Haruki",
       "nameKo": "하루키",
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "센터",
-      "season": "도쿄 2",
+      "season": "Tokyo 2",
       "localImageFile": "images/artists/Haruki.webp",
       "normalizedSkillEffects": [
         {
@@ -1755,13 +2078,48 @@
       ]
     },
     {
+      "id": 34,
+      "name": "Hikari",
+      "nameKo": "히카리",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "센터",
+      "season": "Tokyo 3",
+      "localImageFile": "images/artists/Hikari.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑24% player damage",
+          "normalizedText": "↑24% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 24,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +24%"
+        },
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 36,
       "name": "Julia",
       "nameKo": "줄리아",
       "rank": "SSR",
       "genre": "R&B",
       "role": "보컬",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Julia.webp",
       "normalizedSkillEffects": [
         {
@@ -1789,13 +2147,47 @@
       ]
     },
     {
+      "id": 135,
+      "name": "Kalani",
+      "nameKo": "칼라니",
+      "rank": "SSR",
+      "genre": "Hip Hop",
+      "role": "보컬",
+      "season": "Bali 6",
+      "localImageFile": "images/artists/Kalani.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "-12% basic ATK DMG taken",
+          "normalizedText": "-12% basic ATK DMG taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        },
+        {
+          "sourceText": "+90% basic ATK",
+          "normalizedText": "+90% basic ATK",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 90,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +90%"
+        }
+      ]
+    },
+    {
       "id": 37,
       "name": "Keisha",
       "nameKo": "케이샤",
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": null,
+      "season": "Anniversary",
       "localImageFile": "images/artists/Kasha.webp",
       "normalizedSkillEffects": [
         {
@@ -1830,7 +2222,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "보컬",
-      "season": null,
+      "season": "Community Event",
       "localImageFile": "images/artists/Kelly.webp",
       "normalizedSkillEffects": [
         {
@@ -1864,7 +2256,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "로마 4",
+      "season": "Rome 4",
       "localImageFile": "images/artists/Kendell.webp",
       "normalizedSkillEffects": [
         {
@@ -1899,7 +2291,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "도쿄 1",
+      "season": "Tokyo 1",
       "localImageFile": "images/artists/Kokoro.webp",
       "normalizedSkillEffects": [
         {
@@ -1927,13 +2319,47 @@
       ]
     },
     {
+      "id": 125,
+      "name": "Layla",
+      "nameKo": "레일라",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "보컬",
+      "season": "Rome 5",
+      "localImageFile": "images/artists/Layla.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑80% basic attack damage dealt",
+          "normalizedText": "↑80% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 80,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +80%"
+        },
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 41,
       "name": "Leilani",
       "nameKo": "레일라니",
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "발리 1",
+      "season": "Bali 1",
       "localImageFile": "images/artists/Leilani.webp",
       "normalizedSkillEffects": [
         {
@@ -1967,7 +2393,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Auction",
       "localImageFile": "images/artists/Longkui.webp",
       "normalizedSkillEffects": [
         {
@@ -2002,7 +2428,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "발리 4",
+      "season": "Bali 4",
       "localImageFile": "images/artists/Margot.webp",
       "normalizedSkillEffects": [
         {
@@ -2030,13 +2456,49 @@
       ]
     },
     {
+      "id": 44,
+      "name": "Marina",
+      "nameKo": "마리나",
+      "rank": "SSR",
+      "genre": "Hip Hop",
+      "role": "보컬",
+      "season": "Bali 3",
+      "localImageFile": "images/artists/Marina.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when attacking gc/club/lm",
+          "normalizedText": "↑240 dps when attacking gc/club/lm",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "attacking",
+          "target": "GC/Club/LM",
+          "displayTextKo": "GC/클럽/LM 공격 시 DPS +240"
+        },
+        {
+          "sourceText": "↑12% fan cap",
+          "normalizedText": "↑12% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +12%"
+        }
+      ]
+    },
+    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Community Event",
       "localImageFile": "images/artists/Mellissa.webp",
       "normalizedSkillEffects": [
         {
@@ -2070,7 +2532,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "도쿄 4",
+      "season": "Tokyo 4",
       "localImageFile": "images/artists/Mio.webp",
       "normalizedSkillEffects": [
         {
@@ -2104,7 +2566,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "댄서",
-      "season": "도쿄 2",
+      "season": "Tokyo 2",
       "localImageFile": "images/artists/Miyuki.webp",
       "normalizedSkillEffects": [
         {
@@ -2138,7 +2600,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "도쿄 5",
+      "season": "Tokyo 5",
       "localImageFile": "images/artists/Mizakura.webp",
       "normalizedSkillEffects": [
         {
@@ -2166,13 +2628,47 @@
       ]
     },
     {
+      "id": 49,
+      "name": "Moana",
+      "nameKo": "모아나",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "보컬",
+      "season": "Bali 1",
+      "localImageFile": "images/artists/Moana.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 123,
       "name": "Momona",
       "nameKo": "모모나",
       "rank": "SSR",
       "genre": "EDM",
       "role": "댄서",
-      "season": "발리 5",
+      "season": "Bali 5",
       "localImageFile": "images/artists/Momona.webp",
       "normalizedSkillEffects": [
         {
@@ -2200,13 +2696,47 @@
       ]
     },
     {
+      "id": 121,
+      "name": "Momosaki",
+      "nameKo": "모모사키",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "보컬",
+      "season": "Bali 5",
+      "localImageFile": "images/artists/Momosaki.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑80% basic attack damage dealt",
+          "normalizedText": "↑80% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 80,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +80%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 76,
       "name": "Monica",
       "nameKo": "모니카",
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": null,
+      "season": "Auction",
       "localImageFile": "images/artists/Monica.webp",
       "normalizedSkillEffects": [
         {
@@ -2242,7 +2772,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "로마 5",
+      "season": "Rome 5",
       "localImageFile": "images/artists/Nephtys.webp",
       "normalizedSkillEffects": [
         {
@@ -2271,13 +2801,49 @@
       ]
     },
     {
+      "id": 51,
+      "name": "Ningsih",
+      "nameKo": "닝시",
+      "rank": "SSR",
+      "genre": "Hip Hop",
+      "role": "댄서",
+      "season": "Bali 2",
+      "localImageFile": "images/artists/Ningsih.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when attacking company",
+          "normalizedText": "↑240 dps when attacking company",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "attacking",
+          "target": "company",
+          "displayTextKo": "회사 공격 시 DPS +240"
+        },
+        {
+          "sourceText": "↑12% fan cap",
+          "normalizedText": "↑12% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +12%"
+        }
+      ]
+    },
+    {
       "id": 53,
       "name": "Nova",
       "nameKo": "노바",
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Nova.webp",
       "normalizedSkillEffects": [
         {
@@ -2307,13 +2873,49 @@
       ]
     },
     {
+      "id": 54,
+      "name": "Octavia",
+      "nameKo": "옥타비아",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "센터",
+      "season": "Rome 2",
+      "localImageFile": "images/artists/Octavia.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when attacking company",
+          "normalizedText": "↑240 dps when attacking company",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "attacking",
+          "target": "company",
+          "displayTextKo": "회사 공격 시 DPS +240"
+        },
+        {
+          "sourceText": "↑12% fan cap",
+          "normalizedText": "↑12% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +12%"
+        }
+      ]
+    },
+    {
       "id": 55,
       "name": "Paisley",
       "nameKo": "페이즐리",
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Paisley.webp",
       "normalizedSkillEffects": [
         {
@@ -2347,7 +2949,7 @@
       "rank": "SR",
       "genre": "R&B",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Universal",
       "localImageFile": "images/artists/Penelope.webp",
       "normalizedSkillEffects": [
         {
@@ -2381,7 +2983,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "발리 1",
+      "season": "Bali 1",
       "localImageFile": "images/artists/Ratih.webp",
       "normalizedSkillEffects": [
         {
@@ -2409,13 +3011,120 @@
       ]
     },
     {
+      "id": 118,
+      "name": "Rena",
+      "nameKo": "레나",
+      "rank": "SSR",
+      "genre": "R&B",
+      "role": "보컬",
+      "season": "Tokyo 5",
+      "localImageFile": "images/artists/Rena.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑32% damage to player",
+          "normalizedText": "↑32% damage to player",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 32,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +32%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Restari",
+      "nameKo": "레스타리",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "보컬",
+      "season": "Bali 2",
+      "localImageFile": "images/artists/Lestari.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when defending",
+          "normalizedText": "↑240 dps when defending",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "defending",
+          "target": null,
+          "displayTextKo": "방어 시 DPS +240"
+        },
+        {
+          "sourceText": "↑36% damage to world building guard",
+          "normalizedText": "↑36% damage to world building guard",
+          "category": "피해 증가",
+          "effectType": "world_building_guard_damage_increase",
+          "direction": "increase",
+          "value": 36,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "World Building Guard",
+          "displayTextKo": "월드 빌딩 가드 피해 +36%"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Riku",
+      "nameKo": "리쿠",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "보컬",
+      "season": "Tokyo 2",
+      "localImageFile": "images/artists/Riku.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑24% player damage",
+          "normalizedText": "↑24% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 24,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +24%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 58,
       "name": "Rin",
       "nameKo": "린",
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "도쿄 3",
+      "season": "Tokyo 3",
       "localImageFile": "images/artists/Rin.webp",
       "normalizedSkillEffects": [
         {
@@ -2449,7 +3158,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "보컬",
-      "season": null,
+      "season": "Just Rosemary",
       "localImageFile": "images/artists/Rosemary.webp",
       "normalizedSkillEffects": [
         {
@@ -2483,7 +3192,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "댄서",
-      "season": null,
+      "season": "Community Event",
       "localImageFile": "images/artists/Ruby.webp",
       "normalizedSkillEffects": [
         {
@@ -2512,13 +3221,48 @@
       ]
     },
     {
+      "id": 61,
+      "name": "Sari",
+      "nameKo": "사리",
+      "rank": "SSR",
+      "genre": "EDM",
+      "role": "보컬",
+      "season": "Bali 1",
+      "localImageFile": "images/artists/Sari.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% player damage",
+          "normalizedText": "↑20% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +20%"
+        },
+        {
+          "sourceText": "↑10% rally fan cap",
+          "normalizedText": "↑10% rally fan cap",
+          "category": "집결/팬 수용량",
+          "effectType": "rally_fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "집결 팬 수용량 +10%"
+        }
+      ]
+    },
+    {
       "id": 62,
       "name": "Savannah",
       "nameKo": "사바나",
       "rank": "SSR",
       "genre": "Pop",
       "role": "댄서",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Savannah.webp",
       "normalizedSkillEffects": [
         {
@@ -2554,7 +3298,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "댄서",
-      "season": "로마 6",
+      "season": "Rome 6",
       "localImageFile": "images/artists/Serena.webp",
       "normalizedSkillEffects": [
         {
@@ -2582,13 +3326,82 @@
       ]
     },
     {
+      "id": 138,
+      "name": "Shiori",
+      "nameKo": "시오리",
+      "rank": "SSR",
+      "genre": "R&B",
+      "role": "댄서",
+      "season": "Tokyo 6",
+      "localImageFile": "images/artists/Shiori.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "-12% skill DMG taken",
+          "normalizedText": "-12% skill DMG taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        },
+        {
+          "sourceText": "+90% basic ATK",
+          "normalizedText": "+90% basic ATK",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 90,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +90%"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Sienna",
+      "nameKo": "시에나",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "센터",
+      "season": "Bali 4",
+      "localImageFile": "images/artists/Sienna.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑28% player damage",
+          "normalizedText": "↑28% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 28,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +28%"
+        },
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 64,
       "name": "Skylar",
       "nameKo": "스카일러",
       "rank": "SSR",
       "genre": "Rock",
       "role": "보컬",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Skylar.webp",
       "normalizedSkillEffects": [
         {
@@ -2623,7 +3436,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "로마 4",
+      "season": "Rome 4",
       "localImageFile": "images/artists/Sloane.webp",
       "normalizedSkillEffects": [
         {
@@ -2658,7 +3471,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "보컬",
-      "season": "도쿄 1",
+      "season": "Tokyo 1",
       "localImageFile": "images/artists/Sora.webp",
       "normalizedSkillEffects": [
         {
@@ -2692,7 +3505,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "발리 1",
+      "season": "Bali 1",
       "localImageFile": "images/artists/Talia.webp",
       "normalizedSkillEffects": [
         {
@@ -2726,7 +3539,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "발리 6",
+      "season": "Bali 6",
       "localImageFile": "images/artists/Tanya.webp",
       "normalizedSkillEffects": [
         {
@@ -2760,7 +3573,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "발리 4",
+      "season": "Bali 4",
       "localImageFile": "images/artists/Valentina.webp",
       "normalizedSkillEffects": [
         {
@@ -2788,13 +3601,47 @@
       ]
     },
     {
+      "id": 113,
+      "name": "Valerie",
+      "nameKo": "발레리",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "댄서",
+      "season": "Rome 4",
+      "localImageFile": "images/artists/Valerie.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↓12% basic damage reduction",
+          "normalizedText": "↓12% basic damage reduction",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        },
+        {
+          "sourceText": "↑28% skill damage",
+          "normalizedText": "↑28% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 28,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +28%"
+        }
+      ]
+    },
+    {
       "id": 141,
       "name": "Venalia",
       "nameKo": "베날리아",
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "로마 6",
+      "season": "Rome 6",
       "localImageFile": "images/artists/Venalia.webp",
       "normalizedSkillEffects": [
         {
@@ -2822,13 +3669,84 @@
       ]
     },
     {
+      "id": 68,
+      "name": "Vivian",
+      "nameKo": "비비엔",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "댄서",
+      "season": "Bali 3",
+      "localImageFile": "images/artists/Vivienne.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑240 dps when defending",
+          "normalizedText": "↑240 dps when defending",
+          "category": "조건부 DPS",
+          "effectType": "conditional_dps",
+          "direction": "increase",
+          "value": 240,
+          "unit": "dps",
+          "normalizationStatus": "draft",
+          "condition": "defending",
+          "target": null,
+          "displayTextKo": "방어 시 DPS +240"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Xenia",
+      "nameKo": "제니아",
+      "rank": "SSR",
+      "genre": "EDM",
+      "role": "센터",
+      "season": "Rome 1",
+      "localImageFile": "images/artists/Xenia.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% player damage",
+          "normalizedText": "↑20% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +20%"
+        },
+        {
+          "sourceText": "↑10% rally fan cap",
+          "normalizedText": "↑10% rally fan cap",
+          "category": "집결/팬 수용량",
+          "effectType": "rally_fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "집결 팬 수용량 +10%"
+        }
+      ]
+    },
+    {
       "id": 144,
       "name": "Yukine",
       "nameKo": "유키네",
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "도쿄 6",
+      "season": "Tokyo 6",
       "localImageFile": "images/artists/Yukine.webp",
       "normalizedSkillEffects": [
         {
@@ -2856,13 +3774,48 @@
       ]
     },
     {
+      "id": 70,
+      "name": "Yumeno",
+      "nameKo": "유메노",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "보컬",
+      "season": "Tokyo 4",
+      "localImageFile": "images/artists/Yumeno.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑28% player damage",
+          "normalizedText": "↑28% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 28,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +28%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
       "id": 71,
       "name": "Yuuko",
       "nameKo": "유코",
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "도쿄 1",
+      "season": "Tokyo 1",
       "localImageFile": "images/artists/Yuuko.webp",
       "normalizedSkillEffects": [
         {
@@ -2896,7 +3849,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "기존 시즌",
+      "season": "Original",
       "localImageFile": "images/artists/Zendayah.webp",
       "normalizedSkillEffects": [
         {
