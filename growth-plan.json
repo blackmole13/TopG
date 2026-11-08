@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T15:43:07.248Z",
+  "updatedAt": "2026-11-08T15:50:15.260Z",
   "seasons": [
     "기존 시즌",
     "도쿄 1",
@@ -949,7 +949,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "로마 3 · 주사위",
+      "season": "로마 3",
       "localImageFile": "images/artists/Antonia.webp",
       "normalizedSkillEffects": [
         {
@@ -983,7 +983,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "도쿄 6 · 주사위",
+      "season": "도쿄 6",
       "localImageFile": "images/artists/Aoi.webp",
       "normalizedSkillEffects": [
         {
@@ -1120,7 +1120,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "로마 2 · 워밍업",
+      "season": "로마 2",
       "localImageFile": "images/artists/Aurelia.webp",
       "normalizedSkillEffects": [
         {
@@ -1223,7 +1223,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "도쿄 4 · 워밍업",
+      "season": "도쿄 4",
       "localImageFile": "images/artists/Aya.webp",
       "normalizedSkillEffects": [
         {
@@ -1432,7 +1432,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "보컬",
-      "season": "로마 6 · 주사위",
+      "season": "로마 6",
       "localImageFile": "images/artists/Cassia.webp",
       "normalizedSkillEffects": [
         {
@@ -1466,7 +1466,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "도쿄 1 · 워밍업",
+      "season": "도쿄 1",
       "localImageFile": "images/artists/Chizuru.webp",
       "normalizedSkillEffects": [
         {
@@ -1603,7 +1603,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "로마 3 · 워밍업",
+      "season": "로마 3",
       "localImageFile": "images/artists/Claudius.webp",
       "normalizedSkillEffects": [
         {
@@ -1639,7 +1639,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "로마 2 · 주사위",
+      "season": "로마 2",
       "localImageFile": "images/artists/Cornelia.webp",
       "normalizedSkillEffects": [
         {
@@ -1709,7 +1709,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "발리 2 · 워밍업",
+      "season": "발리 2",
       "localImageFile": "images/artists/Dewi.webp",
       "normalizedSkillEffects": [
         {
@@ -1743,7 +1743,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "발리 6 · 워밍업",
+      "season": "발리 6",
       "localImageFile": "images/artists/Diah.webp",
       "normalizedSkillEffects": [
         {
@@ -1811,7 +1811,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "로마 5 · 상점",
+      "season": "로마 5",
       "localImageFile": "images/artists/Elame.webp",
       "normalizedSkillEffects": [
         {
@@ -1845,7 +1845,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "발리 3 · 워밍업",
+      "season": "발리 3",
       "localImageFile": "images/artists/Isla.webp",
       "normalizedSkillEffects": [
         {
@@ -1880,7 +1880,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "도쿄 3 · 상점",
+      "season": "도쿄 3",
       "localImageFile": "images/artists/Eri.webp",
       "normalizedSkillEffects": [
         {
@@ -1982,7 +1982,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "로마 3 · 상점",
+      "season": "로마 3",
       "localImageFile": "images/artists/Flora.webp",
       "normalizedSkillEffects": [
         {
@@ -2016,7 +2016,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "댄서",
-      "season": "도쿄 5 · 상점",
+      "season": "도쿄 5",
       "localImageFile": "images/artists/Hana.webp",
       "normalizedSkillEffects": [
         {
@@ -2050,7 +2050,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "센터",
-      "season": "도쿄 2 · 워밍업",
+      "season": "도쿄 2",
       "localImageFile": "images/artists/Haruki.webp",
       "normalizedSkillEffects": [
         {
@@ -2084,7 +2084,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "도쿄 3 · 워밍업",
+      "season": "도쿄 3",
       "localImageFile": "images/artists/Hikari.webp",
       "normalizedSkillEffects": [
         {
@@ -2153,7 +2153,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "발리 6 · 주사위",
+      "season": "발리 6",
       "localImageFile": "images/artists/Kalani.webp",
       "normalizedSkillEffects": [
         {
@@ -2256,7 +2256,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "로마 4 · 주사위",
+      "season": "로마 4",
       "localImageFile": "images/artists/Kendell.webp",
       "normalizedSkillEffects": [
         {
@@ -2325,7 +2325,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "보컬",
-      "season": "로마 5 · 주사위",
+      "season": "로마 5",
       "localImageFile": "images/artists/Layla.webp",
       "normalizedSkillEffects": [
         {
@@ -2359,7 +2359,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "발리 1 · 슬롯",
+      "season": "발리 1",
       "localImageFile": "images/artists/Leilani.webp",
       "normalizedSkillEffects": [
         {
@@ -2428,7 +2428,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "발리 4 · 주사위",
+      "season": "발리 4",
       "localImageFile": "images/artists/Margot.webp",
       "normalizedSkillEffects": [
         {
@@ -2462,7 +2462,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "보컬",
-      "season": "발리 3 · 주사위",
+      "season": "발리 3",
       "localImageFile": "images/artists/Marina.webp",
       "normalizedSkillEffects": [
         {
@@ -2532,7 +2532,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "도쿄 4 · 상점",
+      "season": "도쿄 4",
       "localImageFile": "images/artists/Mio.webp",
       "normalizedSkillEffects": [
         {
@@ -2566,7 +2566,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "댄서",
-      "season": "도쿄 2 · 상점",
+      "season": "도쿄 2",
       "localImageFile": "images/artists/Miyuki.webp",
       "normalizedSkillEffects": [
         {
@@ -2600,7 +2600,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "도쿄 5 · 워밍업",
+      "season": "도쿄 5",
       "localImageFile": "images/artists/Mizakura.webp",
       "normalizedSkillEffects": [
         {
@@ -2772,7 +2772,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "센터",
-      "season": "로마 5 · 워밍업",
+      "season": "로마 5",
       "localImageFile": "images/artists/Nephtys.webp",
       "normalizedSkillEffects": [
         {
@@ -2807,7 +2807,7 @@
       "rank": "SSR",
       "genre": "Hip Hop",
       "role": "댄서",
-      "season": "발리 2 · 상점",
+      "season": "발리 2",
       "localImageFile": "images/artists/Ningsih.webp",
       "normalizedSkillEffects": [
         {
@@ -2879,7 +2879,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "로마 2 · 상점",
+      "season": "로마 2",
       "localImageFile": "images/artists/Octavia.webp",
       "normalizedSkillEffects": [
         {
@@ -3017,7 +3017,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "보컬",
-      "season": "도쿄 5 · 주사위",
+      "season": "도쿄 5",
       "localImageFile": "images/artists/Rena.webp",
       "normalizedSkillEffects": [
         {
@@ -3052,7 +3052,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "보컬",
-      "season": "발리 2 · 주사위",
+      "season": "발리 2",
       "localImageFile": "images/artists/Lestari.webp",
       "normalizedSkillEffects": [
         {
@@ -3089,7 +3089,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "보컬",
-      "season": "도쿄 2 · 주사위",
+      "season": "도쿄 2",
       "localImageFile": "images/artists/Riku.webp",
       "normalizedSkillEffects": [
         {
@@ -3124,7 +3124,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "도쿄 3 · 주사위",
+      "season": "도쿄 3",
       "localImageFile": "images/artists/Rin.webp",
       "normalizedSkillEffects": [
         {
@@ -3227,7 +3227,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "보컬",
-      "season": "발리 1 · 워밍업",
+      "season": "발리 1",
       "localImageFile": "images/artists/Sari.webp",
       "normalizedSkillEffects": [
         {
@@ -3298,7 +3298,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "댄서",
-      "season": "로마 6 · 상점",
+      "season": "로마 6",
       "localImageFile": "images/artists/Serena.webp",
       "normalizedSkillEffects": [
         {
@@ -3332,7 +3332,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "도쿄 6 · 상점",
+      "season": "도쿄 6",
       "localImageFile": "images/artists/Shiori.webp",
       "normalizedSkillEffects": [
         {
@@ -3366,7 +3366,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "발리 4 · 워밍업",
+      "season": "발리 4",
       "localImageFile": "images/artists/Sienna.webp",
       "normalizedSkillEffects": [
         {
@@ -3436,7 +3436,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "센터",
-      "season": "로마 4 · 워밍업",
+      "season": "로마 4",
       "localImageFile": "images/artists/Sloane.webp",
       "normalizedSkillEffects": [
         {
@@ -3539,7 +3539,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "발리 6 · 상점",
+      "season": "발리 6",
       "localImageFile": "images/artists/Tanya.webp",
       "normalizedSkillEffects": [
         {
@@ -3573,7 +3573,7 @@
       "rank": "SSR",
       "genre": "R&B",
       "role": "댄서",
-      "season": "발리 4 · 상점",
+      "season": "발리 4",
       "localImageFile": "images/artists/Valentina.webp",
       "normalizedSkillEffects": [
         {
@@ -3607,7 +3607,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "로마 4 · 상점",
+      "season": "로마 4",
       "localImageFile": "images/artists/Valerie.webp",
       "normalizedSkillEffects": [
         {
@@ -3641,7 +3641,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "로마 6 · 워밍업",
+      "season": "로마 6",
       "localImageFile": "images/artists/Venalia.webp",
       "normalizedSkillEffects": [
         {
@@ -3675,7 +3675,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "댄서",
-      "season": "발리 3 · 상점",
+      "season": "발리 3",
       "localImageFile": "images/artists/Vivienne.webp",
       "normalizedSkillEffects": [
         {
@@ -3711,7 +3711,7 @@
       "rank": "SSR",
       "genre": "EDM",
       "role": "센터",
-      "season": "로마 1 · 워밍업",
+      "season": "로마 1",
       "localImageFile": "images/artists/Xenia.webp",
       "normalizedSkillEffects": [
         {
@@ -3746,7 +3746,7 @@
       "rank": "SSR",
       "genre": "Rock",
       "role": "센터",
-      "season": "도쿄 6 · 워밍업",
+      "season": "도쿄 6",
       "localImageFile": "images/artists/Yukine.webp",
       "normalizedSkillEffects": [
         {
@@ -3780,7 +3780,7 @@
       "rank": "SSR",
       "genre": "Pop",
       "role": "보컬",
-      "season": "도쿄 4 · 주사위",
+      "season": "도쿄 4",
       "localImageFile": "images/artists/Yumeno.webp",
       "normalizedSkillEffects": [
         {
