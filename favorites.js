@@ -106,3 +106,4 @@ async function renderPublishedFavorites() {
 }
 
 renderPublishedFavorites();
+const growthPlanNav='<a href="./growth-plan.html"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/><path d="M12 2v3M22 12h-3M12 22v-3M2 12h3"/></svg></span>육성 계획</a>';if(!document.querySelector('.pages-nav a[href="./growth-plan.html"]'))document.querySelector('.pages-nav a[href="./favorites.html"]')?.insertAdjacentHTML("beforebegin",growthPlanNav);

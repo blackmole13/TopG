@@ -65,6 +65,7 @@
     ['#query','#genre','#role','#skill'].forEach(id=>$(id).addEventListener('input',render));$('#modal').addEventListener('click',e=>{if(e.target===$('#modal'))close()});
     fetch('./artists.json').then(r=>{if(!r.ok)throw new Error();return r.json()}).then(data=>{artists=data;multiMenu('rank-options',['R','SR','SSR','UR'],null,rankColors,['R','SR','SSR']);const seasons=seasonOptions();multiMenu('season-options',seasons,null,null,loadSavedSeasons(seasons));updateMultiLabel('season-options',false,false);fillSelect('#genre',['Hip Hop','R&B','Rock','Pop','EDM'],v=>genreLabels[v]);fillSelect('#role',['보컬','댄서','센터']);fillSelect('#skill',['피해 증가','피해 감소','경제/골드 수집','이동/차량 속도','조건부 DPS','집결/팬 수용량','팬 수용량']);render()}).catch(()=>{$('#status').className='error';$('#status').textContent='아티스트 데이터를 불러오지 못했습니다. GitHub Pages에서 사이트를 열었는지 확인해 주세요.'});
   </script>
+<script>if(!document.querySelector('.pages-nav a[href="./growth-plan.html"]'))document.querySelector('.pages-nav a[href="./favorites.html"]')?.insertAdjacentHTML("beforebegin",'<a href="./growth-plan.html"><span class="pages-nav-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/><path d="M12 2v3M22 12h-3M12 22v-3M2 12h3"/></svg></span>육성 계획</a>');</script>
 </body>
 </html>
 
