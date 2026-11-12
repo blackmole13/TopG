@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T15:35:13.631Z",
+  "updatedAt": "2026-11-12T17:17:26.636Z",
   "rules": {
     "milestones": [
       20,
@@ -749,604 +749,371 @@
     "experienceMultipliers": [
       {
         "name": "Anya",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Anniversary"
+        "extraPercent": 0
       },
       {
         "name": "Kasha",
-        "extraPercent": 0.2,
-        "genre": "Rock",
-        "season": "Anniversary"
+        "extraPercent": 0.2
       },
       {
         "name": "Longkui",
-        "extraPercent": 0.2,
-        "genre": "EDM",
-        "season": "Auction"
+        "extraPercent": 0.2
       },
       {
         "name": "Monica",
-        "extraPercent": 0.2,
-        "genre": "Pop",
-        "season": "Auction"
+        "extraPercent": 0.2
       },
       {
         "name": "Leilani",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Bali 1"
+        "extraPercent": 0
       },
       {
         "name": "Moana",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Bali 1"
+        "extraPercent": 0
       },
       {
         "name": "Ratih",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Bali 1"
+        "extraPercent": 0
       },
       {
         "name": "Sari",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Bali 1"
+        "extraPercent": 0
       },
       {
         "name": "Talia",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Bali 1"
+        "extraPercent": 0
       },
       {
         "name": "Dewi",
-        "extraPercent": 0.2,
-        "genre": "R&B",
-        "season": "Bali 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Lestari",
-        "extraPercent": 0.2,
-        "genre": "Pop",
-        "season": "Bali 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Ningsih",
-        "extraPercent": 0.2,
-        "genre": "Hip-Hop",
-        "season": "Bali 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Isla",
-        "extraPercent": 0.2,
-        "genre": "Pop",
-        "season": "Bali 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Marina",
-        "extraPercent": 0.2,
-        "genre": "Hip-Hop",
-        "season": "Bali 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Vivienne",
-        "extraPercent": 0.2,
-        "genre": "Rock",
-        "season": "Bali 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Margot",
-        "extraPercent": 0.44,
-        "genre": "EDM",
-        "season": "Bali 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Sienna",
-        "extraPercent": 0.44,
-        "genre": "Rock",
-        "season": "Bali 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Valentina",
-        "extraPercent": 0.44,
-        "genre": "R&B",
-        "season": "Bali 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Hestia",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Kelly",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Megan",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Mellissa",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Nastassja",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Noora",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Ruby",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Community Event"
+        "extraPercent": 0
       },
       {
         "name": "Rosemary",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Just Rosemary"
+        "extraPercent": 0
       },
       {
         "name": "Alice",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Audrey",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Aurora",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Avery",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Bella",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Brooklyn",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Caroline",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Claire",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Everly",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Julia",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Nova",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Paisley",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "R or SR Girl",
-        "extraPercent": 0,
-        "genre": "Various",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Savannah",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Skylar",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Zendaya",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Original"
+        "extraPercent": 0
       },
       {
         "name": "Ariadne",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Rome 1"
+        "extraPercent": 0
       },
       {
         "name": "Calliope",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Rome 1"
+        "extraPercent": 0
       },
       {
         "name": "Daphne",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Rome 1"
+        "extraPercent": 0
       },
       {
         "name": "Eirene",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Rome 1"
+        "extraPercent": 0
       },
       {
         "name": "Xenia",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Rome 1"
+        "extraPercent": 0
       },
       {
         "name": "Aurelia",
-        "extraPercent": 0.2,
-        "genre": "EDM",
-        "season": "Rome 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Cornelia",
-        "extraPercent": 0.2,
-        "genre": "R&B",
-        "season": "Rome 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Octavia",
-        "extraPercent": 0.2,
-        "genre": "Pop",
-        "season": "Rome 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Antonia",
-        "extraPercent": 0.2,
-        "genre": "Rock",
-        "season": "Rome 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Claudius",
-        "extraPercent": 0.2,
-        "genre": "Hip-Hop",
-        "season": "Rome 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Flora",
-        "extraPercent": 0.2,
-        "genre": "EDM",
-        "season": "Rome 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Kendell",
-        "extraPercent": 0.44,
-        "genre": "Hip-Hop",
-        "season": "Rome 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Sloane",
-        "extraPercent": 0.44,
-        "genre": "Pop",
-        "season": "Rome 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Valerie",
-        "extraPercent": 0.44,
-        "genre": "Rock",
-        "season": "Rome 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Cindy",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "SVS"
+        "extraPercent": 0
       },
       {
         "name": "Kesnia",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "SVS"
+        "extraPercent": 0
       },
       {
         "name": "Ayaka",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Tokyo 1"
+        "extraPercent": 0
       },
       {
         "name": "Chizuru",
-        "extraPercent": 0,
-        "genre": "Pop",
-        "season": "Tokyo 1"
+        "extraPercent": 0
       },
       {
         "name": "Kokoro",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Tokyo 1"
+        "extraPercent": 0
       },
       {
         "name": "Sora",
-        "extraPercent": 0,
-        "genre": "R&B",
-        "season": "Tokyo 1"
+        "extraPercent": 0
       },
       {
         "name": "Yuuko",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Tokyo 1"
+        "extraPercent": 0
       },
       {
         "name": "Haruki",
-        "extraPercent": 0,
-        "genre": "Hip-Hop",
-        "season": "Tokyo 2"
+        "extraPercent": 0
       },
       {
         "name": "Miyuki",
-        "extraPercent": 0,
-        "genre": "EDM",
-        "season": "Tokyo 2"
+        "extraPercent": 0
       },
       {
         "name": "Riku",
-        "extraPercent": 0,
-        "genre": "Rock",
-        "season": "Tokyo 2"
+        "extraPercent": 0
       },
       {
         "name": "Eri",
-        "extraPercent": 0.2,
-        "genre": "R&B",
-        "season": "Tokyo 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Hikari",
-        "extraPercent": 0.2,
-        "genre": "Rock",
-        "season": "Tokyo 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Rin",
-        "extraPercent": 0.2,
-        "genre": "EDM",
-        "season": "Tokyo 3"
+        "extraPercent": 0.2
       },
       {
         "name": "Aya",
-        "extraPercent": 0.44,
-        "genre": "R&B",
-        "season": "Tokyo 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Mio",
-        "extraPercent": 0.44,
-        "genre": "Hip-Hop",
-        "season": "Tokyo 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Yumeno",
-        "extraPercent": 0.44,
-        "genre": "Pop",
-        "season": "Tokyo 4"
+        "extraPercent": 0.44
       },
       {
         "name": "Anna",
-        "extraPercent": 0.2,
-        "genre": "R&B",
-        "season": "Anniversary 2"
+        "extraPercent": 0.2
       },
       {
         "name": "Hana",
-        "extraPercent": 0.728,
-        "genre": "Pop",
-        "season": "Tokyo 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Rena",
-        "extraPercent": 0.728,
-        "genre": "R&B",
-        "season": "Tokyo 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Mizakura",
-        "extraPercent": 0.728,
-        "genre": "EDM",
-        "season": "Tokyo 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Arashi",
-        "extraPercent": 0.728,
-        "genre": "Hip-Hop",
-        "season": "Bali 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Momona",
-        "extraPercent": 0.728,
-        "genre": "EDM",
-        "season": "Bali 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Momosaki",
-        "extraPercent": 0.728,
-        "genre": "Rock",
-        "season": "Bali 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Elame",
-        "extraPercent": 0.728,
-        "genre": "Hip-Hop",
-        "season": "Rome 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Layla",
-        "extraPercent": 0.728,
-        "genre": "Pop",
-        "season": "Rome 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Nephthys",
-        "extraPercent": 0.728,
-        "genre": "R&B",
-        "season": "Rome 5"
+        "extraPercent": 0.728
       },
       {
         "name": "Aoi",
-        "extraPercent": 1,
-        "genre": "EDM",
-        "season": "Tokyo 6"
+        "extraPercent": 1
       },
       {
         "name": "Shiori",
-        "extraPercent": 1,
-        "genre": "R&B",
-        "season": "Tokyo 6"
+        "extraPercent": 1
       },
       {
         "name": "Yukine",
-        "extraPercent": 1,
-        "genre": "Rock",
-        "season": "Tokyo 6"
+        "extraPercent": 1
       },
       {
         "name": "Diah",
-        "extraPercent": 1,
-        "genre": "Pop",
-        "season": "Bali 6"
+        "extraPercent": 1
       },
       {
         "name": "Kalani",
-        "extraPercent": 1,
-        "genre": "Hip-Hop",
-        "season": "Bali 6"
+        "extraPercent": 1
       },
       {
         "name": "Tanya",
-        "extraPercent": 1,
-        "genre": "Rock",
-        "season": "Bali 6"
+        "extraPercent": 1
       },
       {
         "name": "Cassia",
-        "extraPercent": 1,
-        "genre": "R&B",
-        "season": "Rome 6"
+        "extraPercent": 1
       },
       {
         "name": "Serena",
-        "extraPercent": 1,
-        "genre": "Pop",
-        "season": "Rome 6"
+        "extraPercent": 1
       },
       {
         "name": "Venalia",
-        "extraPercent": 1,
-        "genre": "EDM",
-        "season": "Rome 6"
+        "extraPercent": 1
       }
     ]
   },
   "artists": [
-    {
-      "id": 65,
-      "name": "Sora",
-      "nameKo": "소라",
-      "rank": "SSR",
-      "role": "보컬",
-      "genre": "R&B",
-      "genreLabel": "R&B",
-      "localImageFile": "images/artists/Sora.webp",
-      "currentLevel": 100,
-      "targetLevel": 105,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 21500000,
-      "cards": 1200,
-      "gates": [
-        {
-          "level": 100,
-          "cards": 1200,
-          "included": true
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "Claire",
-      "nameKo": "클레어",
-      "rank": "SSR",
-      "role": "센터",
-      "genre": "Rock",
-      "genreLabel": "록",
-      "localImageFile": "images/artists/Claire.webp",
-      "currentLevel": 110,
-      "targetLevel": 120,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 55500000,
-      "cards": 2400,
-      "gates": [
-        {
-          "level": 110,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 115,
-          "cards": 1200,
-          "included": true
-        }
-      ]
-    },
     {
       "id": 46,
       "name": "Mellissa",
@@ -1356,67 +1123,92 @@
       "genre": "Rock",
       "genreLabel": "록",
       "localImageFile": "images/artists/Mellissa.webp",
-      "currentLevel": 100,
-      "targetLevel": 120,
-      "includeCurrentPromotion": true,
-      "experienceExtraPercent": 0,
-      "exp": 101000000,
-      "cards": 4800,
-      "gates": [
+      "normalizedSkillEffects": [
         {
-          "level": 100,
-          "cards": 1200,
-          "included": true
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
         },
         {
-          "level": 105,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 110,
-          "cards": 1200,
-          "included": true
-        },
-        {
-          "level": 115,
-          "cards": 1200,
-          "included": true
+          "sourceText": "↑10% fan cap",
+          "normalizedText": "↑10% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +10%"
         }
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Kokoro",
-      "nameKo": "코코로",
-      "rank": "SSR",
-      "role": "센터",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "localImageFile": "images/artists/Kokoro.webp",
+      ],
       "currentLevel": 120,
-      "targetLevel": 125,
+      "targetLevel": 140,
       "includeCurrentPromotion": true,
       "experienceExtraPercent": 0,
-      "exp": 31500000,
-      "cards": 1600,
+      "exp": 141000000,
+      "cards": 6400,
       "gates": [
         {
           "level": 120,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 125,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 130,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 135,
           "cards": 1600,
           "included": true
         }
       ]
     },
     {
-      "id": 30,
-      "name": "Everly",
-      "nameKo": "에블리",
+      "id": 71,
+      "name": "Yuuko",
+      "nameKo": "유코",
       "rank": "SSR",
-      "role": "센터",
-      "genre": "EDM",
-      "genreLabel": "EDM",
-      "localImageFile": "images/artists/Everly.webp",
+      "role": "댄서",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "localImageFile": "images/artists/Yuuko.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ],
       "currentLevel": 80,
       "targetLevel": 100,
       "includeCurrentPromotion": true,
@@ -1445,14 +1237,200 @@
           "included": true
         }
       ]
+    },
+    {
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "Rock",
+      "genreLabel": "록",
+      "localImageFile": "images/artists/Claire.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ],
+      "currentLevel": 110,
+      "targetLevel": 140,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 196500000,
+      "cards": 8800,
+      "gates": [
+        {
+          "level": 110,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 115,
+          "cards": 1200,
+          "included": true
+        },
+        {
+          "level": 120,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 125,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 130,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 135,
+          "cards": 1600,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Everly",
+      "nameKo": "에블리",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "localImageFile": "images/artists/Everly.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ],
+      "currentLevel": 90,
+      "targetLevel": 100,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 35500000,
+      "cards": 1600,
+      "gates": [
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Kokoro",
+      "nameKo": "코코로",
+      "rank": "SSR",
+      "role": "센터",
+      "genre": "EDM",
+      "genreLabel": "EDM",
+      "localImageFile": "images/artists/Kokoro.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "+20% Skill DMG",
+          "normalizedText": "+20% Skill DMG",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "+50% basic ATK",
+          "normalizedText": "+50% basic ATK",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ],
+      "currentLevel": 120,
+      "targetLevel": 140,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 141000000,
+      "cards": 6400,
+      "gates": [
+        {
+          "level": 120,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 125,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 130,
+          "cards": 1600,
+          "included": true
+        },
+        {
+          "level": 135,
+          "cards": 1600,
+          "included": true
+        }
+      ]
     }
   ],
   "totals": {
-    "exp": 270500000,
+    "exp": 575000000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 13200
+        "cards": 26400
       },
       {
         "rank": "SR",
