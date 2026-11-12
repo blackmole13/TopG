@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T15:44:32.924Z",
+  "updatedAt": "2026-11-12T17:15:49.021Z",
   "seasons": [
     "초기",
     "도쿄 1",
@@ -17,7 +17,10 @@
     "로마 4",
     "도쿄 5",
     "발리 5",
-    "로마 5"
+    "로마 5",
+    "도쿄 6",
+    "발리 6",
+    "로마 6"
   ],
   "artists": [
     {
@@ -29,8 +32,8 @@
       "genre": "EDM",
       "role": "센터",
       "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
+      "endSeason": "로마 6",
+      "seasonCount": 19,
       "activeSeasons": [
         0,
         1,
@@ -47,7 +50,10 @@
         12,
         13,
         14,
-        15
+        15,
+        16,
+        17,
+        18
       ],
       "battleSeasons": [
         0,
@@ -65,7 +71,10 @@
         12,
         13,
         14,
-        15
+        15,
+        16,
+        17,
+        18
       ],
       "albumSeasons": [
         {
@@ -131,9 +140,46 @@
         {
           "season": 15,
           "role": "센터"
+        },
+        {
+          "season": 16,
+          "role": "센터"
+        },
+        {
+          "season": 17,
+          "role": "센터"
+        },
+        {
+          "season": 18,
+          "role": "센터"
         }
       ],
-      "localImageFile": "images/artists/Longkui.webp"
+      "localImageFile": "images/artists/Longkui.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑30% skill damage",
+          "normalizedText": "↑30% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 30,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +30%"
+        },
+        {
+          "sourceText": "↑30% player damage",
+          "normalizedText": "↑30% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 30,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +30%"
+        }
+      ]
     },
     {
       "priority": 2,
@@ -144,8 +190,8 @@
       "genre": "Rock",
       "role": "센터",
       "startSeason": "도쿄 1",
-      "endSeason": "로마 5",
-      "seasonCount": 15,
+      "endSeason": "로마 6",
+      "seasonCount": 18,
       "activeSeasons": [
         1,
         2,
@@ -161,7 +207,10 @@
         12,
         13,
         14,
-        15
+        15,
+        16,
+        17,
+        18
       ],
       "battleSeasons": [
         1,
@@ -178,7 +227,10 @@
         12,
         13,
         14,
-        15
+        15,
+        16,
+        17,
+        18
       ],
       "albumSeasons": [
         {
@@ -240,9 +292,45 @@
         {
           "season": 15,
           "role": "센터"
+        },
+        {
+          "season": 16,
+          "role": "서브"
+        },
+        {
+          "season": 17,
+          "role": "서브"
+        },
+        {
+          "season": 18,
+          "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Mellissa.webp"
+      "localImageFile": "images/artists/Mellissa.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        },
+        {
+          "sourceText": "↑10% fan cap",
+          "normalizedText": "↑10% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +10%"
+        }
+      ]
     },
     {
       "priority": 3,
@@ -337,7 +425,31 @@
           "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Alice.webp"
+      "localImageFile": "images/artists/Alice.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ]
     },
     {
       "priority": 4,
@@ -348,8 +460,8 @@
       "genre": "EDM",
       "role": "센터",
       "startSeason": "도쿄 1",
-      "endSeason": "로마 5",
-      "seasonCount": 15,
+      "endSeason": "발리 6",
+      "seasonCount": 17,
       "activeSeasons": [
         1,
         2,
@@ -365,7 +477,9 @@
         12,
         13,
         14,
-        15
+        15,
+        16,
+        17
       ],
       "battleSeasons": [
         1,
@@ -441,22 +555,55 @@
         {
           "season": 15,
           "role": "서브"
+        },
+        {
+          "season": 16,
+          "role": "서브"
+        },
+        {
+          "season": 17,
+          "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Kokoro.webp"
+      "localImageFile": "images/artists/Kokoro.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "+20% Skill DMG",
+          "normalizedText": "+20% Skill DMG",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "+50% basic ATK",
+          "normalizedText": "+50% basic ATK",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ]
     },
     {
       "priority": 5,
-      "id": 65,
-      "name": "Sora",
-      "nameKo": "소라",
+      "id": 23,
+      "name": "Claire",
+      "nameKo": "클레어",
       "rank": "SSR",
-      "genre": "R&B",
-      "role": "보컬",
-      "startSeason": "도쿄 1",
+      "genre": "Rock",
+      "role": "센터",
+      "startSeason": "초기",
       "endSeason": "로마 5",
-      "seasonCount": 15,
+      "seasonCount": 16,
       "activeSeasons": [
+        0,
         1,
         2,
         3,
@@ -474,6 +621,7 @@
         15
       ],
       "battleSeasons": [
+        0,
         1,
         2,
         3,
@@ -489,6 +637,240 @@
         13,
         14,
         15
+      ],
+      "albumSeasons": [
+        {
+          "season": 0,
+          "role": "센터"
+        },
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Claire.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ]
+    },
+    {
+      "priority": 6,
+      "id": 71,
+      "name": "Yuuko",
+      "nameKo": "유코",
+      "rank": "SSR",
+      "genre": "Rock",
+      "role": "댄서",
+      "startSeason": "도쿄 1",
+      "endSeason": "발리 3",
+      "seasonCount": 8,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "albumSeasons": [
+        {
+          "season": 1,
+          "role": "댄서"
+        },
+        {
+          "season": 2,
+          "role": "댄서"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Yuuko.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
+    },
+    {
+      "priority": 7,
+      "id": 65,
+      "name": "Sora",
+      "nameKo": "소라",
+      "rank": "SSR",
+      "genre": "R&B",
+      "role": "보컬",
+      "startSeason": "도쿄 1",
+      "endSeason": "로마 6",
+      "seasonCount": 18,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
       ],
       "albumSeasons": [
         {
@@ -550,12 +932,48 @@
         {
           "season": 15,
           "role": "보컬"
+        },
+        {
+          "season": 16,
+          "role": "보컬"
+        },
+        {
+          "season": 17,
+          "role": "보컬"
+        },
+        {
+          "season": 18,
+          "role": "보컬"
         }
       ],
-      "localImageFile": "images/artists/Sora.webp"
+      "localImageFile": "images/artists/Sora.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        },
+        {
+          "sourceText": "↑10% fan cap",
+          "normalizedText": "↑10% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +10%"
+        }
+      ]
     },
     {
-      "priority": 6,
+      "priority": 8,
       "id": 30,
       "name": "Everly",
       "nameKo": "에블리",
@@ -632,118 +1050,34 @@
           "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Everly.webp"
-    },
-    {
-      "priority": 7,
-      "id": 23,
-      "name": "Claire",
-      "nameKo": "클레어",
-      "rank": "SSR",
-      "genre": "Rock",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "battleSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "albumSeasons": [
+      "localImageFile": "images/artists/Everly.webp",
+      "normalizedSkillEffects": [
         {
-          "season": 0,
-          "role": "센터"
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
         },
         {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        },
-        {
-          "season": 3,
-          "role": "서브"
-        },
-        {
-          "season": 4,
-          "role": "서브"
-        },
-        {
-          "season": 5,
-          "role": "서브"
-        },
-        {
-          "season": 6,
-          "role": "서브"
-        },
-        {
-          "season": 7,
-          "role": "서브"
-        },
-        {
-          "season": 8,
-          "role": "서브"
-        },
-        {
-          "season": 9,
-          "role": "서브"
-        },
-        {
-          "season": 10,
-          "role": "서브"
-        },
-        {
-          "season": 11,
-          "role": "서브"
-        },
-        {
-          "season": 12,
-          "role": "서브"
-        },
-        {
-          "season": 13,
-          "role": "서브"
-        },
-        {
-          "season": 14,
-          "role": "서브"
-        },
-        {
-          "season": 15,
-          "role": "서브"
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
         }
-      ],
-      "localImageFile": "images/artists/Claire.webp"
+      ]
     },
     {
-      "priority": 8,
+      "priority": 9,
       "id": 22,
       "name": "Cindy",
       "nameKo": "신디",
@@ -798,122 +1132,31 @@
           "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Cindy.webp"
-    },
-    {
-      "priority": 9,
-      "id": 15,
-      "name": "Aurora",
-      "nameKo": "오로라",
-      "rank": "SSR",
-      "genre": "Pop",
-      "role": "센터",
-      "startSeason": "초기",
-      "endSeason": "로마 5",
-      "seasonCount": 16,
-      "activeSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "battleSeasons": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "albumSeasons": [
+      "localImageFile": "images/artists/Cindy.webp",
+      "normalizedSkillEffects": [
         {
-          "season": 0,
-          "role": "센터"
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
         },
         {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        },
-        {
-          "season": 3,
-          "role": "서브"
-        },
-        {
-          "season": 4,
-          "role": "서브"
-        },
-        {
-          "season": 5,
-          "role": "서브"
-        },
-        {
-          "season": 6,
-          "role": "서브"
-        },
-        {
-          "season": 7,
-          "role": "서브"
-        },
-        {
-          "season": 8,
-          "role": "서브"
-        },
-        {
-          "season": 9,
-          "role": "서브"
-        },
-        {
-          "season": 10,
-          "role": "서브"
-        },
-        {
-          "season": 11,
-          "role": "서브"
-        },
-        {
-          "season": 12,
-          "role": "서브"
-        },
-        {
-          "season": 13,
-          "role": "서브"
-        },
-        {
-          "season": 14,
-          "role": "서브"
-        },
-        {
-          "season": 15,
-          "role": "서브"
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
         }
-      ],
-      "localImageFile": "images/artists/Aurora.webp"
+      ]
     },
     {
       "priority": 10,
@@ -1016,115 +1259,34 @@
           "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Bella.webp"
+      "localImageFile": "images/artists/Bella.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑10% fan cap",
+          "normalizedText": "↑10% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +10%"
+        }
+      ]
     },
     {
       "priority": 11,
-      "id": 21,
-      "name": "Chizuru",
-      "nameKo": "치즈루",
-      "rank": "SSR",
-      "genre": "Pop",
-      "role": "센터",
-      "startSeason": "도쿄 1",
-      "endSeason": "로마 5",
-      "seasonCount": 15,
-      "activeSeasons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "battleSeasons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "albumSeasons": [
-        {
-          "season": 1,
-          "role": "서브"
-        },
-        {
-          "season": 2,
-          "role": "서브"
-        },
-        {
-          "season": 3,
-          "role": "서브"
-        },
-        {
-          "season": 4,
-          "role": "서브"
-        },
-        {
-          "season": 5,
-          "role": "서브"
-        },
-        {
-          "season": 6,
-          "role": "서브"
-        },
-        {
-          "season": 7,
-          "role": "서브"
-        },
-        {
-          "season": 8,
-          "role": "서브"
-        },
-        {
-          "season": 9,
-          "role": "서브"
-        },
-        {
-          "season": 10,
-          "role": "서브"
-        },
-        {
-          "season": 11,
-          "role": "서브"
-        },
-        {
-          "season": 12,
-          "role": "서브"
-        },
-        {
-          "season": 13,
-          "role": "서브"
-        },
-        {
-          "season": 14,
-          "role": "서브"
-        },
-        {
-          "season": 15,
-          "role": "서브"
-        }
-      ],
-      "localImageFile": "images/artists/Chizuru.webp"
-    },
-    {
-      "priority": 12,
       "id": 16,
       "name": "Avery",
       "nameKo": "에이버리",
@@ -1199,19 +1361,43 @@
           "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Avery.webp"
+      "localImageFile": "images/artists/Avery.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↓12% skill damage taken",
+          "normalizedText": "↓12% skill damage taken",
+          "category": "피해 감소",
+          "effectType": "skill_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 스킬 피해 -12%"
+        },
+        {
+          "sourceText": "↓12% basic attack damage taken",
+          "normalizedText": "↓12% basic attack damage taken",
+          "category": "피해 감소",
+          "effectType": "basic_attack_damage_reduction",
+          "direction": "reduce",
+          "value": 12,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "받는 기본 공격 피해 -12%"
+        }
+      ]
     },
     {
-      "priority": 13,
-      "id": 13,
-      "name": "Audrey",
-      "nameKo": "오드리",
+      "priority": 12,
+      "id": 15,
+      "name": "Aurora",
+      "nameKo": "오로라",
       "rank": "SSR",
-      "genre": "Hip Hop",
+      "genre": "Pop",
       "role": "센터",
       "startSeason": "초기",
-      "endSeason": "발리 3",
-      "seasonCount": 9,
+      "endSeason": "로마 6",
+      "seasonCount": 19,
       "activeSeasons": [
         0,
         1,
@@ -1221,12 +1407,37 @@
         5,
         6,
         7,
-        8
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
       ],
       "battleSeasons": [
         0,
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
       ],
       "albumSeasons": [
         {
@@ -1235,15 +1446,15 @@
         },
         {
           "season": 1,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 2,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 3,
-          "role": "센터"
+          "role": "서브"
         },
         {
           "season": 4,
@@ -1264,9 +1475,213 @@
         {
           "season": 8,
           "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        },
+        {
+          "season": 16,
+          "role": "서브"
+        },
+        {
+          "season": 17,
+          "role": "서브"
+        },
+        {
+          "season": 18,
+          "role": "서브"
         }
       ],
-      "localImageFile": "images/artists/Audrey.webp"
+      "localImageFile": "images/artists/Aurora.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑50% basic attack damage dealt",
+          "normalizedText": "↑50% basic attack damage dealt",
+          "category": "피해 증가",
+          "effectType": "basic_attack_damage_increase",
+          "direction": "increase",
+          "value": 50,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "기본 공격 피해 +50%"
+        }
+      ]
+    },
+    {
+      "priority": 13,
+      "id": 21,
+      "name": "Chizuru",
+      "nameKo": "치즈루",
+      "rank": "SSR",
+      "genre": "Pop",
+      "role": "센터",
+      "startSeason": "도쿄 1",
+      "endSeason": "발리 6",
+      "seasonCount": 17,
+      "activeSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "battleSeasons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "albumSeasons": [
+        {
+          "season": 1,
+          "role": "서브"
+        },
+        {
+          "season": 2,
+          "role": "서브"
+        },
+        {
+          "season": 3,
+          "role": "서브"
+        },
+        {
+          "season": 4,
+          "role": "서브"
+        },
+        {
+          "season": 5,
+          "role": "서브"
+        },
+        {
+          "season": 6,
+          "role": "서브"
+        },
+        {
+          "season": 7,
+          "role": "서브"
+        },
+        {
+          "season": 8,
+          "role": "서브"
+        },
+        {
+          "season": 9,
+          "role": "서브"
+        },
+        {
+          "season": 10,
+          "role": "서브"
+        },
+        {
+          "season": 11,
+          "role": "서브"
+        },
+        {
+          "season": 12,
+          "role": "서브"
+        },
+        {
+          "season": 13,
+          "role": "서브"
+        },
+        {
+          "season": 14,
+          "role": "서브"
+        },
+        {
+          "season": 15,
+          "role": "서브"
+        },
+        {
+          "season": 16,
+          "role": "서브"
+        },
+        {
+          "season": 17,
+          "role": "서브"
+        }
+      ],
+      "localImageFile": "images/artists/Chizuru.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% player damage",
+          "normalizedText": "↑20% player damage",
+          "category": "피해 증가",
+          "effectType": "player_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "target": "player",
+          "displayTextKo": "플레이어 피해 +20%"
+        },
+        {
+          "sourceText": "↑10% rally fan cap",
+          "normalizedText": "↑10% rally fan cap",
+          "category": "집결/팬 수용량",
+          "effectType": "rally_fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "집결 팬 수용량 +10%"
+        }
+      ]
     }
   ]
 }
