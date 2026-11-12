@@ -15,6 +15,9 @@
 <style>
 .timeline-cell{display:grid;place-items:stretch;align-content:center;gap:2px;padding:3px 0}.timeline-cell i{display:block;height:16px;border-radius:0;background:#f7f8f6;color:transparent;font-size:7px;font-style:normal;font-weight:900;line-height:16px;text-align:center}.timeline-cell i.battle.active{background:#dfeee2;color:#28633a}.timeline-cell i.album.active{background:#f5ead8;color:#81591f}
 </style>
+<style>
+.timeline{grid-template-columns:350px repeat(var(--favorite-season-count),minmax(44px,1fr));min-width:calc(350px + var(--favorite-season-count) * 46px)}
+</style>
 </head>
 <body>
 <div class="pages-layout">

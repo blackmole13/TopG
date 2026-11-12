@@ -48,6 +48,7 @@ async function renderPublishedFavorites() {
     corner.textContent = "선호 순위 / 시즌";
     chart.append(corner);
     const seasons = data.seasons ?? [];
+    chart.style.setProperty("--favorite-season-count", String(seasons.length));
     seasons.forEach((season) => {
       const head = document.createElement("div");
       head.className = "timeline-head";
