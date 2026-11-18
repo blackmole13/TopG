@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T17:17:26.636Z",
+  "updatedAt": "2026-11-18T18:10:57.643Z",
   "rules": {
     "milestones": [
       20,
@@ -1115,6 +1115,68 @@
   },
   "artists": [
     {
+      "id": 73,
+      "name": "Bella",
+      "nameKo": "벨라",
+      "rank": "SSR",
+      "role": "보컬",
+      "genre": "Hip Hop",
+      "genreLabel": "힙합",
+      "localImageFile": "images/artists/Bella.webp",
+      "normalizedSkillEffects": [
+        {
+          "sourceText": "↑20% skill damage",
+          "normalizedText": "↑20% skill damage",
+          "category": "피해 증가",
+          "effectType": "skill_damage_increase",
+          "direction": "increase",
+          "value": 20,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "스킬 피해 +20%"
+        },
+        {
+          "sourceText": "↑10% fan cap",
+          "normalizedText": "↑10% fan cap",
+          "category": "팬 수용량",
+          "effectType": "fan_capacity_increase",
+          "direction": "increase",
+          "value": 10,
+          "unit": "percent",
+          "normalizationStatus": "draft",
+          "displayTextKo": "팬 수용량 +10%"
+        }
+      ],
+      "currentLevel": 80,
+      "targetLevel": 100,
+      "includeCurrentPromotion": true,
+      "experienceExtraPercent": 0,
+      "exp": 61000000,
+      "cards": 3200,
+      "gates": [
+        {
+          "level": 80,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 85,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 90,
+          "cards": 800,
+          "included": true
+        },
+        {
+          "level": 95,
+          "cards": 800,
+          "included": true
+        }
+      ]
+    },
+    {
       "id": 46,
       "name": "Mellissa",
       "nameKo": "멜리사",
@@ -1426,11 +1488,11 @@
     }
   ],
   "totals": {
-    "exp": 575000000,
+    "exp": 636000000,
     "cardsByRank": [
       {
         "rank": "SSR",
-        "cards": 26400
+        "cards": 29600
       },
       {
         "rank": "SR",
